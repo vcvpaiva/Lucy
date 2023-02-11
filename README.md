@@ -3,4 +3,5 @@ The work here is based on a corpus of  abstracts from the journal TAC (Theory an
 This corpus is described in
 https://github.com/ToposInstitute/tac-corpus/.
 
-The file tac-clean.conll contains an automatically annotated version of the corpus, with dependency structures and POS tags, obtained via spacy.
+The file tac-clean.conll contains an automatically annotated version of the corpus, with dependency structures and POS tags, obtained via spacy. 
+The file tac-manual.conllu has an improved version, with manual corrections to be described.
