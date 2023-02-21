@@ -1,0 +1,753 @@
+$ c $: 104
+$ g $: 89
+$ v $: 82
+$ n $: 75
+$ x $: 70
+$ a $: 67
+$ k $: 60
+$ t $: 53
+$ s $: 48
+$ m $: 45
+$ e $: 42
+$ b $: 39
+$ f $: 34
+$ omega $: 33
+$ q $: 29
+$ l $: 26
+$ p $: 26
+$ lambda $: 25
+$ a_infty $: 21
+$ infty $: 20
+$ set $: 20
+$ d $: 20
+$ r $: 16
+$ j $: 16
+$ cal k $: 16
+$ cat $: 14
+$ phi $: 14
+$ cal a $: 14
+$ h $: 13
+$ cal c $: 13
+$ * $: 12
+$ sigma $: 12
+$ mathbb{c} $: 12
+$ bal $: 11
+$ y $: 10
+$ delta $: 9
+$ cal b $: 9
+$ sl $: 9
+$ alpha $: 9
+$ κ $: 9
+$ mathbb c $: 8
+$ cal d $: 8
+$ theta $: 7
+/: 7
+$ cal p $: 7
+$ kz $: 7
+$ cal v $: 7
+$ mathcal{q} $: 7
+$ t_0 $: 6
+$ (e, m) $: 6
+$ cal m $: 6
+$ mu $: 6
+$ (t, v) $: 6
+$ z $: 6
+$ w $: 6
+$ c^* $: 6
+$ ubal $: 6
+$ c* $: 5
+$ rel $: 5
+$ i $: 5
+$ n+1 $: 5
+$ rho $: 5
+$ r^+_g $: 5
+$ 3times 3 $: 5
+$ t_m $: 5
+$ mathcal{d} $: 4
+$ cal m_g $: 4
+$ {cal m} $: 4
+$ {cal r} $: 4
+$ cls $: 4
+$ spcal c $: 4
+$ cal s $: 4
+$ (n+1) $: 4
+$ psi $: 4
+$ mathbb{d} $: 4
+$ mathbb{x} $: 4
+$ cat(e) $: 4
+$ mathbb d $: 4
+$ cal e $: 4
+$ cal f $: 4
+$ ho(b) $: 4
+$ pdv $: 4
+$ spec(l) $: 4
+$ preord(c) $: 3
+$ gp $: 3
+$ y - mnd $: 3
+$ f : a - - &gt; b $: 3
+$ var $: 3
+$ mon g $: 3
+$ {mathcal l} $: 3
+$ mathcal v $: 3
+$ catc $: 3
+$ tilde{k} $: 3
+$ c/sigma $: 3
+$ sp^sigma(sab) $: 3
+$ cc $: 3
+$ rep(c, d) $: 3
+$ vect_k $: 3
+$ h^{1} $: 3
+$ cat/b $: 3
+$ mathbb d_0 $: 3
+$ c^infty $: 3
+$ ell $: 3
+$ cc(c, p) $: 3
+$ sm $: 3
+$ r(s) $: 3
+$ mathscr{c} $: 3
+$ mathcal{m} $: 3
+$ mathcal{e} $: 3
+$ con $: 2
+$ parord(c) $: 2
+$ preord(set) $: 2
+$ y - int $: 2
+$ cov(b) $: 2
+$ a_{infty} $: 2
+$ cat a $: 2
+$: 2
+$ e/m $: 2
+$ m(a, b) $: 2
+$ o(n) $: 2
+$ bi{rel} $: 2
+$ psm(a) $: 2
+$ shv(cal c) $: 2
+$ gray - cat $: 2
+$ r{cal o}(g, x) $: 2
+$ {bf cat}_{cal m} $: 2
+$ {cal v} $: 2
+$ v_0 $: 2
+$ {cal b} $: 2
+$ l* $: 2
+$ p : pto b $: 2
+$ p^{downarrow} : p^{downarrow}to b^{downarrow} $: 2
+$ ner(b) $: 2
+$ f : cal v to [cal a, cal a] $: 2
+$ u $: 2
+$ sigma^{( - )} $: 2
+$ a_* $: 2
+$ f f^2 rightarrow f c_{cal k} $: 2
+$ mbox{boldmath rho }^{square}_{2} (x) $: 2
+$ {bf g}_{2} (x) $: 2
+$ clikg $: 2
+$ r/n $: 2
+$ cr $: 2
+$ spec rho $: 2
+$ u(1) $: 2
+$ g_h $: 2
+$ px $: 2
+$ kar(c_d) $: 2
+$ spl(c^d) $: 2
+$ cal q(cal a) $: 2
+$ [0, infty] $: 2
+$ geo(l) $: 2
+$ act( - , x) $: 2
+$ alg(t, v) $: 2
+$ alg(t', v) $: 2
+$ c[sigma^{ - 1}] $: 2
+$ alpha x $: 2
+$ mathcal{q}^{op} $: 2
+$ mathbb{d} = mathrm{loc}(mathbb{c}) $: 2
+$ existsforall $: 2
+$ gc $: 2
+$ cal g $: 2
+$ scg $: 2
+$ k^j $: 2
+$ grd_x e $: 2
+$ tamb(a) $: 2
+$ z[a, v] $: 2
+$ [a, v] $: 2
+$ da $: 2
+$ [da, v] $: 2
+$ tamb_s(a) $: 2
+$ tamb_{ls}(a) $: 2
+$ |mor k| $: 2
+$ g - sets_{df} $: 2
+$ f^* $: 2
+$ mathcal{s} $: 2
+$ a_2 $: 2
+$ mathbb{f}_q $: 2
+$ span a $: 2
+$ h^* $: 2
+$ sup $: 2
+$ cospan(mathbb d_0) $: 2
+$ wdl^{(n)}(cal k) $: 2
+$ overline cal k $: 2
+$ btomathbb d $: 2
+$ yto b $: 2
+$ rep(g) $: 2
+$ c^*alg $: 2
+$ c^t $: 2
+$ mathbb{j} $: 2
+$ cal f^{ast m} $: 2
+$ cal e to cal b $: 2
+$ cal q_cal b $: 2
+$ mathcal w $: 2
+$ w(a)(k) $: 2
+$ bullet $: 2
+$ a_infty^hu $: 2
+$ pi_1(x, x_0) $: 2
+$ h(c) $: 2
+$ hom( - , x)/g $: 2
+$ finrelk $: 2
+$ q_0 $: 2
+$ wc $: 2
+$ pro(k) $: 2
+$ khaus $: 2
+$ (pi, lambda) $: 2
+$ rt(a', a) $: 2
+$ sub a $: 2
+$ mo $: 2
+$ mt $: 2
+$ c[w^{ - 1}] $: 2
+$ underline{v} $: 2
+$ phyl $: 2
+$ span|v $: 2
+$ e_leq $: 2
+$ vect $: 1
+$ u: t_1 - &gt; t_0 $: 1
+$ p: s[t_1/m] - &gt; s $: 1
+$ etop $: 1
+$ perm $: 1
+$ (a, m[ - n]) $: 1
+$ eq(c) $: 1
+$ f: preord(c) to pardord(c) $: 1
+$ spec(z) $: 1
+$ l' $: 1
+$ ks $: 1
+$ pt(c, b) $: 1
+$ {cal c}at $: 1
+$ m &gt;= n &gt; 0 $: 1
+$ [n, m] $: 1
+$ pi_k for n &lt;= k &lt;= m~ $: 1
+$ m+1 $: 1
+$ (n - 1) $: 1
+$ (m+1) $: 1
+$ i : c - - &gt; x $: 1
+$ etab : b - - &gt; ib $: 1
+$ if : ia - - &gt; ib $: 1
+$ p : e - - &gt; b $: 1
+$ p^*f $: 1
+$ c downarrow b subset c/b $: 1
+$ c downarrow b $: 1
+$ v - | w - | x - | y : b - - &gt; c $: 1
+$ vy $: 1
+$ e_{infty} $: 1
+$ e_n $: 1
+$ n - 1 $: 1
+$ n = 2 $: 1
+$ n=3 $: 1
+$ relk $: 1
+$ spnk $: 1
+$ park $: 1
+$ prok $: 1
+$ pro $: 1
+$ f:el - - - &gt; k $: 1
+$ rel f:relel - - - &gt;relk $: 1
+$ spn f:spnel - - - &gt; spnk $: 1
+$ v - - - &gt; w $: 1
+$ m =relk $: 1
+$ m=spnk $: 1
+$ spn $: 1
+$ spn g $: 1
+$ i - ss $: 1
+$ ssdownarrow ni $: 1
+$ ni $: 1
+$ from the category $: 1
+$ of small categories, with respective homotopy categories associated to $: 1
+$ omeg $: 1
+$ so(n) $: 1
+$ u(n) $: 1
+$ su(n) $: 1
+$ sp(n) $: 1
+$ spin(n) $: 1
+$ r:{cal u}x rightharpoonup x $: 1
+$ id subseteq rcirceta $: 1
+$ rcirc {cal u}r = rcircmu $: 1
+$ eta : x to {cal u}x $: 1
+$ mu : {cal u}({cal u}x) to {cal u}x $: 1
+$ {cal u} : bi{rel} to bi{rel} $: 1
+$ {cal u} : bi{set} to bi{set} $: 1
+$ eta $: 1
+$ t_1 $: 1
+$ {cal a} $: 1
+$ cal c_{ex/reg} $: 1
+$ {bf dcf}/{cal b} $: 1
+$ gray - catotimes - category $: 1
+$ notimes n cong n $: 1
+$ otimes $: 1
+$ sigma^x $: 1
+$ phimeet f(phi)=phimeet f(top) $: 1
+$ sigma^{( - )}dashvsigma^{( - )} $: 1
+$ c^{infty} $: 1
+$ rbbb{c} $: 1
+$ bbb{c} $: 1
+$ {cal o}(g, x) $: 1
+$ f : a longrightarrow b $: 1
+$ {bf gp} $: 1
+$ {bf cat} $: 1
+$ cat_m $: 1
+$ {cal j}{bf - colim} $: 1
+$ {em pseudomorphisms} $: 1
+$ f:rrightarrow s $: 1
+$ v = (v_0, otimes, i) $: 1
+$ a times b + a times c to a times (b + c) $: 1
+$ cal d to cal d_{ex} $: 1
+$ cal d_{ex} $: 1
+$ cal d_{ex}/a times cal d_{ex}/b to cal d_{ex}/(a + b) $: 1
+$ p : {cal e} to {cal b} $: 1
+$ p^{*}: [{cal b}, set] to [{cal e}, set] $: 1
+$ p(e)to b $: 1
+$ {cal e} $: 1
+$ p[{cal e}] $: 1
+$ {cal k}=alg(1, 1) $: 1
+$ alg(1, 1) $: 1
+$ alg $: 1
+$ tau a $: 1
+$ t^* $: 1
+$ p^{downarrow} $: 1
+$ lex[{mathcal c}^{op}, set] $: 1
+$ mathcal c^{op} $: 1
+$ (x_{12}, _ , x_{01}) in mhorn_2^1 $: 1
+$ &gt;2 $: 1
+$ * : cal v times cal a to cal a $: 1
+$ [cal a, cal a] $: 1
+$ mon f $: 1
+$ mon cal v $: 1
+$ mon [cal a, cal a] = mnd cal a $: 1
+$ x * - $: 1
+$ * a $: 1
+$ alg(coalg(s)) $: 1
+$ coalg(alg(s)) $: 1
+$ t - &gt; s $: 1
+$ cal{k} $: 1
+$ [cal{a}^{op}, set] $: 1
+$ [cal{b}^{op}, set] $: 1
+$ cal{a} to cal{b} $: 1
+$ [0, 1] $: 1
+$ {cal v} - cat rightarrow {cal w} - cat $: 1
+$ {cal v} rightarrow {cal w} $: 1
+$ f: {cal v} rightarrow {cal w} $: 1
+$ f_{sim} dashv f^{sim}: vskcrccat rightharpoonup wskcrccat $: 1
+$ a^l_* $: 1
+$ [e, ]_* $: 1
+$ (( - )^2, i, c) $: 1
+$ f : {cal k}^2 rightarrow cal k $: 1
+$ fi_{cal k} = 1_{cal k} $: 1
+$ ( - )^2 $: 1
+$ lambda/qlambda $: 1
+$ 2 $: 1
+$ nleq 2 $: 1
+$ g = 1 $: 1
+$ t([1], [0]) $: 1
+$ t([m], [0]) $: 1
+$ (0 leq m) $: 1
+$ opetope $: 1
+$ rho : c(x)to c(y) $: 1
+$ c^*(x)to c^*(y) $: 1
+$ lfp $: 1
+$ clikk $: 1
+$ e_1, ..., e_n $: 1
+$ t_1, ..., t_n $: 1
+$ t(x, t_1(x, y), ..., t_n(x, y)) = y $: 1
+$ t_i(x, x) = e_i $: 1
+$ i = 1, ..., n $: 1
+$ p' $: 1
+$ m ; g x g - &gt; g $: 1
+$ x tensor y iso 1 iso y tensor x $: 1
+$ x' $: 1
+$ i_x : 1 - &gt; x tensor x', e_x : x' tensor x - &gt; 1 $: 1
+$ g_h (h in z) $: 1
+$ g_h (h in r) $: 1
+$ [ . , . ] : l x l - &gt; l $: 1
+$ l_infty $: 1
+$ h = 0 $: 1
+$ pu(pl(x)) $: 1
+$ pu $: 1
+$ pl $: 1
+$ s^(s^x) $: 1
+$ pw $: 1
+$ s^x $: 1
+$ s^w $: 1
+$ klambda $: 1
+$ f : a rightarrow b $: 1
+$ a/c $: 1
+$ v - mod $: 1
+$ v - n $: 1
+$ v k $: 1
+$ (k - n) $: 1
+$ v - n - cat $: 1
+$ cat(c) - - &gt; preord(c) $: 1
+$ cat - - &gt; preord $: 1
+$ c = set $: 1
+$ (l, s) $: 1
+$ spl(c^d)(((l, s), t), ((l', s'), t'))=c^d((l, s)(l', s')) $: 1
+$ nc_theta $: 1
+$ a_theta $: 1
+$ pminfty $: 1
+$ der(g, a) $: 1
+$ (a, c) $: 1
+$ der( - , a) $: 1
+$ der(g, - ) $: 1
+$ mat(v) $: 1
+$ ho(cal k) $: 1
+$ lambda = omega_1 $: 1
+$ class $: 1
+$ phi^+ $: 1
+$ phi^ - $: 1
+$ cal p^+ $: 1
+$ cal p^ - $: 1
+$ phi(cal a) $: 1
+$ {(cal q(cal a^{op}))}^{op} $: 1
+$ {[cal a, cal v]}^{op} $: 1
+$ [cal a^{op}, cal v] $: 1
+$ cal q $: 1
+$ x^{2} $: 1
+$ cgc $: 1
+$ tgc $: 1
+$ f : set - - &gt; set $: 1
+$ act(g, x) $: 1
+$ alg(p, v) $: 1
+$ omega : ts st $: 1
+$ [x, x] $: 1
+$ s - t $: 1
+$ cbpv $: 1
+$ c' $: 1
+$ ff $: 1
+$ fg $: 1
+$ dist(q) $: 1
+$ mono(f_n), n &gt;= 0 $: 1
+$ f_n:mathbf{set}^{delta^{op}}rightarrowmathbf{set}^{delta^{op}_n} $: 1
+$ r = c(x) $: 1
+$ we $: 1
+$ fib $: 1
+$ cof $: 1
+$ cat = catset $: 1
+$ {a_i|iin i} $: 1
+$ y &gt; - - &gt; x $: 1
+$ f: a_i rightarrow x $: 1
+$ c(a_i, - ) $: 1
+$ n[x] $: 1
+$ m = u(1) $: 1
+$ g[x, x]=id_x $: 1
+$ c/{overline{sigma}} $: 1
+$ overline{sigma} $: 1
+$ c | - &gt; mnd(c) $: 1
+$ k(x) $: 1
+$ alpha x in k(x) $: 1
+$ rho : c(alpha x) to c(x) $: 1
+$ k_{epi}(x) $: 1
+$ k_{nepi}(x) $: 1
+$ k_z(x)subseteq k(x) $: 1
+$ xleq y $: 1
+$ sx leq sy xleq sx $: 1
+$ fc $: 1
+$ t : x - - &gt; x $: 1
+$ (x, t) $: 1
+$ mathbb{d} = mathrm{loc}mathbb{c} $: 1
+$ mathrm{pt}(mathcal{d}downarrow a) in mathbb{c} $: 1
+$ mathrm{pt}(mathcal{d}downarrow a) $: 1
+$ top $: 1
+$ fq $: 1
+$ a_infty(fq, a) to a_1(q, a) $: 1
+$ a_ $: 1
+$ q to a $: 1
+$ f dashv u : cal b to cal a $: 1
+$ f^{t}: cal a to cal a^{t} $: 1
+$ _{star} $: 1
+$ ( - )^{ } $: 1
+$ asimeq a^{ } $: 1
+$ hend_ad(x) $: 1
+$ alpha: sto t $: 1
+$ alpha_*: k^t to k^ s $: 1
+$ x : wedge^n to x $: 1
+$ wedge $: 1
+$ x +_i y $: 1
+$ ncob $: 1
+$ top(m, b(cal g)) $: 1
+$ b(cal g) $: 1
+$ gray $: 1
+$ downarrow p $: 1
+$ p : p to x $: 1
+$ neg a $: 1
+$ gamma_clik(atimes - ):cat/x to set $: 1
+$ top//b $: 1
+$ cat//b $: 1
+$ a= $: 1
+$ hot_a $: 1
+=: 1
+$ x + 1 = 1 $: 1
+$ x + x^2 = x^2 $: 1
+$ cd= $: 1
+$ cc/cb $: 1
+$ a_infty^u $: 1
+$ a mapsto a_infty^u(c, a)_{mod b} $: 1
+$ c to a $: 1
+$ e: c to d $: 1
+$ b hookrightarrow c to^e d $: 1
+$ c_k $: 1
+$ y: a to a_infty^u(a^{op}, c_k) $: 1
+$ c - - &gt; d $: 1
+$ d - - &gt; set $: 1
+$ cat(c, d) $: 1
+$ cal c/x $: 1
+$ cal c to cat $: 1
+$ ab $: 1
+$ n - grd_x e $: 1
+$ map(b)(t, a) $: 1
+$ alpha:xto a $: 1
+$ mu:xtimes xtimes xto a $: 1
+$ mu(x, y, y) = alpha(x) = mu(y, y, x) $: 1
+$ x, yin x $: 1
+$ a = x $: 1
+$ mathbf{set}^{mathbb{x}^mathrm{op}timesmathbb{x}} $: 1
+$ mathrm{hom}_{mathbb{x}}times mathrm{hom}_{mathbb{x}}times mathrm{hom}_{mathbb{x}}rightarrow a $: 1
+$ mathbb{x}^mathbb{x} $: 1
+$ arightarrow 1_mathbb{x}+1_mathbb{x}+1_mathbb{x} $: 1
+$ hom $: 1
+$ rel(v) $: 1
+$ d_sa $: 1
+$ d_{ls}a $: 1
+$ [d_sa, v] $: 1
+$ [d_{ls}a, v] $: 1
+$ m = (m, m, u) $: 1
+$ (mx, m) $: 1
+$ r : (mx, m) - - &gt; (a, a) $: 1
+$ t : (a, a) - - &gt; (mx, m) $: 1
+$ sl_n $: 1
+$ clik $: 1
+$ sharp $: 1
+$ id $: 1
+$ tens $: 1
+$ with $: 1
+$ g_delta $: 1
+$ (f^*, f_*) $: 1
+$ (f_*, f^clik) $: 1
+$ f_* $: 1
+$ s(x, x)=0 $: 1
+$ s(x, 0)=x $: 1
+$ mathcal{s}=mathrm{sub}( - ):mathbb{c}rightarrowmathbf{set}_* $: 1
+$ mathbf{set}_* $: 1
+$ tf_a $: 1
+$ h^3(z, a) $: 1
+$ omega_2 $: 1
+$ h^{2} $: 1
+$ (r, s) $: 1
+$ span : cat - - &gt; doub $: 1
+$ vrt : doub - - &gt; cat $: 1
+$ span : cat - - &gt; oplaxndoub $: 1
+$ 0 to k to^k x to^c c to 0 $: 1
+$ n &gt; 1 $: 1
+$ n &gt; 2 $: 1
+$ r^n $: 1
+$ lax(b, s) $: 1
+$ s = span $: 1
+$ lax(b, rel) $: 1
+$ lax(b, par) $: 1
+$ faa(x) - - &gt; x $: 1
+$ faa $: 1
+$ {cal q} $: 1
+$ sh $: 1
+$ p : cal e to cal s $: 1
+$ p_*to p_clik $: 1
+$ overline{w} $: 1
+$ gdashv overline{w} $: 1
+$ {ldashv r:cal x rightarrowcal y} $: 1
+$ cal y $: 1
+$ calx $: 1
+$ sh(c, j) $: 1
+$ [c^{op}, set] $: 1
+$ cv $: 1
+$ comod (cal v) $: 1
+$ wdl^{(0)}(cal k) $: 1
+$ mnd(cal k) $: 1
+$ mnd^{n+1}(ck) $: 1
+$ mnd $: 1
+$ wdl^{(n)}(ock)to wdl^{(n - 1)}(overline cal k) $: 1
+$ wdl^{(n)}(overline cal k)to wdl^{(0)}(overline cal k) $: 1
+$ wdl^{(n)}(cal k)to wdl^{(n - 1)}(cal k) $: 1
+$ wdl^{(n)}(overline cal k) $: 1
+$ mnd(overline cal k) $: 1
+$ mathbb t_g $: 1
+$ 0 $: 1
+$ v = (v, otimes, i, [ - , - ]) $: 1
+$ [ - , q] : to v^{op} $: 1
+$ [h, k]_{u} $: 1
+$ κ=∞ $: 1
+$ ∞ $: 1
+$ 3 $: 1
+$ rrightarrow xtimes y $: 1
+$ {rm lax}_n(b, mathbb d) $: 1
+$ lax_n(b, mathbb cat) simeq cat/b $: 1
+$ mathbb cat $: 1
+$ bto mathbb cat $: 1
+$ {mathbb d}_0/b $: 1
+$ xto clikb $: 1
+$ cal g v $: 1
+$ d ge 2 $: 1
+$ {mathbb r} $: 1
+$ spec $: 1
+$ mathbb r $: 1
+$ ( - )^{mathbf{2}} $: 1
+$ v - cat $: 1
+$ _{a}mathbb{s}_{a} $: 1
+$ a, $: 1
+$ - boxtimes _{a} - , $: 1
+$ _{a}mathbb{s}% _{a}, $: 1
+$ (mathcal{v}% , bullet , mathbf{i}) $: 1
+$ mathbb{j}:=mathbf{i}bullet - simeq - bullet mathbf{i}:mathcal{v}longrightarrow mathcal{v} $: 1
+$ st : bicat rightarrow 2cat $: 1
+$ p:cal e rightarrow cal s $: 1
+$ cal s = set $: 1
+$ hocolim_{delta^o} $: 1
+$ n geq 3 $: 1
+$ f maps x to y $: 1
+$ s maps y to x $: 1
+$ finstat $: 1
+$ top to set $: 1
+$ cal e to 1 $: 1
+$ {infty} $: 1
+$ (infty, 1) $: 1
+$ graycat $: 1
+$ mathcal x $: 1
+$ mathcal f : mathcal x to mathcal v $: 1
+$ mathcal g : mathcal x to mathcal w $: 1
+$ ... f^* g_* ... $: 1
+$ p:erightarrow b $: 1
+$ tr_2rho_f $: 1
+$ tr_2 $: 1
+$ (x, tau) $: 1
+$ pi $: 1
+$ ow $: 1
+$ sup ladj y : k rightarrow set^{k^{op}} $: 1
+$ w(a)(k)= set^{set^{k^{op}}}(k(a, sup - ), [k, - ]) $: 1
+$ [k, - ] $: 1
+$ w : k rightarrow hat{k} = set^{k^{op}} $: 1
+$ beta : wsup rightarrow 1_{hat{k}} $: 1
+$ gamma : sup w rightarrow 1_k $: 1
+$ supbeta =gammasup $: 1
+$ beta w =wgamma $: 1
+$ w ladj sup $: 1
+$ tilde{k}(k, a) $: 1
+$ bullet : tilde{k}circ_{k}tilde{k} rightarrow tilde{k} $: 1
+$ tilde{k}( - , - ) rightarrow k( - , - ) $: 1
+$ delta : w rightarrow y $: 1
+$ beta $: 1
+$ tilde{k} circ_{k} tilde{k} = tilde{k} circ_{tilde{k}} tilde{k} $: 1
+$ bullet k $: 1
+$ k bullet $: 1
+$ imod(1, t) $: 1
+$ k rightarrow imod(1, tilde{k}) $: 1
+$ c//g $: 1
+$ p:tilde{u} to u $: 1
+$ (c, p) $: 1
+$ h : cc to cc(c, p) $: 1
+$ + $: 1
+$ (d, otimes) $: 1
+$ f : (c, +) to (d, otimes) $: 1
+$ x rightarrow n leftarrow y $: 1
+$ 1 to fn $: 1
+$ hom( - , x) $: 1
+$ aut(x) $: 1
+$ c to vect $: 1
+$ qcoh(x) $: 1
+$ p: e - - &gt; s $: 1
+$ p^clik: s - - &gt; e $: 1
+$ e_{negneg} - - &gt; e $: 1
+$ xass simeq cat^1 - ass $: 1
+$ cat^1 - ass $: 1
+$ k = r(s) $: 1
+$ finvectk $: 1
+$ t^{(infty, n)} (ninmathbb{n}) $: 1
+$ infty - gr $: 1
+$ t^{(infty, 0)} $: 1
+$ t^{(infty, n)} $: 1
+$ (infty, n) $: 1
+$ (infty, 0) $: 1
+$ lambda = aleph_0 $: 1
+$ aleph_0 $: 1
+$ s^bg} $: 1
+$ l: s to s $: 1
+$ lg $: 1
+$ lx $: 1
+$ kappa:xto a $: 1
+$ &lt; kappa, kappa&gt;: xto atimes a $: 1
+$ ato b leftarrow a' $: 1
+$ alg_w(t) $: 1
+$ w = l $: 1
+$ ps $: 1
+$ alg_w(t) - - &gt; k $: 1
+$ e_2 $: 1
+$ k^{op} $: 1
+$ bav $: 1
+$ (m+n - k) $: 1
+$ q : shb - - &gt; e $: 1
+$ rel (q^*) : rel(e) - - &gt; rel(shb) cong (b - mod)_0 $: 1
+$ rel(q^*) $: 1
+$ l cong o(g) $: 1
+$ l = o(g) $: 1
+$ sets $: 1
+$ q - - &gt; a $: 1
+$ p_m(a) $: 1
+$ ei $: 1
+$ (a, a') $: 1
+$ vec_g^alpha $: 1
+$ d^alpha(g) $: 1
+$ qvbun $: 1
+$ c:qvbun^{op} to vect $: 1
+$ top^{op} to vect $: 1
+$ qvbun_sigma $: 1
+$ linloc $: 1
+$ mo cap mt $: 1
+$ chi_a $: 1
+$ chi_a(s, s) $: 1
+$ j:j hookrightarrow v $: 1
+$ j = v $: 1
+$ a rightarrow v $: 1
+$ c(x) $: 1
+$ r_1 $: 1
+$ com $: 1
+$ [0, infty) $: 1
+$ t_ntimes [0, infty)^{n+1} $: 1
+$ t_n $: 1
+$ com + [0, infty] $: 1
+$ w(o) $: 1
+$ span|cat $: 1
+$ v - &gt; cat $: 1
+$ cat_s $: 1
+$ l=(l_n, partial_n) $: 1
+$ l_rtimes l_srightarrow l_n $: 1
+$ cmon(v) $: 1
+$ - otimes a : v to v $: 1
+$ i_d(s) $: 1
+$ posgr_v $: 1
+$ f : c - - &gt; d $: 1
+$ f(n) $: 1
+$ p^{dagger} $: 1
+$ (t, q) $: 1
+$ so(2) $: 1
+$ mathscr{c}^mathbf{2} $: 1
+$ mathsf{cod}colon mathcal{m}to mathscr{c} $: 1
+$ ccolon mathcal{m}tomathcal{m} $: 1
+$ ccolon 1_mathcal{m}to c $: 1
+$ mathsf{cod} cdot c=c $: 1
+$ mathsf{cod}cdot c=1_mathsf{cod} $: 1
+$ mathsf{dom}colon mathcal{e}tomathscr{c} $: 1
+$ end(m) $: 1
+$ pos $: 1
+$ top_0 $: 1
+$ s subset n $: 1
+$ posgr_leq $: 1
+$ h : a to b $: 1
+$ h(a_1)...h(a_n)leq h(a) $: 1
+$ a_1...a_nleq a $: 1
+$ (p, tilde{p}) $: 1

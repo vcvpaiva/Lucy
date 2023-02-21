@@ -1,0 +1,3910 @@
+monoidal category: 93
+double category: 71
+topological space: 45
+small category: 43
+distributive law: 37
+abelian category: 36
+symmetric monoidal category: 33
+symmetric monoidal: 31
+weak equivalence: 31
+differential category: 27
+right adjoint: 26
+crossed module: 26
+simplicial set: 26
+natural transformation: 25
+categorical group: 25
+universal property: 24
+special case: 23
+monoidal structure: 22
+full subcategory: 21
+semi - abelian category: 21
+- abelian category: 21
+main result: 20
+abelian group: 19
+monoidal bicategory: 19
+universal algebra: 18
+sufficient condition: 17
+presentable category: 17
+algebraic theory: 17
+categorical structure: 17
+internal category: 17
+cartesian differential category: 17
+geometric morphism: 16
+complete category: 16
+metric space: 16
+protomodular category: 15
+finite product: 15
+algebraic structure: 14
+effective descent morphism: 14
+left adjoint: 14
+differential geometry: 14
+finite limit: 14
+exact category: 13
+regular epimorphism: 13
+such category: 13
+closed category: 13
+exact completion: 13
+regular category: 13
+exact sequence: 12
+autonomous category: 12
+internal groupoid: 12
+linear logic: 11
+commutative ring: 11
+cubical set: 10
+general result: 10
+monoidal functor: 10
+extensive category: 10
+virtual double category: 9
+lax functor: 9
+central extension: 9
+presheaf category: 9
+algebraic geometry: 9
+several example: 9
+light factorization: 9
+monoidal model category: 9
+finite group: 8
+full subcategorie: 8
+previous work: 8
+finite set: 8
+accessible category: 8
+continuous map: 8
+explicit construction: 8
+main theorem: 8
+present paper: 8
+homological category: 8
+enriched category: 8
+fibrant object: 7
+reflective subcategory: 7
+necessary condition: 7
+principal bundle: 7
+boolean algebra: 7
+finite coproduct: 7
+projective object: 7
+discrete fibration: 7
+general theory: 7
+boolean flow: 7
+general notion: 7
+other hand: 7
+new notion: 7
+exactness condition: 7
+inverse semigroup: 7
+smooth map: 7
+quantum category: 7
+quillen equivalence: 6
+additive category: 6
+homological algebra: 6
+free algebra: 6
+certain condition: 6
+general category: 6
+distributive category: 6
+continuous function: 6
+terminal object: 6
+first step: 6
+algebraic topology: 6
+maltsev category: 6
+analogous result: 6
+such functor: 6
+dimensional structure: 6
+new example: 6
+previous paper: 6
+geometrical category: 6
+lax extension: 6
+subtractive category: 6
+strict omega: 6
+combinatorial model category: 6
+coherent unit action: 6
+symmetric monoidal bicategory: 6
+small quantaloid: 6
+representable functor: 6
+forgetful functor: 6
+first author: 6
+partial map category: 6
+idempotent pseudomonad: 6
+polynomial monad: 6
+weak model category: 6
+- fold vector bundle: 5
+fold vector bundle: 5
+smooth manifold: 5
+elementary topos: 5
+lax morphism: 5
+synthetic differential geometry: 5
+strong monoidal functor: 5
+additional structure: 5
+large class: 5
+present article: 5
+natural example: 5
+categorical trace: 5
+normal subobject: 5
+presheaf topos: 5
+precubical set: 5
+open set: 5
+normal monomorphism: 5
+general context: 5
+free cocompletion: 5
+categorical model: 5
+associative algebra: 5
+linear functor: 5
+concrete geometrical category: 5
+other work: 5
+fundamental groupoid: 5
+cartesian closed category: 5
+distributive lattice: 5
+cokleisli category: 5
+opmonoidal monad: 5
+independent interest: 5
+faithful functor: 5
+bisimplicial set: 5
+injective hull: 5
+complicial set: 5
+categorical action: 5
+spectral space: 5
+universe category: 5
+hypergraph category: 5
+special commutative: 5
+spectral vector bundle: 5
+split extension: 5
+strict monoidal: 5
+noetherian form: 5
+internal equivalence relation: 4
+partial order: 4
+basic theory: 4
+boolean category: 4
+recent work: 4
+exact functor: 4
+weak factorization system: 4
+new characterization: 4
+simplicial group: 4
+new one: 4
+differential form: 4
+different notion: 4
+fundamental group: 4
+appropriate notion: 4
+suitable category: 4
+exact protomodular category: 4
+important example: 4
+multiplicative linear logic: 4
+natural number: 4
+new approach: 4
+compact space: 4
+dimensional analogue: 4
+lax epimorphism: 4
+equational hull: 4
+suitable sense: 4
+natural generalization: 4
+internal structure: 4
+weak notion: 4
+dynamical system: 4
+cyclic spectrum: 4
+real number: 4
+geometric logic: 4
+exponential principle: 4
+various example: 4
+dimensional category: 4
+cubical nerve: 4
+high category theory: 4
+categorical property: 4
+categorical semantic: 4
+simplicial object: 4
+reflexive graph: 4
+coreflective subcategory: 4
+new way: 4
+harmonic oscillator: 4
+categorical crossed module: 4
+special attention: 4
+unary operation: 4
+explicit description: 4
+subtractive variety: 4
+exponentiable object: 4
+closed bicategorie: 4
+weak double category: 4
+direct sum: 4
+lax algebra: 4
+arbitrary morphism: 4
+other approach: 4
+linear category: 4
+normal category: 4
+arbitrary category: 4
+projective model structure: 4
+high dimensional transition system: 4
+dimensional transition system: 4
+adhesive category: 4
+first part: 4
+axiomatic framework: 4
+weak wreath product: 4
+complicial identity: 4
+direct proof: 4
+codensity monad: 4
+dimensional vector space: 4
+early work: 4
+finite colimit: 4
+monoidal differential category: 4
+cartesian closed: 4
+exact homological category: 4
+permutable category: 4
+isotropy group: 4
+inductive groupoid: 4
+electrical circuit: 4
+symmetric strict monoidal: 4
+free double category: 3
+own right: 3
+double lie: 3
+rinehart structure: 3
+monoidal abelian category: 3
+stable unit: 3
+small object: 3
+horizontal unit: 3
+horizontal morphism: 3
+categorical framework: 3
+deductive system: 3
+pointed object: 3
+common generalization: 3
+topological quantum field theory: 3
+abelian object: 3
+certain category: 3
+full reflective subcategory: 3
+simple description: 3
+simple proof: 3
+algebraic model: 3
+new construction: 3
+multipresentable category: 3
+original category: 3
+free category: 3
+abstract characterization: 3
+strict algebra: 3
+compatible structure: 3
+thin structure: 3
+finitary monad: 3
+natural number object: 3
+equational category: 3
+discrete object: 3
+finite graph: 3
+extra structure: 3
+dual quasi - bialgebra: 3
+symmetric cat: 3
+categorical sense: 3
+new proof: 3
+conceptual proof: 3
+different category: 3
+concrete functor: 3
+high dimensional automata: 3
+dimensional automata: 3
+thin element: 3
+finite ordinal: 3
+classical property: 3
+complete spread: 3
+many generator: 3
+special kind: 3
+such notion: 3
+cocomplete category: 3
+new type: 3
+set theory: 3
+cyclic flow: 3
+fundamental category: 3
+projective module: 3
+double groupoid: 3
+recognizable forest: 3
+algebraic lattice: 3
+normal epimorphism: 3
+globular nerve: 3
+equivariant stable homotopy theory: 3
+stable homotopy theory: 3
+particular case: 3
+linear bicategory: 3
+linear setting: 3
+weak inverse: 3
+presentable morphism: 3
+presentable object: 3
+regular epi: 3
+monoidal object: 3
+different context: 3
+terminal coalgebra: 3
+iterative algebra: 3
+such monad: 3
+equivalent condition: 3
+suitable subcategory: 3
+global section: 3
+free restriction category: 3
+unital category: 3
+important result: 3
+same object: 3
+open problem: 3
+categorical approach: 3
+topological cospan: 3
+classical theorem: 3
+quillen equivalent: 3
+free object: 3
+cartesian bicategory: 3
+framed bicategory: 3
+categorical analogue: 3
+algebraic category: 3
+full embedding: 3
+initial object: 3
+autonomous structure: 3
+connected case: 3
+new class: 3
+different construction: 3
+canonical way: 3
+globular complex: 3
+early paper: 3
+weak distributive law: 3
+geometric realization: 3
+additional condition: 3
+categorical algebra: 3
+symmetric multicategorie: 3
+globular operad: 3
+standard construction: 3
+dual equivalence: 3
+vertical arrow: 3
+stochastic automata: 3
+usual tensor product: 3
+partial map: 3
+topological group: 3
+special class: 3
+coreflective subcategorie: 3
+coherent category: 3
+vertical morphism: 3
+generalized notion: 3
+lefschetz number: 3
+algebraic description: 3
+inverse category: 3
+categorical context: 3
+commutative square: 3
+ary site: 3
+strong relation: 3
+strict unit: 3
+parallel transport: 3
+certain property: 3
+compact closed: 3
+quillen model category: 3
+monetary value measure: 3
+topological functor: 3
+universal object: 3
+like structure: 3
+theoretic term: 3
+magnetic monopole: 3
+universe category functor: 3
+last section: 3
+linear relation: 3
+pointed exact protomodular category: 3
+compact regular frame: 3
+regular frame: 3
+symmetric quandle: 3
+lax monoidal functor: 3
+tangent category: 3
+effective category: 3
+weak cofibration category: 3
+cofree cartesian differential category: 3
+symmetric sequence: 3
+opmonoidal arrow: 3
+black box functor: 3
+lax pullback complement: 3
+canonical triangulation: 3
+double category construction: 3
+complete metric space: 3
+equivariant operad: 3
+monic skeleta: 3
+extranatural transformation: 3
+multiplicative vector field: 3
+other colimit: 3
+extriangulated category: 3
+canonical isomorphism: 2
+general setting: 2
+particular example: 2
+arithmetic universe: 2
+commutative monoidal category: 2
+well understanding: 2
+preadditive category: 2
+systematic construction: 2
+symmetric monoidal abelian category: 2
+light factorization system: 2
+horizontal target: 2
+augmented virtual double category: 2
+reflective subfibration: 2
+topological complexity: 2
+intuitionistic logic: 2
+right exact functor: 2
+comma category: 2
+strong one: 2
+subcanonical site: 2
+free completion: 2
+semistrict monoidal: 2
+usual axiom: 2
+coherent isomorphism: 2
+continuous flow: 2
+weak dihomotopy equivalence: 2
+affine category: 2
+full structure: 2
+full sub: 2
+pointed space: 2
+different class: 2
+crossed square: 2
+commutative algebra: 2
+useful property: 2
+trivial covering: 2
+local homeomorphism: 2
+stable homotopy category: 2
+strong promonoidal functor: 2
+quantic conuclei: 2
+complete characterization: 2
+denotational semantic: 2
+new model: 2
+suitable generalization: 2
+singular chain complex: 2
+idempotent monad: 2
+left exact: 2
+explicit calculation: 2
+discrete group: 2
+logical axiom: 2
+operad action: 2
+lax equivalent: 2
+familiar term: 2
+categorical theory: 2
+finite sum: 2
+suitable factorization system: 2
+simple characterization: 2
+flat functor: 2
+simplicial version: 2
+universal coefficient: 2
+exponentiable space: 2
+ultrafilter monad: 2
+strict natural transformation: 2
+lax monad: 2
+symmetric double category: 2
+discrete opfibration: 2
+formal property: 2
+non - commutative negation: 2
+- commutative negation: 2
+commutative negation: 2
+free multiplicative linear logic: 2
+regular extension: 2
+local presentability: 2
+regular cardinal: 2
+contravariant functor: 2
+certain kind: 2
+open subset: 2
+natural definition: 2
+discrete space: 2
+open map: 2
+contravariant powerset functor: 2
+simplicial groupoid: 2
+pointed case: 2
+differential equation: 2
+strange attractor: 2
+varietal case: 2
+epireflective subcategorie: 2
+integral domain: 2
+surjective homomorphism: 2
+modular variety: 2
+small class: 2
+ordinary category: 2
+balanced coalgebroid: 2
+balanced monoidal category: 2
+quasi - triangular dual quasi - bialgebra: 2
+- triangular dual quasi - bialgebra: 2
+triangular dual quasi - bialgebra: 2
+surjective functor: 2
+relational sum: 2
+proper subcategory: 2
+small coproduct: 2
+new result: 2
+universal functor: 2
+absolute colimit: 2
+topological hull: 2
+internal characterization: 2
+categorical proof: 2
+basic category: 2
+small colimit: 2
+reduced branching homology: 2
+topological abelian group: 2
+relevant category: 2
+symmetric simplicial set: 2
+classical one: 2
+globular cardinal: 2
+globular set: 2
+explicit formulae: 2
+sifted colimit: 2
+reflexive coequalizer: 2
+explicit characterization: 2
+classical result: 2
+free group: 2
+homotopical exactness: 2
+certain object: 2
+unified proof: 2
+first model: 2
+certain equaliser: 2
+compact locale: 2
+certain quotient: 2
+new definition: 2
+pure subobject: 2
+geometric theory: 2
+pure morphism: 2
+flat module: 2
+sided enrichment: 2
+natural isomorphism: 2
+arbitrary base category: 2
+internal locale: 2
+lextensive category: 2
+certain monad: 2
+- fold: 2
+high dimensional structure: 2
+usual notion: 2
+lax natural transformation: 2
+pointed endofunctor: 2
+various notion: 2
+partial topos: 2
+local topos: 2
+compact support: 2
+algebraic context: 2
+cubical site: 2
+ary term: 2
+binary term: 2
+strict globular: 2
+simplicial nerve: 2
+semi - cubical nerve: 2
+- cubical nerve: 2
+such result: 2
+essential point: 2
+ordinary bicategorie: 2
+linear bicategorie: 2
+lax transformation: 2
+dimensional generalization: 2
+3rd cohomology class: 2
+strict lie: 2
+various result: 2
+reflective subcategorie: 2
+relevant example: 2
+strict version: 2
+- fold monoidal: 2
+fold monoidal: 2
+categorical version: 2
+generalized operad: 2
+opetopic approach: 2
+high dimensional category theory: 2
+dimensional category theory: 2
+universal construction: 2
+idempotent splitting completion: 2
+normed cubical set: 2
+arbitrary variety: 2
+small set: 2
+flat weight: 2
+legitimate category: 2
+semi - direct product: 2
+- direct product: 2
+direct product: 2
+semi - abelian variety: 2
+- abelian variety: 2
+abelian variety: 2
+binary coproduct: 2
+precise form: 2
+commutative quantale: 2
+suitable hypothesis: 2
+commutative cube: 2
+cartesian monad: 2
+planar polycategorie: 2
+compact closed category: 2
+abstract notion: 2
+bipartite projector: 2
+key property: 2
+strong compact closure: 2
+compact closure: 2
+commutative shell: 2
+appropriate set: 2
+strong adjunction: 2
+other model: 2
+additive functor: 2
+epimorphic hull: 2
+recent field: 2
+quillen model category structure: 2
+internal equivalence: 2
+semi - abelian: 2
+- abelian: 2
+strong equivalence: 2
+interesting example: 2
+simple condition: 2
+combinatorial nature: 2
+different approach: 2
+classical notion: 2
+infinite set: 2
+combinatorial specie: 2
+quantum mechanic: 2
+more structure: 2
+connected component: 2
+classical case: 2
+topological object: 2
+indexed category: 2
+natural topology: 2
+categorical level: 2
+dimensional version: 2
+pre - numeral: 2
+- numeral: 2
+simple example: 2
+conformal field theory: 2
+similar result: 2
+thin filler condition: 2
+pure monomorphism: 2
+other way: 2
+underlying bicategory: 2
+various approach: 2
+theoretic construction: 2
+natural deduction formulation: 2
+classical logic: 2
+intrinsic multiple conclusion: 2
+multiple conclusion: 2
+quotient category: 2
+collarable cospan: 2
+cubical cospan: 2
+regular operad: 2
+linear equation: 2
+stable isomorphism: 2
+closed surface: 2
+similar fashion: 2
+extensive quantity: 2
+abstract core: 2
+binary operation: 2
+pseudonatural transformation: 2
+recursive equation: 2
+unique solution: 2
+close connection: 2
+multiplicative structure: 2
+mathematical structure: 2
+bicategorical notion: 2
+framed bicategorie: 2
+monoidal fibration: 2
+symmetric categorical group: 2
+general theorem: 2
+dual category: 2
+zeroary operation: 2
+adjunctible map: 2
+underlying category: 2
+internal set: 2
+internal hom: 2
+theoretic model: 2
+future paper: 2
+main purpose: 2
+general case: 2
+local connectedness: 2
+discrete locale: 2
+internal approximate: 2
+suitable condition: 2
+weak preservation: 2
+finitary functor: 2
+convenient category: 2
+main advantage: 2
+second author: 2
+recent paper: 2
+familiar notion: 2
+differential operator: 2
+basic property: 2
+finite derivation type: 2
+symbolic dynamic: 2
+linear map: 2
+mixed distributive law: 2
+coherent model: 2
+enriched orthogonality: 2
+many case: 2
+fibred category: 2
+absolute cr: 2
+epic space: 2
+open question: 2
+categorical counterpart: 2
+subtractive span: 2
+weak version: 2
+multiplicative graph: 2
+semiabelian context: 2
+internal crossed module: 2
+double central extension: 2
+third cohomology group: 2
+monadic approach: 2
+internal family: 2
+final functor: 2
+natural generalisation: 2
+same time: 2
+intrinsic description: 2
+unified framework: 2
+related structure: 2
+generalized multicategorie: 2
+linear operator: 2
+projective geometry: 2
+right action: 2
+temporal doctrine: 2
+free monoid: 2
+strong epimorphism: 2
+stratified manifold: 2
+transversal homotopy monoid: 2
+high invariant: 2
+transversal homotopy category: 2
+accessible functor: 2
+negative integer: 2
+quillen model structure: 2
+new structure: 2
+coherent space: 2
+partial operation: 2
+closed structure: 2
+simplified description: 2
+certain double category: 2
+covariant presheave: 2
+weak high dimensional transition system: 2
+cubical transition system: 2
+categorified algebra: 2
+certain exactness condition: 2
+compact quantum group: 2
+broad sense: 2
+categorical method: 2
+weak homotopy equivalence: 2
+simple formula: 2
+various construction: 2
+abstract framework: 2
+high category: 2
+other kind: 2
+certain type: 2
+lax version: 2
+submultiplicative order: 2
+injective object: 2
+relative cell complex: 2
+algebraic weak factorisation system: 2
+weak factorisation system: 2
+trivial fibration: 2
+classical theory: 2
+joint paper: 2
+hopf monad: 2
+algebraic object: 2
+autonomous comonad: 2
+further application: 2
+dimensional cube: 2
+colax idempotent pseudomonad: 2
+lax idempotent pseudomonad: 2
+elementary quotient completion: 2
+useful tool: 2
+categorical commutator: 2
+semi - abelian context: 2
+- abelian context: 2
+abelian context: 2
+complete morphism: 2
+closed map: 2
+commutative monoid: 2
+uniform structure: 2
+high central extension: 2
+enough projective: 2
+ary exact category: 2
+small site: 2
+pointed context: 2
+regular subtractive category: 2
+epimorphic pair: 2
+strong monomorphism: 2
+exponentiable morphism: 2
+difunctional relation: 2
+commutative semigroup: 2
+constant object: 2
+applicative morphism: 2
+ergodic action: 2
+homogeneous space: 2
+supercommutative algebra: 2
+central importance: 2
+weakly globular double category: 2
+globular double category: 2
+particular class: 2
+lax monoidal structure: 2
+principal result: 2
+subsequent work: 2
+funny tensor product: 2
+tight span: 2
+semi - tropical module structure: 2
+- tropical module structure: 2
+tropical module structure: 2
+open topological groupoid: 2
+topological groupoid: 2
+equivariant sheaf: 2
+smoothness condition: 2
+nontrivial reflective subcategory: 2
+clean ring: 2
+corresponding algebra: 2
+bisimplicial presheave: 2
+diagonal functor: 2
+such morphism: 2
+distributive space: 2
+partial combinatory algebra: 2
+bicategorical localization: 2
+idempotent core: 2
+local equivalence: 2
+generalized model category: 2
+cohesive geometric morphism: 2
+weak form: 2
+simplicial model category: 2
+simple functor: 2
+relative category: 2
+present work: 2
+other category: 2
+conditional expectation: 2
+dynamic monetary value measure: 2
+relative entropy: 2
+cartesian lifting: 2
+technical result: 2
+weighted colimit: 2
+concrete example: 2
+rational function: 2
+theoretic context: 2
+pointed category: 2
+balanced effective descent morphism: 2
+quasi spectral space: 2
+previous construction: 2
+various kind: 2
+extra assumption: 2
+categorical polynomial monad: 2
+total category: 2
+operad module: 2
+several entry: 2
+local symmetry: 2
+triple category: 2
+dimensional cell: 2
+interchange law: 2
+coreflective hull: 2
+final object: 2
+trivial cofibration: 2
+topological group structure: 2
+duplicial object: 2
+categorical perspective: 2
+arbitrary lie groupoid: 2
+finite category: 2
+second cohomology categorical group: 2
+cocomplete linear category: 2
+unbiased contraction: 2
+several reformulation: 2
+formal theory: 2
+complete distributivity: 2
+complete partial order: 2
+simplified model: 2
+high categorical structure: 2
+double functor: 2
+quasi - schemoid: 2
+careful proof: 2
+localic groupoid: 2
+diffeological space: 2
+compact closed bicategorie: 2
+weak pullback: 2
+gerbal representation: 2
+quotient vector bundle: 2
+topological vector space: 2
+additional model category structure: 2
+original one: 2
+relative point: 2
+nilpotent object: 2
+relative internal action: 2
+internal action: 2
+categorical principal bundle: 2
+geometric context: 2
+abelian symmetric quandle: 2
+coherent site: 2
+equational theory: 2
+regular image: 2
+short map: 2
+approximate categorical structure: 2
+particular interest: 2
+monoidal pseudofunctor: 2
+simplicial lie algebra: 2
+hypercrossed complex: 2
+same result: 2
+complete lattice: 2
+explicit model: 2
+symmetric lax monoidal functor: 2
+chemical reaction network: 2
+skeletal cancellative: 2
+regular functor: 2
+constructive proof: 2
+semi - simple algebra: 2
+- simple algebra: 2
+simple algebra: 2
+other word: 2
+cyclic operad: 2
+tangent bundle: 2
+axiomatic definition: 2
+monic span: 2
+general condition: 2
+tame polynomial: 2
+binary product structure: 2
+cancellative small category: 2
+steady state: 2
+atomic geometric morphism: 2
+crossed product: 2
+strict symmetric monoidal category: 2
+new crossed module: 2
+differential bundle: 2
+equivalent formulation: 2
+complete inductive groupoid: 2
+external behavior: 2
+lagrangian linear relation: 2
+good atlas: 2
+dimensional sphere: 2
+parallel section: 2
+split cube: 2
+isotropy rank: 2
+formal approach: 2
+stable derivator: 2
+monotone continuous map: 2
+lax limit: 2
+weak duality involution: 2
+reflexive space: 2
+symmetric operad: 2
+monoidal version: 2
+joyal model structure: 2
+simple criterion: 2
+weak analogue: 2
+degenerate boundary: 2
+representable merge: 2
+operadic nerve: 2
+genuine equivariant operad: 2
+skeletal boundary: 2
+invariant multiplicative vector field: 2
+sufficient criterion: 2
+closed subcategory: 2
+reversed span: 2
+relative nerve: 2
+oidal monad: 2
+maximal rigid subcategorie: 2
+rigid subcategorie: 2
+involutive analog: 2
+colored operad: 2
+restricted diagram: 2
+cohesive topos: 2
+quadratic algorithm: 1
+special functor: 1
+cube category: 1
+non - canonical isomorphism: 1
+- canonical isomorphism: 1
+non - canonical decomposition: 1
+- canonical decomposition: 1
+canonical decomposition: 1
+triple vector bundle: 1
+modular tensor category: 1
+spherical fusion category: 1
+isomorphic orbifold: 1
+representable definition: 1
+main aim: 1
+natural model category: 1
+strict symmetric monoidal: 1
+numerous result: 1
+combinatorial model category structure: 1
+corresponding infinity: 1
+equivariant coarse algebraic: 1
+equivariant version: 1
+convenient way: 1
+many infinity: 1
+internal preorder: 1
+internal partial order: 1
+stable regular epimorphism: 1
+admissible categorical: 1
+topological interpretation: 1
+latter category: 1
+horizontal multi: 1
+single horizontal target: 1
+latter notion: 1
+empty horizontal target: 1
+formal category: 1
+admissible object: 1
+virtual double category coincide: 1
+double category coincide: 1
+classical composition: 1
+new homology: 1
+archimedean place: 1
+singular homology: 1
+real coefficient: 1
+equivalent necessary condition: 1
+homological dimension: 1
+small cancellative category: 1
+cancellative category: 1
+homological dimension one: 1
+binary product: 1
+partial morphism category: 1
+productive terminal: 1
+valuable tool: 1
+real world datum: 1
+several approach: 1
+arbitrary set: 1
+combinatorial persistence: 1
+common categorical framework: 1
+novel framework: 1
+classical equality: 1
+many category: 1
+colorable rank: 1
+semisimple abelian category: 1
+persistent homology: 1
+local map: 1
+equivariant principal bundle: 1
+invariant topological complexity: 1
+abstract algebraic structure: 1
+same sense: 1
+canonical axiomatisation: 1
+possible such axiomatisation: 1
+such axiomatisation: 1
+medial map: 1
+free deductive system: 1
+boolean logic: 1
+single free algebra: 1
+empty set: 1
+decidable topos: 1
+natural common generalization: 1
+slanted product: 1
+other hand subcanonical: 1
+simultaneous left: 1
+powerful result: 1
+nice feature: 1
+full dihomotopy relation: 1
+pointed protomodular category: 1
+internal construction: 1
+specific characterization: 1
+generalized congruence: 1
+concrete construction: 1
+various other class: 1
+other class: 1
+epimorphic functor: 1
+distinct enrichment: 1
+many monoidal structure: 1
+unique isomorphism: 1
+such distinction: 1
+precise mathematical definition: 1
+mathematical definition: 1
+restricted class: 1
+idempotent dual: 1
+stable local coequalizer: 1
+local coequalizer: 1
+familiar bimodule: 1
+general module: 1
+idempotent relation: 1
+semi - group: 1
+different closed model category structure: 1
+closed model category structure: 1
+same class: 1
+other structure: 1
+neat description: 1
+inverse functor: 1
+precise characterization: 1
+other sketch: 1
+strong colimit: 1
+limited completeness: 1
+precise statement: 1
+many practical example: 1
+practical example: 1
+absolute notion: 1
+general relative: 1
+many question: 1
+disparate condition: 1
+old result: 1
+quintessential localization: 1
+idempotent natural endomorphism: 1
+natural endomorphism: 1
+persistent localization: 1
+boolean topos: 1
+basic fact: 1
+combinatorial groupoid theory: 1
+characteristic class: 1
+first neighbourhood: 1
+basic combinatorial structure: 1
+combinatorial structure: 1
+fundamental crossed module: 1
+complex method: 1
+classical infinite loopspace machine: 1
+connective spectra: 1
+existential quantification: 1
+free monoidal category: 1
+promonoidal category: 1
+like transform: 1
+cartesian product: 1
+orthomudular lattice: 1
+associative disjunction operation: 1
+prime characteristic: 1
+modified version: 1
+particular kind: 1
+interesting result: 1
+medial rule: 1
+classical propositional logic: 1
+propositional logic: 1
+double order structure: 1
+large rectangle: 1
+such tiling: 1
+forbidden suborder: 1
+planar graph: 1
+ordinary singular chain complex: 1
+new version: 1
+more algebraic structure: 1
+pointed set: 1
+adequate algebraic model: 1
+free regular: 1
+various rank: 1
+weak limit: 1
+standard technique: 1
+classical glueing theorem: 1
+open subtopos: 1
+closed complement: 1
+simple form: 1
+important property: 1
+partial algebra: 1
+total operation: 1
+analogous description: 1
+finitely multipresentable category: 1
+countable coproduct specification: 1
+finite colimit specification: 1
+abelian tensor product: 1
+compatible action: 1
+symmetric biclosed monoidal category: 1
+biclosed monoidal category: 1
+cofree object: 1
+normal subgroup: 1
+second homotopy module: 1
+certain homotopy pushout: 1
+several new situation: 1
+new situation: 1
+noncommutative logic: 1
+noncommutative version: 1
+essential difference: 1
+certain tensorial strength: 1
+tensorial strength: 1
+appropriate categorical structure: 1
+corresponding categorical structure: 1
+general coherence theorem: 1
+lax operad action: 1
+strict action: 1
+familiar coherence result: 1
+many new one: 1
+lax module: 1
+such ring: 1
+pure relational language: 1
+relational language: 1
+same first order sentence: 1
+first order sentence: 1
+finite model: 1
+definable predicate: 1
+such case: 1
+infinite model: 1
+sophisticated proof: 1
+faithful adjoint string: 1
+invertible counit: 1
+more general pseudomonad: 1
+general pseudomonad: 1
+simplicial commutative: 1
+degenerate element: 1
+certain pairing: 1
+low dimension: 1
+generic separable object: 1
+separable object: 1
+analogous construction: 1
+direct image: 1
+certain map: 1
+inverse image map: 1
+available reference: 1
+variational characterization: 1
+riemannian metric: 1
+free simplicial group: 1
+suitable construction datum: 1
+similar freeness result: 1
+freeness result: 1
+partial result: 1
+high dimension: 1
+quadratic module: 1
+separated extensional object: 1
+extensional object: 1
+weak condition: 1
+coreflective dual: 1
+early notion: 1
+such familiar construct: 1
+familiar construct: 1
+suitable monoidal category: 1
+arbitrary functor: 1
+arbitrary monoidal functor: 1
+detailed analysis: 1
+detailed study: 1
+suitable base category: 1
+enriched sketch: 1
+particular attention: 1
+enriched functor: 1
+simplicial diagram: 1
+equivariant simplicial version: 1
+various form: 1
+several kind: 1
+abstract cell complex: 1
+general partial: 1
+axiomatic treatment: 1
+geometric structure: 1
+familiar such category: 1
+compact lie group: 1
+good equivariant cohomology theory: 1
+equivariant cohomology theory: 1
+full strength equivariant universal coefficient: 1
+equivariant universal coefficient: 1
+primary purpose: 1
+abstract possibility: 1
+similar misbehavior: 1
+homological misbehavior: 1
+similar problem: 1
+other functor category: 1
+weakly continuous representation: 1
+continuous representation: 1
+possible structure: 1
+full proof: 1
+useful category: 1
+mixed abelian group: 1
+new category: 1
+mixed group: 1
+new description: 1
+certain topos: 1
+infinitary generalization: 1
+classical description: 1
+new tensor product: 1
+essential way: 1
+bi)closed structure: 1
+certain proof: 1
+theoretic technique: 1
+sided proof net: 1
+commutative setting: 1
+net equivalence: 1
+considerable sharpening: 1
+previous coherence result: 1
+certain restriction: 1
+weak finite limit coincide: 1
+finite limit coincide: 1
+epimorphic extension: 1
+commutative ring theory: 1
+such series: 1
+concrete test: 1
+high type term constructor: 1
+conditional equation: 1
+primitive recursion: 1
+primitive recursor: 1
+strong normalization: 1
+strong natural number object: 1
+computational paradigm: 1
+categorical foundation: 1
+inverse semigroup theory: 1
+other categorical structure: 1
+compact closedness: 1
+dynamical algebra: 1
+comprehensive approach: 1
+main tool: 1
+main conclusion: 1
+separated extensional: 1
+distinct subcategorie: 1
+uniform algebra: 1
+contravariant powerset: 1
+compact topological space: 1
+enumerable subset: 1
+existential quantifier: 1
+synthetic domain theory: 1
+overt discrete space: 1
+proper map: 1
+euclidean property: 1
+simplicial language: 1
+fundamental homotopy theoretical construction: 1
+theoretical construction: 1
+right homotopy relation: 1
+simplicial identity: 1
+simplicial description: 1
+bicategorical property: 1
+static module: 1
+stable submanifold: 1
+smooth topos: 1
+topos theorist: 1
+standard solution: 1
+regular epireflective subcategorie: 1
+presheaf category such: 1
+small sum: 1
+wise tensor product: 1
+canonical orbit: 1
+intrinsic meaning: 1
+normal functor: 1
+exact conservative functor: 1
+conservative functor: 1
+main one: 1
+continuous functor: 1
+affirmative answer: 1
+only case: 1
+empty graph: 1
+such colimit: 1
+evident forgetful: 1
+conical colimit: 1
+enriched one: 1
+large one: 1
+last case: 1
+large universe: 1
+balanced structure: 1
+corresponding structure: 1
+balanced quasi - triangular dual quasi - bialgebra: 1
+compatible antipode: 1
+sylleptic monoidal bicategory: 1
+faithful one: 1
+nonequivalent concept: 1
+arbitrary relational sum: 1
+strong assumption: 1
+atomic dedekind category: 1
+suitable basis: 1
+full proper subcategory: 1
+integral object: 1
+heterogeneous relation algebra: 1
+new finding: 1
+particular subtopos: 1
+small subtopo: 1
+full distributive: 1
+distributive preorder: 1
+universal closure operator: 1
+local cartesian closure: 1
+cartesian closure: 1
+other characterization: 1
+convenient viewpoint: 1
+recent year: 1
+necessary tool: 1
+algebraic topologist: 1
+current article: 1
+relaxed introduction: 1
+topological context: 1
+familiar example such: 1
+closed extension: 1
+uniform space: 1
+full subconstruct: 1
+infinitary exact completion: 1
+weak small limit: 1
+small limit: 1
+essential localization: 1
+left exact root: 1
+exact root: 1
+distributive property: 1
+non trivial internal group: 1
+trivial internal group: 1
+internal group: 1
+previous property: 1
+broad collection: 1
+unary algebra: 1
+exact set: 1
+internal categorical structure: 1
+combinatorial property: 1
+negative corner: 1
+new homology theory: 1
+distinguished cone: 1
+non empty: 1
+finitary variety: 1
+algebraic exactness: 1
+same group: 1
+fine topology: 1
+topological subgroup: 1
+finite cardinal: 1
+symmetric analogue: 1
+universal symmetric monoid: 1
+symmetric monoid: 1
+suitable relation: 1
+unique composite: 1
+key ingredient: 1
+suitable schizophrenic object: 1
+schizophrenic object: 1
+important role: 1
+hereditary quotient map: 1
+universal quotient map: 1
+quotient map: 1
+stable quotient map: 1
+broad context: 1
+generalized variety: 1
+further example: 1
+nonempty set: 1
+closed subset: 1
+additional compactness condition: 1
+compactness condition: 1
+permutable quasivarietie: 1
+dimensional postnikov complex: 1
+postnikov complex: 1
+exact horn: 1
+composable pair: 1
+other extreme: 1
+different type: 1
+constant independent: 1
+basic lattice operation: 1
+certain path groupoid: 1
+cosheaf space: 1
+certain order structure: 1
+invariant action: 1
+invariant linear ordering: 1
+linear ordering: 1
+certain presheaf topos: 1
+dense inclusion: 1
+low powerdomain: 1
+upper powerdomain construction: 1
+respective result: 1
+low powerdomain construction: 1
+coherent domain: 1
+possible notion: 1
+generalized domain: 1
+other one: 1
+complete rewrite system: 1
+many practical case: 1
+practical case: 1
+ordinary functor: 1
+large end: 1
+explicit expression: 1
+large limit: 1
+new representation: 1
+general endofunctor: 1
+vague property: 1
+homotopical homology: 1
+rosicky duality: 1
+riemannian manifold: 1
+main new aspect: 1
+new aspect: 1
+second neighbourhood: 1
+second order differential operator: 1
+new neighbourhood: 1
+compatible simplicial model category structure: 1
+simplicial model category structure: 1
+simplicial localization: 1
+suitable model: 1
+opmonoidal functor: 1
+monadic arrow: 1
+triple morphism: 1
+free functor: 1
+multiplicative fragment: 1
+commutative logic: 1
+such structure entropic category: 1
+several method: 1
+partial bimonoid: 1
+entropic version: 1
+excellent framework: 1
+entropic category: 1
+abstract sobriety: 1
+lambda calculus similar: 1
+simple way: 1
+coreflective full subcategory: 1
+above result: 1
+coreflective category: 1
+discrete dynamical system: 1
+attractive fixpoint: 1
+repulsive fixpoint: 1
+logistic equation: 1
+privileged direction: 1
+non reversible homotopie: 1
+reversible homotopie: 1
+basic construct: 1
+computational value: 1
+elementary category theory: 1
+standard lattice: 1
+theoretic definition: 1
+primitive symbolic: 1
+general recursion: 1
+same basic categorical construction: 1
+basic categorical construction: 1
+categorical construction: 1
+computational effect: 1
+new denotational value: 1
+denotational value: 1
+sober space: 1
+general topology: 1
+new axiom: 1
+suitable categorical description: 1
+categorical description: 1
+fuzzy relation: 1
+arbitrary complete brouwerian lattice: 1
+complete brouwerian lattice: 1
+brouwerian lattice: 1
+suitable binary function: 1
+binary function: 1
+scalar element: 1
+abstract counterpart: 1
+presentable domain: 1
+such injectivity class: 1
+technical characterization: 1
+axiomatizable class: 1
+complete object: 1
+reversible left adjoint: 1
+reversible bicategorie: 1
+reversible complete enrichment: 1
+complete enrichment: 1
+general colocalization process: 1
+mere natural isomorphism: 1
+commutative monoid isomorphic: 1
+free such category: 1
+nice illustration: 1
+basic technique: 1
+categorical proof theory: 1
+theoretic approach: 1
+perfect map: 1
+other recent approach: 1
+recent approach: 1
+elementary approach: 1
+direct construction: 1
+long exact sequence: 1
+nonnegative integer: 1
+third homology: 1
+central relative extension: 1
+relative extension: 1
+relative homology: 1
+graphical technique: 1
+natural environment: 1
+categorical notion: 1
+terminal node: 1
+appropriate class: 1
+same sketch: 1
+geometric notion: 1
+thin square: 1
+double groupoid correspond: 1
+cubical nature: 1
+globular nature: 1
+convenient tool: 1
+many people: 1
+chatty bibliography: 1
+strong amalgamation property: 1
+associative ring: 1
+commutative quasi: 1
+medial quasi - group: 1
+weakly associative lattice: 1
+associative lattice: 1
+decomposable functor: 1
+general exponential principle: 1
+symmetric monoidal completion: 1
+monoidal completion: 1
+combinatorial identity: 1
+specific property applicable: 1
+linear functional: 1
+various characterization: 1
+certain characterization: 1
+corresponding finite: 1
+syntactic congruence: 1
+finite union: 1
+final bicategory: 1
+such module: 1
+codomain bicategory: 1
+simple construction: 1
+local colimit: 1
+new sort: 1
+faithful homomorphism: 1
+opetopic set: 1
+complete cartesian: 1
+many known: 1
+synthetic theory: 1
+key example: 1
+finite tree: 1
+usual exactness property: 1
+inverse limit construction: 1
+several appropriate category: 1
+appropriate category: 1
+general space: 1
+proconstructible set: 1
+continuous lattice: 1
+theoretical hypothesis: 1
+precontinuous category: 1
+continuous category: 1
+appropriate treatment: 1
+several algebraic context: 1
+precise classification theorem: 1
+equivariant extension: 1
+specialized classification: 1
+adequate system: 1
+basic invariance theorem: 1
+extended cubical site: 1
+simplicial site: 1
+simplicial analogue: 1
+universal symmetric cubical monoid: 1
+symmetric cubical monoid: 1
+cubical monoid: 1
+monoidal algebraic theory: 1
+such monoid: 1
+restricted cubical site: 1
+ordinary cubical set: 1
+intermediate site: 1
+reversible analogue: 1
+first author more: 1
+augmented simplicial nerve: 1
+corresponding homology theory: 1
+different information: 1
+high dimensional automaton: 1
+dimensional automaton: 1
+new nerve: 1
+semi - globular nerve: 1
+- globular nerve: 1
+same simplicial homology: 1
+simplicial homology: 1
+such framework: 1
+latter conjecture: 1
+thin element conjecture: 1
+other example: 1
+formal wirthmuller: 1
+many context: 1
+categorical discussion: 1
+classical framework: 1
+bicategorical case: 1
+bicategorical level: 1
+obvious notion: 1
+possible resolution: 1
+promising direction: 1
+technical issue: 1
+linear bicategorical: 1
+ordinary bicategorical setting: 1
+bicategorical setting: 1
+such composite: 1
+poly notion: 1
+new poly: 1
+appropriate linear sense: 1
+linear sense: 1
+representable poly: 1
+special property: 1
+many application: 1
+categorical quasigroup model theory: 1
+various version: 1
+detailed introduction: 1
+weak monoidal category: 1
+coherent one: 1
+quick way: 1
+various lie: 1
+compact simple lie group: 1
+simple lie group: 1
+linear natural transformation: 1
+antisymmetric trilinear natural transformation: 1
+trilinear natural transformation: 1
+certain law: 1
+semistrict lie: 1
+skeletal lie: 1
+dimensional lie: 1
+double powerlocale: 1
+low powerlocale construction: 1
+geometric reasoning: 1
+presentable category c: 1
+latter definition: 1
+proper class: 1
+concrete category: 1
+strict analogue: 1
+coherent associator: 1
+symmetric case: 1
+recursive definition: 1
+high dimensional enrichment: 1
+dimensional enrichment: 1
+initial section: 1
+closed embedding: 1
+relational variable: 1
+relational variable set: 1
+variable set: 1
+dynamic set: 1
+recent notion: 1
+weak kind: 1
+left covering: 1
+internal logic: 1
+uniform manner: 1
+such completion: 1
+unpublished work: 1
+weak finite limit property: 1
+finite limit property: 1
+full explanation: 1
+reasonable one: 1
+other part: 1
+dimensional algebra: 1
+natural language: 1
+corresponding equivalence: 1
+simplicial approximation technique: 1
+simplicial approximation result: 1
+semi - abelian version: 1
+- abelian version: 1
+abelian version: 1
+several exact sequence: 1
+last property: 1
+many effective descent morphism: 1
+respective full subcategory: 1
+generic morphism: 1
+parametric representation: 1
+enumerative combinatoric: 1
+joyal specie: 1
+many corollary: 1
+useful result: 1
+more general result: 1
+unsolved problem: 1
+axiomatic arithmetic: 1
+simple distinction: 1
+composite prop: 1
+single object: 1
+original prop: 1
+invertible distributive law: 1
+positive cone: 1
+structural cube: 1
+additional information: 1
+noncommutative topology: 1
+noncommutative geometry: 1
+metric aspect: 1
+such similarity strict: 1
+same classification: 1
+irrational rotation: 1
+abelian monadic category: 1
+monadic category: 1
+pointed protomodular quasimonadic category: 1
+protomodular quasimonadic category: 1
+quasimonadic category: 1
+protomodular quasivarietie: 1
+dimensional vision: 1
+high level: 1
+several different context: 1
+appropriate framework: 1
+brown representability: 1
+small mean countable: 1
+large signature: 1
+presentable collection: 1
+quotient algebra: 1
+arbitrary endofunctor: 1
+surprising example: 1
+atomic weight: 1
+absolute weight: 1
+continuous weight: 1
+nonstandard method: 1
+modern algebraic geometry: 1
+nonstandard construction: 1
+many categorical property: 1
+metric map: 1
+upper real: 1
+metric spacee: 1
+formal ball: 1
+usual one: 1
+expansive function: 1
+precise concept: 1
+axiomatic way: 1
+infinitary algebraic theory: 1
+topological geometrical category: 1
+natural endotransformation: 1
+semi - abelian theory: 1
+- abelian theory: 1
+abelian theory: 1
+simple necessary condition: 1
+simple sufficient condition: 1
+general semi - abelian category: 1
+wide supply: 1
+algebraic example: 1
+particular evidence: 1
+unital commutative quantale: 1
+certain lax extension: 1
+general construction: 1
+usual topological: 1
+like example: 1
+unified presentation: 1
+suitable tool: 1
+global problem: 1
+similar theorem: 1
+other high homotopy groupoid: 1
+high homotopy groupoid: 1
+integral part: 1
+detailed discussion: 1
+key result: 1
+iterative theory: 1
+elegant formulation: 1
+symmetric counterpart: 1
+essential associativity: 1
+canonical pullback: 1
+free monoid monad: 1
+new classical distributive law: 1
+classical distributive law: 1
+free semigroup monad: 1
+intrinsic interest: 1
+original polycategorie: 1
+weakly cartesian monad: 1
+key fact: 1
+inner product: 1
+elegant characterization: 1
+well treatment: 1
+related universal property: 1
+sinister morphism: 1
+sinister transformation: 1
+extra property: 1
+semantic machine code: 1
+simple primitive: 1
+operational semantic: 1
+stack term: 1
+simple categorical semantic: 1
+basic structure: 1
+countable coproduct: 1
+countable product: 1
+wide range: 1
+erratic choice: 1
+possible world: 1
+strong monad: 1
+same map: 1
+equational characterization: 1
+absolute homology: 1
+several familiar: 1
+familiar definition: 1
+such thing: 1
+convenient setting: 1
+non - trivial monotone: 1
+- trivial monotone: 1
+trivial monotone: 1
+reflexive relation: 1
+commutative semiprime: 1
+unique essential epic: 1
+essential epic: 1
+dense subspace: 1
+full ring: 1
+generic symmetric monoidal category: 1
+commutative separable algebra: 1
+separable algebra: 1
+semantic functor: 1
+ordinary equivalence: 1
+future equivalence: 1
+symmetric version: 1
+simple case: 1
+least full reflective: 1
+full reflective: 1
+least full coreflective subcategory: 1
+full coreflective subcategory: 1
+natural notion: 1
+several non: 1
+equivalent notion: 1
+mild condition: 1
+regular epimorphism topology: 1
+equivalent homotopy category: 1
+trivial topology: 1
+internal functor: 1
+free one: 1
+elementary case: 1
+little more: 1
+boolean case: 1
+certain preservation property: 1
+extreme sort: 1
+constructive set theory: 1
+certain structure: 1
+aforementioned set theory: 1
+enough categorical structure: 1
+standard notion: 1
+new information: 1
+amorphous set: 1
+similar notion: 1
+theoretic structure: 1
+interesting application: 1
+new generalization: 1
+complex number: 1
+special role: 1
+categorical explanation: 1
+geometrical notion: 1
+coarse graining: 1
+geometrical framework: 1
+first answer: 1
+nice description: 1
+suitable way: 1
+flat connection: 1
+discrete category: 1
+ordered topological space: 1
+non reversible: 1
+non - trivial problem: 1
+- trivial problem: 1
+trivial problem: 1
+relevant information: 1
+deep analysis: 1
+surjective model: 1
+additive equational category: 1
+closed symmetric monoidal structure: 1
+symmetric monoidal structure: 1
+potential dualizing object: 1
+good notion: 1
+certain prominent monad: 1
+prominent monad: 1
+basic framework: 1
+free strict: 1
+free operad: 1
+inner derivation: 1
+dimensional cohomology categorical group: 1
+upper semi - lattice: 1
+semi - lattice: 1
+recent study: 1
+free action: 1
+minimal pre - numeral: 1
+explicit detail: 1
+algebraic version: 1
+universal normal oplax morphism: 1
+normal oplax morphism: 1
+normality force: 1
+free adjoint construction: 1
+representable identity: 1
+second case: 1
+general goal: 1
+cyclic part: 1
+clopen subset: 1
+final section: 1
+related spectrum: 1
+minimal subflow: 1
+dimensional rational conformal field theory: 1
+rational conformal field theory: 1
+relative modular group: 1
+modular group: 1
+boundary factorisation constraint: 1
+unoriented surface: 1
+latter case: 1
+free stable semilattice fibration: 1
+stable semilattice fibration: 1
+such fibration: 1
+unitary restriction category: 1
+certain adjunction: 1
+closed pseudofunctor: 1
+abstract class: 1
+arbitrary orthomodular lattice: 1
+orthomodular sublattice: 1
+extra condition: 1
+quantic quantifier: 1
+orthomodular lattice: 1
+internal relation: 1
+unified approach: 1
+lax slice: 1
+cubical face operation: 1
+distinguished subclass: 1
+certain thin filler condition: 1
+cubical nerve functor: 1
+thin filler: 1
+arbitrary adjunction: 1
+effective descent type: 1
+several situation: 1
+exponential functor: 1
+semisimple ring: 1
+final application: 1
+noncommutative ring: 1
+classical affine logic: 1
+free logic: 1
+propositional part: 1
+same construction: 1
+generic construction: 1
+interesting open problem: 1
+cyclic counterpart: 1
+new object: 1
+base bicategory: 1
+single hom: 1
+well connection: 1
+linear path: 1
+same length: 1
+bipartite state transition system: 1
+basic game: 1
+categorical product: 1
+important area: 1
+common meeting point: 1
+cross - disciplinary connection: 1
+- disciplinary connection: 1
+disciplinary connection: 1
+other result: 1
+formal concept: 1
+entailment relation correspond: 1
+top element: 1
+stepping stone: 1
+formal context result: 1
+complete algebraic lattice: 1
+intriguing variation: 1
+natural deduction system: 1
+strict sense: 1
+historical background: 1
+nice monad: 1
+tannakian category: 1
+tannakian subcategory: 1
+such quotient category: 1
+universal monoidal category: 1
+cosemigroup structure: 1
+dimensional separable algebra condition: 1
+separable algebra condition: 1
+various algebraic invariant: 1
+algebraic invariant: 1
+standard tool: 1
+previous theory: 1
+second paper: 1
+high cubical cospan: 1
+abstract category: 1
+third article: 1
+cubical topological cospan: 1
+collared version: 1
+non - associative algebra: 1
+- associative algebra: 1
+additive model category: 1
+symmetric spectra: 1
+simplicial abelian group: 1
+symmetric monoidal model category: 1
+such monad morphism dense: 1
+dense monad morphism: 1
+epimorphic property: 1
+such action: 1
+quasi - shuffle: 1
+rooted tree: 1
+binary quadratic regular operad: 1
+quadratic regular operad: 1
+operadic sense: 1
+weak cubical category: 1
+cubical category: 1
+formal cospan: 1
+weak sense: 1
+suitable comparison: 1
+symmetric cubical structure: 1
+cubical structure: 1
+strong simplification: 1
+subsequent paper: 1
+multiple category: 1
+different sort: 1
+countable family: 1
+present example: 1
+symmetric cubical case: 1
+cubical case: 1
+topological application: 1
+contractible operad: 1
+general manifold: 1
+general dimension: 1
+second factor: 1
+definable dominance domain: 1
+positive answer: 1
+extensive topos doctrine: 1
+connected topos: 1
+same place: 1
+abstract core algebra: 1
+new technique: 1
+mistaken version: 1
+finite coproduct completion: 1
+distinguished morphism: 1
+weak homotopy type: 1
+straightforward extension: 1
+crossed complex: 1
+general bicategorie: 1
+strong property: 1
+unique strict solution: 1
+strict solution: 1
+dual unit: 1
+strong algebraic structure: 1
+closed unit ball functor: 1
+polarized notion: 1
+considerable detail: 1
+internal suplattice: 1
+spatial background: 1
+classical analysis: 1
+modern theory: 1
+continuum physics: 1
+partial invariant: 1
+various level: 1
+axiomatic study: 1
+extensive quality: 1
+intensive quality: 1
+condensed aspect: 1
+canonical quality form: 1
+atomic number: 1
+sufficient cohesion: 1
+weak generation: 1
+quotient topos: 1
+dynamical law: 1
+constitutive relation: 1
+other mathematical structure: 1
+cohesive category: 1
+parametrized spectra: 1
+many bicategorical notion: 1
+complicated coherence problem: 1
+categorical fibration: 1
+attendant notion: 1
+usual bicategorical one: 1
+bicategorical one: 1
+parametrized family: 1
+long cohomology: 1
+dual definition: 1
+natural universal property: 1
+finite space: 1
+extended algebraic geometry: 1
+birkhoffian inclusion: 1
+tropical geometry: 1
+separable prextensive category: 1
+prextensive category: 1
+same set: 1
+classical sense: 1
+certain situation: 1
+opulent structure: 1
+universal morphism: 1
+further investigation: 1
+weak result: 1
+linear distributive structure: 1
+distributive structure: 1
+weak hypothesis: 1
+deep understanding: 1
+basic category theory: 1
+same discrete object: 1
+simple reciprocal stability law: 1
+reciprocal stability law: 1
+initial functor: 1
+right adjunctible map: 1
+dense map: 1
+several classical property: 1
+corresponding slice: 1
+basic tool: 1
+abstract closed interval: 1
+closed interval: 1
+certain equational structure: 1
+equational structure: 1
+parametric lapl structure: 1
+lapl structure: 1
+parametric polymorphism: 1
+recursive domain equation: 1
+many different model: 1
+different model: 1
+set theoretic model: 1
+syntactic model: 1
+admissible per: 1
+reflexive domain: 1
+fundamental pushout topos: 1
+local connectedness assumption: 1
+localic prodiscrete: 1
+discrete progroupoid: 1
+branched covering: 1
+dimensional locale: 1
+old theorem: 1
+orthogonal adjunction: 1
+pointwise case: 1
+internal comma object: 1
+comma object: 1
+arbitrary double category: 1
+pseudodistributive law: 1
+pointed additive: 1
+large classification table: 1
+dimensional topological space: 1
+surjective fibration: 1
+topological structure: 1
+topological theory: 1
+injective space: 1
+several semantic domain: 1
+semantic domain: 1
+accessible set: 1
+connected limit: 1
+familial representability: 1
+weak wide pullback: 1
+wide pullback: 1
+recent investigation: 1
+relational algebra: 1
+essential use: 1
+unital quantale: 1
+many such lax extension: 1
+such lax extension: 1
+unifying light: 1
+symptomatic situation: 1
+distinct monad: 1
+isomorphic category: 1
+internal reflexive graph: 1
+multiplicative graph structure: 1
+weakly maltsev category: 1
+simplified characterization: 1
+sided action: 1
+monoidal centre: 1
+lax centre: 1
+connected category: 1
+unary universal: 1
+many object: 1
+algebraic system: 1
+unary relation: 1
+full reflective regular subcategory: 1
+reflective regular subcategory: 1
+regular subcategory: 1
+epireflective protolocalisation: 1
+corresponding closure operator: 1
+different perspective: 1
+additive symmetric monoidal category: 1
+differential combinator: 1
+differentiable map: 1
+linear notion: 1
+intuitive relationship: 1
+primary example: 1
+euclidean space: 1
+cartesian differential operator: 1
+natural assumption: 1
+cartesian differential: 1
+same language: 1
+traditional multi: 1
+variable calculus: 1
+many monad: 1
+combinatorial flavor: 1
+globular decomposition: 1
+cellular decomposition: 1
+combinatorial model category such: 1
+cellular object: 1
+topological space colimit: 1
+quillen adjoint: 1
+semisimple representation: 1
+various ring: 1
+exact endofunctor: 1
+simple definition: 1
+various representation: 1
+symmetric group: 1
+high weight category: 1
+non - expert: 1
+topological aspect: 1
+homotopical property: 1
+critical branching: 1
+several technique: 1
+general differentiable stack: 1
+differentiable stack: 1
+main theorem state: 1
+theorem state: 1
+compact proper differentiable stack exist: 1
+proper differentiable stack exist: 1
+differentiable stack exist: 1
+usual result: 1
+general proper stack: 1
+proper stack: 1
+other key aspect: 1
+key aspect: 1
+differential geometry such: 1
+non - finite profinite group: 1
+- finite profinite group: 1
+finite profinite group: 1
+canonical site: 1
+equivariant map: 1
+epimorphic cover: 1
+efficient way: 1
+open subgroup: 1
+various model category structure: 1
+cyclic boolean flow: 1
+parametrized flow: 1
+parameterized flow: 1
+non - spatial locale: 1
+- spatial locale: 1
+spatial locale: 1
+involutive functor: 1
+small pre - hilbert category: 1
+pre - hilbert category: 1
+- hilbert category: 1
+hilbert category: 1
+monoidal unit: 1
+simple generator embed: 1
+pre - hilbert space: 1
+- hilbert space: 1
+hilbert space: 1
+adjointable map: 1
+intermediate result: 1
+involutive field: 1
+continuous linear map: 1
+complex base field: 1
+right adjoint monad: 1
+ordinary distributive law: 1
+weak entwining operator: 1
+mixed case: 1
+additive connective: 1
+categorical point: 1
+usual interpretation: 1
+pre - connective: 1
+- connective: 1
+whole family: 1
+stratified coherent model: 1
+obsessional coherent model: 1
+strong shape equivalence: 1
+strong shape equivalence coincide: 1
+certain homotopical invariant: 1
+homotopical invariant: 1
+glued space: 1
+homotopical excision: 1
+critical dimension: 1
+induced module: 1
+overall context: 1
+such construction: 1
+useful general result: 1
+connected colimit: 1
+main homotopical application: 1
+homotopical application: 1
+several base point: 1
+unlabeled asynchronous transition system: 1
+asynchronous transition system: 1
+local preorder: 1
+distinct component: 1
+such component: 1
+computable invariant: 1
+such meaningful partition: 1
+meaningful partition: 1
+geometric technique: 1
+static program analysis: 1
+prior work: 1
+last clause: 1
+precise meaning: 1
+dendrotopic set: 1
+countable neighbourhood property: 1
+countable subcover: 1
+compact subset: 1
+finite subset: 1
+further property: 1
+such space: 1
+closed symmetric monoidal category: 1
+natural duality: 1
+monoidal exact functor: 1
+commutative diagram necessary: 1
+certain duality: 1
+classical base change: 1
+such duality: 1
+particular notion: 1
+categorical pasting diagram: 1
+commutative part: 1
+standard result: 1
+bicategorical analog: 1
+pointed categorical counterpart: 1
+subtractive normal category: 1
+homological category due: 1
+pointed subobject: 1
+suitable preservation: 1
+standard diagram: 1
+regular category due: 1
+elementary rule: 1
+pointed regular category: 1
+metric jet: 1
+metric jet tangent: 1
+metric context: 1
+new differentiability: 1
+classical differentiability: 1
+new map: 1
+other condition: 1
+intermediate class: 1
+distinguished class: 1
+simplified categorical approach: 1
+mild additional condition: 1
+suitable monad: 1
+other related construction: 1
+related construction: 1
+various explicit calculation: 1
+dimensional non: 1
+dimensional cohomology: 1
+coefficient object: 1
+particular functor: 1
+comprehensive factorization: 1
+former theorem: 1
+coefficient category: 1
+discrete functor: 1
+full replete reflective subcategory: 1
+replete reflective subcategory: 1
+- fold internal groupoid: 1
+fold internal groupoid: 1
+explicit high: 1
+crucial concept: 1
+such computation possible: 1
+general treatment: 1
+appropriate condition: 1
+universal measure: 1
+universal multiplicative measure: 1
+multiplicative measure: 1
+multiplicative case: 1
+monadic schizophrenic object biadjunction: 1
+schizophrenic object biadjunction: 1
+permutative category: 1
+strict one: 1
+generalized multicategory: 1
+numerous context: 1
+such diverse example: 1
+diverse example: 1
+specific bicategorie: 1
+previous example: 1
+detailed exposition: 1
+systematic process: 1
+combinatorial interpretation: 1
+second application: 1
+prime power: 1
+simple nontrivial example: 1
+nontrivial example: 1
+projective plane: 1
+finite field: 1
+third application: 1
+laced quiver: 1
+positive part: 1
+internal profunctor: 1
+new profunctorial approach: 1
+profunctorial approach: 1
+maltsev context: 1
+faithful action: 1
+certain abelian group: 1
+normal extension: 1
+combinatorial category: 1
+concrete description: 1
+various category equivalent: 1
+helpful viewpoint: 1
+first generalization: 1
+vertical category: 1
+second generalization: 1
+oplax normal double category: 1
+normal double category: 1
+vertical arrow category: 1
+doctrinal approach: 1
+indexed inclusion: 1
+weak temporal doctrine: 1
+same codomain such: 1
+categorical logic: 1
+logical rule: 1
+like law: 1
+several basic categorical property: 1
+basic categorical property: 1
+nice symmetry: 1
+strong context: 1
+upper set: 1
+complete ring: 1
+new variation: 1
+high wide subcategory: 1
+wide subcategory: 1
+reflexive topological module: 1
+topological module: 1
+deterministic automata: 1
+monadic formalism: 1
+first monad: 1
+nondeterministic case: 1
+stochastic case: 1
+measurable monoid: 1
+useful review: 1
+several appendix: 1
+detailed construction: 1
+alternative description: 1
+unpublished result: 1
+canonical algebra morphism: 1
+free module: 1
+objective approach: 1
+monoidal extensive category: 1
+combinatorial object: 1
+appropriate ring: 1
+combinatorial functor: 1
+explicit consideration: 1
+analogous property: 1
+- homological: 1
+reedy model structure: 1
+different model category: 1
+different entry: 1
+bisimplicial model category: 1
+new invariant: 1
+smooth transversal map: 1
+transversal map: 1
+natural class: 1
+normal submersion: 1
+usual homotopy group: 1
+elementary property: 1
+rich structure: 1
+rigid monoidal category: 1
+framed tangle: 1
+complete description: 1
+unitary semigroup: 1
+general semigroup: 1
+profunctorial explanation: 1
+autonomous monoidal bicategory: 1
+easy observation: 1
+arbitrary monoidal category: 1
+correct level: 1
+standard concept: 1
+correct framework: 1
+arithmetic pretopos: 1
+general categorical definition: 1
+categorical definition: 1
+cartesian bicategorie: 1
+left adjoint arrow: 1
+other area: 1
+stochastic process: 1
+combinatorial group theory: 1
+finer invariant: 1
+finite walkable graph: 1
+walkable graph: 1
+recent idea: 1
+differential restriction structure: 1
+various completion operation: 1
+countable meet: 1
+alternate proof: 1
+unpublished theorem: 1
+coreflective pair: 1
+full subcategorie satisfie: 1
+associated pair: 1
+various compactification: 1
+new explicit construction: 1
+categorical semidirect product: 1
+horizontal transformation: 1
+strong morphism: 1
+lax double category: 1
+traditional setting: 1
+nineteenth century: 1
+posetal analogue: 1
+involutive quantale: 1
+covariant involution: 1
+other notion: 1
+pivotal category: 1
+small involutive: 1
+integral quantaloid: 1
+certain subalgebra: 1
+specific monad: 1
+closed left ideal: 1
+left ideal: 1
+left proper combinatorial model structure such: 1
+proper combinatorial model structure such: 1
+combinatorial model structure such: 1
+same cube: 1
+high dimensional transition system corresponding: 1
+dimensional transition system corresponding: 1
+bisimilar cubical transition system: 1
+weakly equivalent: 1
+technical lemma: 1
+homotopical interpretation: 1
+elementary condition: 1
+involutive quantaloid: 1
+such quantaloid: 1
+bilateral quantaloid: 1
+negative real number: 1
+closed crible: 1
+various concern: 1
+internal co - category: 1
+strong logical structure: 1
+logical structure: 1
+irreducible coalgebra: 1
+unbounded case: 1
+total degree: 1
+small adhesive category: 1
+curious type: 1
+certain pair: 1
+noncommutative duality: 1
+preliminary attempt: 1
+further development: 1
+fourier theory: 1
+quantum algebra: 1
+autonomous monoidal category: 1
+close resemblance: 1
+functional analysis: 1
+certain special type: 1
+special type: 1
+wavelet mathematic: 1
+promultiplicative graph: 1
+related concept: 1
+various different definition: 1
+different definition: 1
+smooth object: 1
+certain collection: 1
+standard test object: 1
+smooth space: 1
+canonical natural transformation: 1
+punctual local connectedness: 1
+strict monoidal category: 1
+possible novel geometric interest: 1
+novel geometric interest: 1
+geometric interest: 1
+such algebra: 1
+bicategorical localisation: 1
+few assumption possible: 1
+natural category: 1
+usual relative algebraic tensor product: 1
+relative algebraic tensor product: 1
+algebraic tensor product: 1
+diagonal simplicial set: 1
+total simplicial set: 1
+natural comparison map: 1
+elementary proof: 1
+simplicial loop group functor: 1
+complex functor: 1
+monadic definition: 1
+quantum category unpack: 1
+algebraic literature: 1
+quantum structure: 1
+general technique: 1
+such criterion: 1
+specific invariant: 1
+explicit site characterization: 1
+theoretic perspective: 1
+main conceptual tool: 1
+conceptual tool: 1
+grouped topos: 1
+theoretic characterization: 1
+lefschetz number vanishe: 1
+associated bicategory: 1
+parametrized space: 1
+dualizable fiber: 1
+other context: 1
+semantic characterization: 1
+appropriate representation: 1
+indexed category theory: 1
+bicategorical cokernel: 1
+simple algebraic description: 1
+combinatorial description: 1
+treelike structure: 1
+easy way: 1
+second part: 1
+various other kind: 1
+partial product: 1
+cartesian partial map category: 1
+several free construction: 1
+free construction: 1
+systematic study: 1
+abstract partial map category: 1
+representational result: 1
+small range category: 1
+partial function: 1
+free range category: 1
+possible proof: 1
+elementary formal reduction: 1
+formal reduction: 1
+particular laxified version: 1
+laxified version: 1
+lax unit: 1
+monoidal bicategorie: 1
+invertible associativity: 1
+internal biequivalence: 1
+invertible object: 1
+coherent choice: 1
+equivalent small category: 1
+relative cell: 1
+important class: 1
+new expression: 1
+algebraic model structure: 1
+recent joint paper: 1
+same author: 1
+special form: 1
+present author: 1
+new property: 1
+cauchy complete category: 1
+final section application: 1
+cartesian monoidal category: 1
+important case: 1
+strong monoidal forgetful: 1
+monoidal forgetful: 1
+graphical notation: 1
+coloured region: 1
+complicated calculation: 1
+certain algebraic structure: 1
+additional algebraic structure: 1
+strict interval: 1
+certain cocategory object: 1
+alternative approach: 1
+autonomous case: 1
+various fragment: 1
+multiple site: 1
+presheaf type: 1
+suitable full: 1
+closed multicategorie: 1
+commutative monad: 1
+several aspect: 1
+physical extensive quantity: 1
+particular aspect: 1
+conditional probability: 1
+double complex: 1
+analogous study: 1
+triple complex: 1
+weak wreath product construction: 1
+first instance: 1
+other value: 1
+local idempotent closure: 1
+- fold composite: 1
+fold composite: 1
+important occurrence: 1
+observable quantity: 1
+dual pair: 1
+finite weak: 1
+faithful embedding: 1
+logical development: 1
+algebraic viewpoint: 1
+abstract enriched notion: 1
+enriched notion: 1
+equational presentation: 1
+logical viewpoint: 1
+general formal deductive system: 1
+formal deductive system: 1
+equational consequence: 1
+canonical model theory: 1
+free algebra % construction: 1
+internal strong: 1
+weak finite limit: 1
+elementary doctrine: 1
+such doctrine: 1
+universal solution: 1
+other universal construction: 1
+effective quotient: 1
+other force extensionality: 1
+vast generalization: 1
+local cocompleteness: 1
+strong representability: 1
+cocomplete homological category: 1
+small datum: 1
+abstract action core: 1
+exact setting: 1
+preliminary investigation: 1
+general categorical context: 1
+high categorical commutator: 1
+nested binary one: 1
+binary one: 1
+strict action core: 1
+strict conjugation action: 1
+alternative proof: 1
+usual property: 1
+high coherence condition: 1
+abelian action core: 1
+corresponding morphism concept: 1
+topological concept: 1
+compact fibre: 1
+regular injective object: 1
+commutative ring object: 1
+explicit hopf formulae: 1
+ideal determined category: 1
+determined category: 1
+canonical arrow: 1
+ideal determined variety: 1
+determined variety: 1
+most notion: 1
+reflective sub: 1
+small family: 1
+finite limit relative: 1
+unary case: 1
+small presheave: 1
+ary exact completion: 1
+large nontrivial site: 1
+nontrivial site: 1
+small sheaf: 1
+enhanced allegory: 1
+representable profunctor: 1
+entire functional relation: 1
+functional relation: 1
+abstract categorical setting: 1
+categorical setting: 1
+unified treatment: 1
+fourth author: 1
+pointed analogue: 1
+reflexive strong relation: 1
+particular instance: 1
+only pushout: 1
+regular monomorphism: 1
+vertical normal: 1
+horizontal lax transformation: 1
+finite poset: 1
+single theorem: 1
+certain exponentiable morphism: 1
+usual definition: 1
+doctrinal setting: 1
+complete category diexact: 1
+strict initial object: 1
+separable factorization: 1
+different property: 1
+ordinary realizability topos: 1
+ordinary realizability: 1
+dense applicative morphism: 1
+quantum homogeneous space: 1
+dimensional representation: 1
+indecomposable module: 1
+natural equivalence: 1
+global approach: 1
+other geometry: 1
+differentiable function: 1
+smooth function: 1
+such theory: 1
+complex supermanifold: 1
+algebraic superscheme: 1
+latter being: 1
+canonical superization: 1
+special subcategory: 1
+determined algebra: 1
+algebraic property: 1
+strict double category: 1
+weakly globular double category model: 1
+globular double category model: 1
+double category model: 1
+relative regular: 1
+exterior differentiation: 1
+exterior derivative: 1
+first principal result: 1
+second principal result: 1
+lax tensor product: 1
+single framework: 1
+conceptual background: 1
+additional operation subject: 1
+certain identity: 1
+complical identity: 1
+tight span construction: 1
+classical metric space: 1
+categorical completion: 1
+different semi - tropical module structure: 1
+classical enriched category: 1
+such enriched: 1
+free cocompletion functor: 1
+homological degree: 1
+equivariant sheaf topos: 1
+quotient geometric theory: 1
+intrinsic characterization: 1
+quotient theory: 1
+certain example: 1
+axiomatic framework reproduce: 1
+systematical way several: 1
+abelian differential cocycle: 1
+differential cocycle: 1
+concrete model: 1
+several new feature: 1
+new feature: 1
+large category: 1
+small nontrivial reflective subcategory: 1
+categorical formulation: 1
+unique nontrivial reflective epicomplete subcategory: 1
+nontrivial reflective epicomplete subcategory: 1
+reflective epicomplete subcategory: 1
+epicomplete subcategory: 1
+other interesting reflective subcategorie: 1
+interesting reflective subcategorie: 1
+co - epicomplete object: 1
+- epicomplete object: 1
+epicomplete object: 1
+- epireflective: 1
+theoretic setting: 1
+simplicial category: 1
+certain limit: 1
+double dualization: 1
+linear analogue: 1
+compact vector space: 1
+finite family: 1
+ultraproduct monad: 1
+most cofibration: 1
+large family: 1
+diagonal structure: 1
+diagonal model structure: 1
+inverse image commute: 1
+pioneering study: 1
+degenerate topos: 1
+simple condition equivalent: 1
+computational density: 1
+unified setting: 1
+equivalent construction: 1
+structural organisation: 1
+like product: 1
+semimonoidal category: 1
+semiunitary semimodule: 1
+unitary module: 1
+counitary comodule: 1
+main source: 1
+similar spirit: 1
+algebraic space: 1
+idempotent split completion: 1
+split completion: 1
+further duality theorem: 1
+horizontal monoid: 1
+vertical monoidal structure: 1
+certain hom: 1
+classical convolution: 1
+new duoidal category: 1
+high dimensional analogue: 1
+other paper: 1
+little brother: 1
+high categorical structure definable: 1
+categorical structure definable: 1
+analogous tensor product: 1
+standard strictification functor: 1
+convenient symmetric monoidal bicategory: 1
+strict tricategorie: 1
+degenerate one: 1
+correct bicategory: 1
+early study: 1
+dense one: 1
+general form: 1
+relative computability: 1
+effective topos: 1
+universal way: 1
+compact smooth manifold: 1
+compact étale lie: 1
+étale lie: 1
+twisted vector bundle: 1
+suitable enriched category: 1
+proper factorization system: 1
+normed vector space: 1
+enriched idempotent monad: 1
+dense morphism: 1
+latter hypothesis: 1
+certain pullback: 1
+wide intersection: 1
+enriched monad: 1
+opcartesian tabulation: 1
+diagrammatic criterion: 1
+strong stack due: 1
+related result: 1
+quillen model category due: 1
+suitable monoidal simplicial model category: 1
+monoidal simplicial model category: 1
+small simplicial category due: 1
+simplicial category due: 1
+suitable monoidal model category: 1
+simplicial replacement: 1
+other concrete example such: 1
+concrete example such: 1
+infinitesimal deformation theory: 1
+free part: 1
+rigorous exposition: 1
+heuristic method: 1
+cartesian structure: 1
+sequential multicategorie: 1
+concurrent arrow: 1
+cartesian multicategorie: 1
+similar perspective: 1
+peculiar item such: 1
+algebraic product: 1
+several classical fact: 1
+classical fact: 1
+usual diagonal lifting property: 1
+diagonal lifting property: 1
+such enriched factorization system: 1
+enriched factorization system: 1
+enriched prefactorization system: 1
+ordinary factorization system: 1
+other spectra such: 1
+traditional conditional expectation: 1
+classical setting: 1
+new formulation: 1
+theoretical criterion: 1
+projective line: 1
+suitable field: 1
+interesting category: 1
+convex linear: 1
+low semicontinuous functor: 1
+semicontinuous functor: 1
+additive monoid: 1
+scalar multiple: 1
+early characterization: 1
+categorical topology: 1
+basic example: 1
+same thing: 1
+complete preorder: 1
+general topological functor: 1
+complete preorder relative: 1
+topological one: 1
+generalised notion: 1
+various concept: 1
+complete lie: 1
+nilpotent case: 1
+categorical structure project: 1
+latter concrete: 1
+corresponding composition rule cite{ss07: 1
+dual categorical approach: 1
+preliminary step: 1
+categorical treatment: 1
+new conceptual link: 1
+conceptual link: 1
+healthy appetite: 1
+theoretic argument: 1
+streamlined proof: 1
+useful technical result: 1
+hard work: 1
+simple computation: 1
+familiar formulae: 1
+twisted action: 1
+numerous example: 1
+new terminology: 1
+essential new notion: 1
+analytic spectrum: 1
+analytic function: 1
+analytic space: 1
+analytic version: 1
+arithmetic variety: 1
+high gauge theory: 1
+canonical mapping space: 1
+essential ingredient: 1
+comonadic resolution: 1
+canonical fibration: 1
+special homogeneous surjection: 1
+homogeneous surjection: 1
+real vector space: 1
+positive integer: 1
+such map: 1
+precise axiom: 1
+theorem exist: 1
+usual sheaf: 1
+profinite topological space: 1
+bitopological quasi spectral space: 1
+corresponding quotient category: 1
+many previous construction: 1
+dimensional manifold: 1
+several category: 1
+other bibundle: 1
+equivalent bicategorie: 1
+strong protomodularity: 1
+wise algebraic cartesian closedness: 1
+algebraic cartesian closedness: 1
+open dynamical system: 1
+algebraic nature: 1
+complex dynamical system: 1
+simple one: 1
+syntactic architecture: 1
+such interconnection: 1
+visual language: 1
+black box: 1
+algebraic rule: 1
+semantic content: 1
+linear system: 1
+internal state: 1
+classical problem: 1
+algebraic relationship: 1
+different level: 1
+general monad: 1
+universal ambient structure: 1
+ambient structure: 1
+prescribed internal structure: 1
+categorical colimit: 1
+extra structure present: 1
+crossed internal category: 1
+such codescent object: 1
+theoretic situation: 1
+abstract elementary class: 1
+elementary class: 1
+broad view: 1
+original operad: 1
+unifying environment: 1
+categorical way: 1
+weak morphism: 1
+general symmetric monoidal category: 1
+associative composition: 1
+idempotent comonad structure: 1
+small taxon: 1
+interpolative module: 1
+useful grading: 1
+strong inclusion: 1
+strong bi: 1
+spatial case: 1
+regular bispace: 1
+analogous situation: 1
+diagrammatic term: 1
+computable example: 1
+abelian surface holonomy: 1
+dimensional holonomie: 1
+rigorous meaning: 1
+abelian magnetic: 1
+dimensional categorical structure: 1
+weak triple category: 1
+main feature: 1
+third composition: 1
+invertible comparison cell: 1
+appropriate morphism: 1
+strict triple category: 1
+crossed bimodule: 1
+special kind span: 1
+unique lifting property: 1
+usual monodromy action: 1
+traditional covering space: 1
+special coreflective subcategorie: 1
+such covering: 1
+standard whisker topology: 1
+contractible space: 1
+continuous lifting: 1
+natural quotient topology: 1
+third paper: 1
+simplicial structure similar: 1
+simplicial structure: 1
+associated canonical: 1
+weak equivalence class: 1
+universal covering space: 1
+monoidal natural transformation: 1
+dual setting: 1
+cyclic homology: 1
+monadic framework: 1
+mutual inverse: 1
+local diffeomorphism: 1
+same effect: 1
+equivalent lie groupoid: 1
+systematic way: 1
+different lie groupoid: 1
+effective orbifold groupoid: 1
+orbifold groupoid: 1
+traditional notion: 1
+proper smooth stack: 1
+smooth stack: 1
+quotient functor: 1
+symmetric kernel: 1
+functorial section: 1
+linear dual: 1
+cocontinuous linear functor: 1
+double dual: 1
+dimensional coassociative coalgebra: 1
+coassociative coalgebra: 1
+quasi - coherent sheaf: 1
+- coherent sheaf: 1
+coherent sheaf: 1
+semisimple algebraic group: 1
+algebraic group: 1
+positive characteristic: 1
+closed projective subscheme: 1
+projective subscheme: 1
+positive dimension: 1
+reductive group: 1
+tannakian duality: 1
+countable indexing poset: 1
+apparent strengthening: 1
+internal axiom: 1
+modified category: 1
+corresponding construction: 1
+broad class: 1
+other thing: 1
+other fit: 1
+unbiased basis: 1
+algebraic setting: 1
+possible generalization: 1
+simplicial space: 1
+segal space: 1
+simplicial group corresponding: 1
+ordinary group action: 1
+weakly monoidal functor: 1
+simplicial degree: 1
+complete skeletal: 1
+distributive skeletal: 1
+internal presheave: 1
+related problem: 1
+orbital extensive category: 1
+combinatorial aspect: 1
+differential linear logic: 1
+many different: 1
+independent way: 1
+natural condition: 1
+practical importance: 1
+modern differential geometry: 1
+cartesian category: 1
+polynomial functor: 1
+present framework: 1
+many distinct: 1
+covariant category: 1
+similar one: 1
+bicategorical ingredient: 1
+right semireplete: 1
+monic relative: 1
+third correspondence: 1
+several coherence theorem: 1
+canonical adjunction: 1
+more generality: 1
+preliminary statement: 1
+possible weak equivalence: 1
+undesirable property: 1
+such monoidal: 1
+monoidal nature: 1
+numerous author: 1
+bicategorical structure: 1
+important distinction: 1
+algebraic part: 1
+coincidental part: 1
+distributive partial lattice complete partial order: 1
+partial lattice complete partial order: 1
+useful guide: 1
+partial lattice: 1
+relevant part: 1
+reasonable necessary condition: 1
+theoretical interpretation: 1
+characteristic subobject: 1
+characteristic subgroup: 1
+general semi - abelian context: 1
+double monad: 1
+normal oplax: 1
+forgetful double functor: 1
+suitable symmetric monoidal category: 1
+bicommutative hopf monoid: 1
+cocommutative comonoid: 1
+flexible way: 1
+general bicomplete category: 1
+bicomplete category: 1
+particular partition: 1
+fundamental property: 1
+- schemoid: 1
+constant cosheave: 1
+uniform completion: 1
+archimedean vector lattice: 1
+contravariant adjunction: 1
+pioneering work: 1
+important structure: 1
+such structure: 1
+first section: 1
+contravariant identity: 1
+extremal solution: 1
+strong such monad: 1
+economical refined version: 1
+refined version: 1
+categorical cocylinder factorization: 1
+co)fibred functor: 1
+local nature: 1
+nonlocal geometric information: 1
+geometric information: 1
+compatible pair: 1
+local section: 1
+conditional product structure: 1
+joint probability distribution: 1
+new kind: 1
+distinctive feature: 1
+original morphism: 1
+composite morphism: 1
+final face: 1
+high span: 1
+arbitrary characteristic: 1
+indecomposable representation: 1
+linear representation: 1
+first homotopy group: 1
+open localic surjection: 1
+localic surjection: 1
+tannakian recognition: 1
+independent result: 1
+exhaustive comparison: 1
+discrete subjacent: 1
+arbitrary base topos: 1
+neutral case: 1
+base monoidal category: 1
+basic quasi - topos theory: 1
+quasi - topos theory: 1
+topos theory: 1
+singular space: 1
+dimensional space: 1
+compact closed bicategory: 1
+closed bicategory: 1
+weak dual: 1
+certain bicategorie: 1
+combinatorial model: 1
+simplicial presheave: 1
+joyal equivalence: 1
+dualizable object: 1
+linear combination: 1
+formal nature: 1
+homotopical context: 1
+familiar additivity: 1
+general formula: 1
+relative realizability topos: 1
+boolean subtopos: 1
+non - localic: 1
+- localic: 1
+categorical character: 1
+contravariant global section: 1
+trivial vector bundle: 1
+linear extension: 1
+linearized locale: 1
+sober spectral vector bundle: 1
+finer topology: 1
+open support topology: 1
+universal spectral vector bundle: 1
+arbitrary topological vector space: 1
+classical snake lemma: 1
+new diagram lemma: 1
+strong homotopy kernel: 1
+regular protomodular category: 1
+many generalization: 1
+same base category: 1
+relative exact homological category: 1
+arbitrary object: 1
+previous article: 1
+specific class: 1
+split epimorphism: 1
+relative notion: 1
+classical principal bundle: 1
+local datum: 1
+simple cotriple description: 1
+cotriple description: 1
+simplicial algebra: 1
+prime filter: 1
+fibred topology: 1
+few basic result: 1
+basic result: 1
+suitable class: 1
+horizontal composition: 1
+crucial role: 1
+forthcoming paper: 1
+dimensional case: 1
+direct consequence: 1
+strict biadjoint triangle theorem: 1
+brief application: 1
+weak analog: 1
+algebraic closure: 1
+etale topology: 1
+classical invariant such: 1
+central role: 1
+indecomposable projective: 1
+homological invariant: 1
+various basis: 1
+suitable choice: 1
+modest condition: 1
+such system: 1
+eleutheric system: 1
+equational subcategorie: 1
+suitable notion: 1
+equational subcategory: 1
+ambient algebraic category: 1
+small model category: 1
+certain size condition: 1
+right properness: 1
+simplicial enrichment: 1
+canonical model structure: 1
+topological category: 1
+coterminal morphism: 1
+normal unital category: 1
+normal closure: 1
+respective regular image: 1
+large commutator: 1
+concrete aim: 1
+certain stability property: 1
+permutable variety: 1
+abstract aim: 1
+above characterisation: 1
+explicit new example: 1
+varietal proof: 1
+unconditional exactness property: 1
+approximate co: 1
+dual notion: 1
+ultrametric space: 1
+right regular span: 1
+regular span: 1
+nonnegative real number: 1
+ary operation: 1
+phylogenetic tree: 1
+genome datum: 1
+large operad: 1
+combinatorial spectra: 1
+such spectra: 1
+geometric concept: 1
+geometric viewpoint: 1
+homological descent: 1
+main motivation: 1
+functorial way: 1
+distinguished type: 1
+weakly equivalent enriched category: 1
+equivalent enriched category: 1
+excellent model category: 1
+characterizable fibrant object: 1
+other axiom: 1
+suitable set: 1
+several consequence: 1
+cocomplete symmetric monoidal: 1
+finite biproduct: 1
+general characterization: 1
+key notion: 1
+similar state: 1
+last part: 1
+quantale completion: 1
+distributive join homomorphism: 1
+composable adjunction morphism: 1
+free adjunction: 1
+composable lax monad morphism: 1
+lax monad morphism: 1
+first column: 1
+holomorphic vector bundle: 1
+holomorphic bundle: 1
+high analogue: 1
+canonical line bundle: 1
+complex geometry: 1
+precise relationship: 1
+electrical engineering: 1
+nonabelian version: 1
+additional triviality condition: 1
+bilinear analog: 1
+multilinear functor calculus: 1
+categorical ring: 1
+unified way: 1
+fundamental system: 1
+transitive groupoid: 1
+important tool: 1
+abstract setting: 1
+complex structure: 1
+isomorphic description: 1
+archimedian approach: 1
+appropriate quantale: 1
+archimedean approach space: 1
+topological property: 1
+extremal disconnectedness: 1
+fundamental lemma: 1
+many different lifting: 1
+different lifting: 1
+different version: 1
+acyclic model method: 1
+axiomatic theory: 1
+first order: 1
+neighbour relation: 1
+synthetic proof: 1
+weakly orthogonal category: 1
+orthogonal category: 1
+suitable length functor: 1
+universal groupoid: 1
+corresponding graph: 1
+free refinement: 1
+respective effectivization: 1
+conceptual completeness: 1
+regular logic: 1
+novel categorical structure: 1
+several new way: 1
+quasi - compact open set: 1
+- compact open set: 1
+compact open set: 1
+parametrized signature: 1
+oriented manifold: 1
+previous categorical model: 1
+concrete datum such: 1
+sorted algebraic theory: 1
+concrete datum: 1
+principled way: 1
+null value: 1
+traditional database: 1
+single double categorical structure: 1
+double categorical structure: 1
+weak homotopical structure: 1
+homotopical structure: 1
+small weak cofibration category: 1
+natural way: 1
+sufficient intrinsic condition: 1
+intrinsic condition: 1
+compact metrizable space: 1
+metrizable space: 1
+many convenient formal property: 1
+convenient formal property: 1
+general application: 1
+multipli ideal sheaf: 1
+ideal sheaf: 1
+smooth quasi - projective variety: 1
+quasi - projective variety: 1
+- projective variety: 1
+projective variety: 1
+terminal pair: 1
+birational geometry: 1
+many setting: 1
+artinian simple module algebra: 1
+simple module algebra: 1
+present approach restrict: 1
+differential module: 1
+general one: 1
+codomain functor: 1
+such closure operator: 1
+algebraic definition: 1
+various abstraction: 1
+explicit relationship: 1
+binary relation: 1
+epic cospan: 1
+extraspecial commutative: 1
+monadic subcategorie: 1
+injective consequence: 1
+sound logic: 1
+later investigation: 1
+protomodular setting: 1
+full description: 1
+genuine monoid: 1
+high operad: 1
+many important monad: 1
+important monad: 1
+cartesian closed category category: 1
+closed category category: 1
+functorial relative: 1
+other application: 1
+main application: 1
+left cancellative small category: 1
+standard method: 1
+certain state: 1
+small open piece: 1
+open piece: 1
+basic way: 1
+symmetric monoidal double category: 1
+monoidal double category: 1
+canonical group object: 1
+localic group object: 1
+new localic: 1
+well functoriality: 1
+original version: 1
+high isotropy: 1
+ordinary isotropy group: 1
+localic version: 1
+atomic morphism: 1
+logical formalism: 1
+main concept: 1
+different phenomenon: 1
+multiple sequence alignment: 1
+conceptual view: 1
+fibred sum: 1
+composite pseudomonad structure: 1
+alternative construction: 1
+high order chain rule: 1
+open subobject classifier: 1
+classic case: 1
+canonical homotopy: 1
+shifted operadic deformation complex: 1
+operadic deformation complex: 1
+computational proof: 1
+suitable deformation functor: 1
+new point: 1
+right skew monoidale: 1
+first important result: 1
+similar technique: 1
+monoidal structure such: 1
+twisted category: 1
+additional hypothesis: 1
+explicit computation: 1
+axiomatic approach: 1
+key structural aspect: 1
+structural aspect: 1
+classical category: 1
+smooth vector bundle: 1
+arbitrary tangent category: 1
+useful abstract conceptualization: 1
+abstract conceptualization: 1
+single morphism: 1
+suitable decomposition: 1
+vertical connection: 1
+certain associated diagram: 1
+associated diagram: 1
+inductive functor: 1
+inverse semicategorie: 1
+quasi - hopf algebra: 1
+- hopf algebra: 1
+hopf algebra: 1
+explicit monoidal equivalence: 1
+monoidal equivalence: 1
+passive linear network: 1
+linear network: 1
+wide variety: 1
+marked input: 1
+same external behavior: 1
+same relation: 1
+symplectic vector space: 1
+symplectic linear: 1
+similar diagram: 1
+more general network: 1
+general network: 1
+chemical component: 1
+conductive wire: 1
+passive linear component: 1
+linear component: 1
+current source: 1
+natural prop: 1
+original construction: 1
+nonlinear component: 1
+key tool: 1
+monadic adjunction: 1
+effective orbifold: 1
+compatible system: 1
+other dimension: 1
+dimensional cobordism: 1
+additional equation: 1
+dimensional topological quantum field theory: 1
+diagrammatic algebra: 1
+general method: 1
+coherent way: 1
+finite groupoid: 1
+direct motivation: 1
+extended equivariant topological field theory: 1
+equivariant topological field theory: 1
+topological field theory: 1
+real line: 1
+lax semigroup: 1
+general framework: 1
+lax monoidal action: 1
+monoidal action: 1
+equivariant yield map: 1
+concise proof: 1
+equivariant functor: 1
+several common metric: 1
+common metric: 1
+general perspective: 1
+several new exactness condition: 1
+new exactness condition: 1
+canonical congruence: 1
+non - trivial isotropy: 1
+- trivial isotropy: 1
+trivial isotropy: 1
+high order isotropy: 1
+high isotropy group: 1
+ordinal invariant: 1
+small ordinal one: 1
+ordinal one: 1
+same concept: 1
+corresponding statement: 1
+technical work: 1
+certain suitable subcategorie: 1
+suitable subcategorie: 1
+inner fibration: 1
+additional result: 1
+inner anodyne morphism: 1
+constructive complete distributivity: 1
+commutative integral quantale: 1
+integral quantale: 1
+double power locale monad: 1
+certain categorical property: 1
+double power monad: 1
+standard organizational tool: 1
+organizational tool: 1
+left leg: 1
+ambient category: 1
+restrictive property: 1
+comprehensive framework: 1
+individual lax pullback complement diagram: 1
+lax pullback complement diagram: 1
+main construction: 1
+classical descent theory: 1
+weighted bilimit: 1
+formal consequence: 1
+new theorem: 1
+formal way: 1
+formal part: 1
+pointwise pseudo: 1
+alternative perspective: 1
+high descent theory: 1
+exact morphism: 1
+arbitrary natural transformation: 1
+categorical refinement: 1
+uniqueness statement: 1
+careful study: 1
+arbitrary exact category: 1
+right exact monoidal structure: 1
+exact monoidal structure: 1
+external hom: 1
+tate object: 1
+compact abelian group: 1
+presentable one: 1
+regular case: 1
+cocommutative hopf algebra: 1
+commutative base ring: 1
+first such example: 1
+such example: 1
+lax cone such: 1
+fundamental notion: 1
+basic exactness property: 1
+important corollary: 1
+dimensional theory: 1
+regular pattern: 1
+coloured operad: 1
+main ingredient: 1
+hereditary axiom: 1
+hereditary map: 1
+strict duality involution: 1
+basic notion: 1
+contravariant morphism: 1
+universal characterization: 1
+absolute weighted colimit: 1
+technical note: 1
+dual cocartesian fibration: 1
+cartesian fibration: 1
+same functor: 1
+certain circumstance: 1
+aforementioned condition: 1
+canonical map: 1
+outer biderivation: 1
+double pushout rewrite rule: 1
+compact closed sub: 1
+closed sub: 1
+weak left adjoint: 1
+weak reflection: 1
+weak right adjoint: 1
+multiplicative disjunction: 1
+several model: 1
+usual mathematical notion: 1
+mathematical notion: 1
+previous result: 1
+convenient smoothness: 1
+intuitionist model: 1
+associated notion: 1
+reflexive version: 1
+extra reflexivity condition: 1
+same star: 1
+quasi - variety: 1
+finitary operation: 1
+infinite arity: 1
+equational axiom: 1
+binary product commute: 1
+arbitrary coequalizer: 1
+regular unital: 1
+pointed factor permutable category: 1
+normal local projection: 1
+local projection: 1
+various algebraic structure: 1
+abstract clone: 1
+several variant: 1
+key observation: 1
+uniform method: 1
+general structure: 1
+double categorical universal property: 1
+categorical universal property: 1
+first installment: 1
+possible category: 1
+initial datum: 1
+minimal way: 1
+free product: 1
+formal functorial extension: 1
+functorial extension: 1
+algebraic operad: 1
+single binary operation: 1
+commutative associative: 1
+suitable categorical context: 1
+pointed categorical context: 1
+finitary regular monad: 1
+regular monad: 1
+many relation: 1
+- fold answer: 1
+fold answer: 1
+inverse problem: 1
+homotopical sense: 1
+internal object action: 1
+internal automorphism group: 1
+crossed module corresponding: 1
+last assumption: 1
+presentable algebra: 1
+easy proof: 1
+such definition: 1
+extended theory: 1
+sophisticated technology: 1
+complete theory: 1
+parametrized spectrum object: 1
+global point: 1
+relative model category: 1
+categorical tangent bundle: 1
+enriched model structure: 1
+finite coproduct such: 1
+canonical functor: 1
+dual canonical functor: 1
+syntactical characterization: 1
+left coextensive variety: 1
+coextensive variety: 1
+other argument: 1
+finiteness assumption: 1
+reflective adjunction: 1
+abstract self: 1
+dual context: 1
+homological diagram lemma: 1
+other group: 1
+usual product: 1
+usual commutator: 1
+dual approach: 1
+same way: 1
+certain universal property: 1
+coherent algebraic structure: 1
+full strictification: 1
+semi - strictification: 1
+- strictification: 1
+weak unit: 1
+dimensional universal property: 1
+universal cell: 1
+more composition operation: 1
+natural monoidal: 1
+high morphism: 1
+semi - strictification theorem: 1
+- strictification theorem: 1
+various type: 1
+unitary equivalence: 1
+operadic world: 1
+fibrant operad: 1
+genuine equivariant symmetric monoidal category: 1
+equivariant symmetric monoidal category: 1
+non - trivial boolean algebra: 1
+- trivial boolean algebra: 1
+trivial boolean algebra: 1
+skeletal object: 1
+similar manner: 1
+universal characterisation description: 1
+isomorphic construction: 1
+free distributive law: 1
+dual construction: 1
+left action: 1
+left invariant multiplicative vector field: 1
+related question: 1
+reasonable property: 1
+successive approximation: 1
+ordinal sequence: 1
+free triple: 1
+triple algebra: 1
+concurrent game semantic: 1
+single categorical framework: 1
+operational description: 1
+considered game: 1
+final position: 1
+certain fibredness property: 1
+fibred pseudo double category: 1
+first necessary: 1
+categorical congruence modularity: 1
+categorical congruence distributivity: 1
+new weak notion: 1
+quantum theory: 1
+global phase: 1
+categorical isotropy: 1
+unitary isomorphism: 1
+wide class: 1
+small selection: 1
+dagg adjoint: 1
+ordinary limit: 1
+polar decomposition: 1
+discrete cone: 1
+arbitrary free monoid: 1
+monoidal right adjoint: 1
+respective category: 1
+noncommutative surface: 1
+commutative divisor: 1
+eventual aim: 1
+more general kind: 1
+general kind: 1
+noncommutative blowup: 1
+basic object: 1
+quasi - scheme: 1
+- scheme: 1
+certain projective effacement: 1
+projective effacement: 1
+such effacement: 1
+closed point: 1
+general quasi - scheme: 1
+structural differential geometry: 1
+new condition: 1
+abstract span: 1
+various other span: 1
+other span: 1
+simplicial functor: 1
+strict monoidal simplicial category: 1
+monoidal simplicial category: 1
+above construction: 1
+opposite functor: 1
+certain aspect: 1
+multimonoidal monad: 1
+first construction: 1
+compatible pseudomonoid structure: 1
+oidal object: 1
+compatible way: 1
+stable coequalizer: 1
+oidal structure: 1
+symmetric strict monoidal double functor: 1
+strict monoidal double functor: 1
+monoidal double functor: 1
+different proof: 1
+recent result due: 1
+skeletal pre: 1
+lie algebra: 1
+strict pre: 1
+algebraic majority category: 1
+many geometric category such: 1
+geometric category such: 1
+mild assumption: 1
+only category: 1
+maltsev majority category: 1
+alternative generalization: 1
+arithmetical category: 1
+protoarithmetical category: 1
+exact context: 1
+varietal context: 1
+first moment: 1
+polish space: 1
+finite power: 1
+like construction: 1
+finite sample: 1
+closed convex subset: 1
+convex subset: 1
+short affine map: 1
+certain quotient category: 1
+simultaneous generalization: 1
+finite maximal rigid subcategorie: 1
+respective bar: 1
+classical context: 1
+intertwining theorem: 1
+koszul duality: 1
+comprehensive factorization system: 1
+special interest: 1
+horizontal bicategory: 1
+abelian symmetric monoidal category: 1
+associative relative algebraic geometry: 1
+relative algebraic geometry: 1
+octonionic projective space: 1
+projective space: 1
+unified direct proof: 1
+weak algebra morphism: 1
+many particular: 1
+involutive category theory: 1
+flexible framework: 1
+involutive structure: 1
+anti - linear involution: 1
+- linear involution: 1
+linear involution: 1
+complex vector space: 1
+prominent role: 1
+involutive monoidal category: 1
+general product: 1
+right adjoint form: 1
+usual change: 1
+operad adjunction: 1
+simple instance: 1
+internal crossed square: 1
+intrinsic approach: 1
+segal enriched category: 1
+segal category: 1
+pre - exponentiable object: 1
+- exponentiable object: 1
+pre - cartesian double category: 1
+- cartesian double category: 1
+cartesian double category: 1
+pre - exponentiable: 1
+- exponentiable: 1
+pre - cartesian: 1
+- cartesian: 1
+many variety: 1
+quasi - category: 1
+small simplicial set: 1
+skeletal filtration: 1
+large submonoid: 1
+continuous endomorphism: 1
+theoretic aspect: 1
+axiomatic cohesion: 1
+standard equivalence: 1
+lax monoidal pseudofunctor: 1
+cocartesian monoidal: 1
+like stratification: 1
+certain inclusion: 1
+other side: 1
+certain homotopy class: 1
+constructible cosheave: 1
+additional equivalence: 1
+stratified covering: 1
+various high: 1
+categorical term: 1
+high excision condition: 1
+manifold calculus: 1
