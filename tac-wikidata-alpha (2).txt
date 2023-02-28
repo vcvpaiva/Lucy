@@ -1,10 +1,4 @@
-%: Q7559698
-': Q436048
--: Q617884
-1960: Q3754
 2D: Q29023
-A.: Q28047
-A: Q9659
 AB4: Q2818978
 ANR: Q295756
 Abadi: Q4663213
@@ -49,7 +43,6 @@ Affine_scheme: Q1154351
 Affine_space: Q382698
 Aid: Q2827815
 Aim: Q226531
-Al: Q208534
 Albert: Q2637730
 Alexandroff-discrete_space: Q3532117
 Alexandroff: Q2643923
@@ -155,8 +148,6 @@ Axiomatizable_class: Q1327762
 Axiomatization: Q792542
 Azumaya: Q23998965
 Azumaya_algebra: Q2835923
-B.: Q27297
-B: Q9705
 BIST: Q17987326
 Back: Q133279
 Background: Q1619726
@@ -269,14 +260,12 @@ Building: Q41176
 Building_block: Q811433
 Bundle: Q1009359
 Bundle_gerbe: Q1020771
-Bundle_gerbes: Q1020771
 Bunge: Q358389
 Burnside: Q295939
 Butterfly: Q11946202
 Butz: Q27547820
 Byproduct: Q1128255
 Böhm: Q1019696
-C: Q9820
 CAT: Q1022892
 CCD: Q246380
 CNP: Q407714
@@ -635,7 +624,6 @@ Cycle: Q225014
 Cyclic: Q225014
 Cyclic_homology: Q939179
 Cylinder: Q34132
-D: Q9884
 Dagger: Q182780
 Daisuke: Q1157667
 Danos: Q5064390
@@ -837,8 +825,6 @@ Equivariant_sheaf: Q15734022
 Equivariant_stable_homotopy_theory: Q16908668
 Error: Q29485
 Essence: Q190995
-Et: Q537953
-Et_cetera: Q845653
 Etale: Q3591627
 Etale_topology: Q8078427
 Etendue: Q1370994
@@ -884,7 +870,6 @@ Exterior_differentiation: Q1754547
 Extranatural_transformation: Q5422217
 Extremal: Q2500758
 Extreme: Q343915
-F.: Q27269
 Faa: Q248734
 Face: Q37017
 Fact: Q188572
@@ -1024,7 +1009,6 @@ Funk: Q164444
 Furtado: Q21513156
 Fusion: Q219285
 Fusion_category: Q30672665
-G: Q9739
 Gabriel: Q81989
 Galois: Q7091
 Galois_descent: Q25098891
@@ -1032,7 +1016,6 @@ Galois_extension: Q2020004
 Galois_theory: Q92552
 Gambino: Q29380843
 Game: Q11410
-Games: Q11410
 Gamma: Q14387
 Gap: Q224083
 Garner: Q345378
@@ -1178,7 +1161,6 @@ Huygens: Q21450777
 Hyland: Q420645
 Hypothesis: Q41719
 Hébert: Q24740967
-I: Q9893
 Icon: Q132137
 Idea: Q131841
 Ideal: Q224884
@@ -1193,8 +1175,6 @@ Identity_map: Q321119
 Identity_morphism: Q1948412
 Identity_object: Q1945014
 Iff: Q949972
-Ii: Q227951
-Iii: Q347130
 Illustration: Q178659
 Image: Q478798
 Image_map: Q267722
@@ -1292,9 +1272,7 @@ Isotropy_group: Q288465
 Issue: Q1247982
 Iteration: Q651022
 Iterator: Q1326388
-Iv: Q226365
 J.-Y._Girard: Q3087821
-J.: Q6103861
 Jaap: Q2732667
 Jacobi: Q249338
 Jacobi_identity: Q1151539
@@ -1317,8 +1295,6 @@ Joyal: Q56244670
 Judgement: Q12621536
 Jónsson: Q21494571
 K-theory: Q15615154
-K.: Q30011
-K: Q9922
 KZ: Q224823
 Kakutani: Q1682077
 Kampen: Q257273
@@ -1351,7 +1327,6 @@ Krein: Q21449837
 Krivine: Q1242565
 Kullback-Leibler_divergence: Q255166
 Kuratowski: Q161846
-L: Q9927
 LAPL: Q4817385
 Laan: Q1799329
 Labelling: Q380709
@@ -1459,7 +1434,6 @@ Lue: Q396363
 Lurie: Q21449048
 Lusternik-Schnirelmann_category: Q2361277
 Lusternik: Q1386199
-M: Q9933
 MD: Q211535
 MIX: Q371805
 MLL: Q357125
@@ -1581,7 +1555,6 @@ Multiplicative_case: Q1862702
 Mutation: Q42918
 Möbius: Q247077
 Müller: Q7321538
-N: Q9937
 NNO: Q3869602
 Naimark: Q21509034
 Nakano: Q346219
@@ -1696,8 +1669,6 @@ Out: Q63956
 Output: Q2042052
 Overview: Q333763
 P-space: Q17118682
-P.: Q7116944
-P: Q9946
 PROP: Q7120404
 Page: Q224749
 Pair: Q415963
