@@ -1,4 +1,4 @@
-# Lucy
+# Category Theory Glossary
 The work here is based on a corpus of  abstracts from the journal TAC (Theory and Applications of Categories),  from 1995 up to around Dec 2020. We have 755 abstracts.
 This corpus is described in
 https://github.com/ToposInstitute/tac-corpus/.
