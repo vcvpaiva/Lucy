@@ -1,0 +1,40 @@
+These are not math concepts in TAC n>=5
+symmetric monoidal: 30\
+special case: 23\
+main result: 20\
+- abelian category: 19\
+categorical structure: 17\
+sufficient condition: 16\
+algebraic theory: 15\
+algebraic structure: 14\
+such category: 13\
+general result: 10\
+several example: 9\
+full subcategorie: 8\
+explicit construction: 8\
+present paper: 8\
+necessary condition: 7\
+previous work: 7\
+-autonomous category: 7\
+general theory: 7\
+weak n: 7\
+general notion: 7\
+other hand: 7\
+new notion: 7\
+main theorem: 7\
+certain condition: 6\
+first step: 6\
+such functor: 6\
+dimensional structure: 6\
+new example: 6\
+strict omega: 6\
+additional structure: 5\
+large class: 5\
+analogous result: 5\
+previous paper: 5\
+- abelian: 5\
+concrete geometrical category: 5\
+first author: 5\
+independent interest: 5\
+strict monoidal: 5\
+universe category: 5}
