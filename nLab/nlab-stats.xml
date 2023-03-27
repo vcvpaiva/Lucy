@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>260574</sentences><tokens>6653027</tokens><words>6653027</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="238678" /><!-- the, be, ,, ., of, -, a, ), (, in, and, to, that, for, category -->
+  <forms unique="243666" /><!-- the, ,, ., of, -, a, is, ), (, in, and, to, that, for, this -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="18">
+    <tag name="ADJ">532511</tag><!-- such, topological, finite, smooth, general, compact, other, weak, simplicial, commutative -->
+    <tag name="ADP">672025</tag><!-- of, in, for, to, with, on, by, as, from, over -->
+    <tag name="ADV">202407</tag><!-- then, also, hence, locally, more, only, here, so, just, well -->
+    <tag name="AUX">278864</tag><!-- be, can, may, do, have, will, would, should, must, could -->
+    <tag name="CCONJ">130626</tag><!-- and, or, &, but, either, n, so, both, +, nor -->
+    <tag name="DET">652507</tag><!-- the, a, an, this, all, any, every, some, each, whose -->
+    <tag name="INTJ">1473</tag><!-- now, no, say, yes, right, like, please, well, super, um -->
+    <tag name="NOUN">1350655</tag><!-- category, space, theory, morphism, object, group, functor, set, structure, homotopy -->
+    <tag name="NUM">92282</tag><!-- 2, one, two, 1, ∞, 2,1, 0, 3, zero, 4 -->
+    <tag name="PART">49950</tag><!-- to, not, 's, ', ’s, s, $ mathcal{v} $, $ mathbb{z}{p} $, $ mathbf{a} $, xi -->
+    <tag name="PRON">194249</tag><!-- we, it, this, which, that, there, its, they, one, their -->
+    <tag name="PROPN">345264</tag><!-- ∞,1, dg, topos, grothendieck, x, hausdorff, kan, k, c, algebras -->
+    <tag name="PUNCT">1128602</tag><!-- ,, ., -, ), (, }, ", :, ;, { -->
+    <tag name="SCONJ">113678</tag><!-- that, if, where, as, since, when, while, because, so, how -->
+    <tag name="SPACE">24</tag><!--   -->
+    <tag name="SYM">426086</tag><!-- /, $ x $, $ c $, $ a $, $ g $, $ ! $, $ f $, $ s $, $ n $, $ k $ -->
+    <tag name="VERB">437729</tag><!-- have, give, call, see, let, be, define, follow, use, algebra -->
+    <tag name="X">44095</tag><!-- >, <, i.e., eq, de, etc, .proof, ., 2(vii)(vii)1, /g -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="46">
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">131257</feat><!-- given, called, defined, equipped, pretriangulated, connected, enriched, generated, set, derived -->
+    <feat name="Aspect" value="Prog" upos="AUX,VERB">55681</feat><!-- following, covering, using, underlying, corresponding, embedding, forming, taking, according, classifying -->
+    <feat name="Case" value="Acc" upos="NOUN,NUM,PRON,PROPN,X">10911</feat><!-- it, itself, them, us, i, themselves, me, him, you, ourselves -->
+    <feat name="Case" value="Nom" upos="NOUN,NUM,PRON,PROPN,X">56662</feat><!-- we, it, i, they, you, he, she -->
+    <feat name="ConjType" value="Cmp" upos="CCONJ">130626</feat><!-- and, or, &, but, either, n, so, both, +, nor -->
+    <feat name="Definite" value="Def" upos="DET,PRON">318989</feat><!-- the -->
+    <feat name="Definite" value="Ind" upos="DET,PRON">239624</feat><!-- a, an -->
+    <feat name="Degree" value="Cmp" upos="ADJ,ADV">17840</feat><!-- more, higher, lower, less, larger, better, stronger, weaker, easier, smaller -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV,AUX">519737</feat><!-- such, topological, finite, smooth, general, compact, other, simplicial, commutative, natural -->
+    <feat name="Degree" value="Sup" upos="ADJ,ADV">4341</feat><!-- most, least, smallest, best, simplest, largest, coarsest, lowest, greatest, highest -->
+    <feat name="Foreign" value="Yes" upos="AUX,X">13050</feat><!-- i.e., de, etc, ., .proof, th, .numprop, =, f, hom -->
+    <feat name="Gender" value="Fem" upos="PRON">52</feat><!-- her, she, herself -->
+    <feat name="Gender" value="Masc" upos="PRON">1213</feat><!-- his, he, him, himself -->
+    <feat name="Gender" value="Neut" upos="PRON">43002</feat><!-- it, its, itself -->
+    <feat name="Hyph" value="Yes" upos="ADJ,AUX">2253</feat><!-- non, anti, =, super, pre, multi, di, ex, tooltip="Quasi -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">237988</feat><!-- is, are, has, have, does, was, do, were, 's, 'm -->
+    <feat name="Number" value="Plur" upos="AUX,DET,NOUN,PRON,PROPN">385077</feat><!-- we, categories, spaces, objects, morphisms, algebra, these, sets, functions, groups -->
+    <feat name="Number" value="Sing" upos="AUX,DET,NOUN,NUM,PRON,PROPN,VERB,X">1743401</feat><!-- is, this, category, it, theory, space, functor, group, homotopy, morphism -->
+    <feat name="NumType" value="Card" upos="AUX,NUM">92279</feat><!-- 2, one, two, 1, ∞, 2,1, 0, 3, zero, 4 -->
+    <feat name="NumType" value="Mult" upos="ADV">242</feat><!-- once -->
+    <feat name="NumType" value="Ord" upos="AUX,X">2350</feat><!-- 2(vii)(vii)1, .proof, black;stroke, 1, v, b, 2, d, 3, CMMI10 -->
+    <feat name="Person" value="1" upos="AUX,NOUN,NUM,PRON,PROPN,X">34297</feat><!-- we, i, us, our, my, me, 'm, am, ourselves, myself -->
+    <feat name="Person" value="2" upos="PRON">1560</feat><!-- you, your, yourself -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">329568</feat><!-- is, it, its, has, algebra, their, follows, exists, they, itself -->
+    <feat name="Polarity" value="Neg" upos="PART">14104</feat><!-- not, n't -->
+    <feat name="Poss" value="Yes" upos="DET,PRON">25464</feat><!-- its, whose, their, our, his, my, your, her, mine, = -->
+    <feat name="PronType" value="Art" upos="DET,PRON">558613</feat><!-- the, a, an -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">97187</feat><!-- this, then, that, these, here, those, there -->
+    <feat name="PronType" value="Ind" upos="PRON">1480</feat><!-- something, nothing, everything, anything, someone, nobody, anyone, somebody, everyone, everybody -->
+    <feat name="PronType" value="Prs" upos="AUX,NOUN,NUM,PRON,PROPN,X">95294</feat><!-- it, we, its, i, one, their, they, itself, them, you -->
+    <feat name="PronType" value="Rel" upos="PRON">11798</feat><!-- that -->
+    <feat name="PunctSide" value="Fin" upos="AUX,PUNCT">238254</feat><!-- ), }, ", ', `, ):, ”, '', {, > -->
+    <feat name="PunctSide" value="Ini" upos="AUX,PUNCT">158422</feat><!-- (, ", {, ', `, “, fill="none, '', =, opacity:1 -->
+    <feat name="PunctType" value="Brck" upos="AUX,PUNCT">345479</feat><!-- ), (, }, {, ):, =, >, <, iHDelta, ref{MonoidalModelCategory -->
+    <feat name="PunctType" value="Comm" upos="AUX,PUNCT">235680</feat><!-- ,, -, !, ;, /, =, .proof, /></g></g><g, ref{GaloisClosureOperator, ref{TopologicalProjectiveSpace -->
+    <feat name="PunctType" value="Dash" upos="PUNCT">168241</feat><!-- -, =, /, N=4, U(n, label{CSFeynmanDiagrams, mathbb{R}^8, !, :), Y)infty^f -->
+    <feat name="PunctType" value="Peri" upos="PUNCT">231553</feat><!-- ., !, -, ?, ..., .numremark, .numprop, =, /, /th><th -->
+    <feat name="PunctType" value="Quot" upos="AUX,PUNCT">51197</feat><!-- ", ', `, '', ”, “, fill="none, {, ’, opacity:1 -->
+    <feat name="Reflex" value="Yes" upos="PRON">3650</feat><!-- itself, themselves, ourselves, himself, myself, yourself, herself -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">151700</feat><!-- given, called, defined, equipped, set, pretriangulated, connected, enriched, generated, was -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">413236</feat><!-- is, are, has, have, algebra, follows, following, exists, does, means -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">405717</feat><!-- is, are, can, has, have, may, algebra, follows, exists, does -->
+    <feat name="VerbForm" value="Ger" upos="AUX">3374</feat><!-- being -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">117730</feat><!-- be, let, see, write, consider, define, call, have, note, notice -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">188427</feat><!-- given, called, defined, equipped, following, pretriangulated, connected, covering, using, underlying -->
+    <feat name="VerbType" value="Mod" upos="AUX">937</feat><!-- shall, need, ought, 'll, ca, wo, c, id="text2899, =, ClassicalLimitOfBeilinsonDrinfeldAlgebra -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="45">
+    <dep name="ROOT">260574</dep>
+    <dep name="acl">37462</dep>
+    <dep name="acomp">47452</dep>
+    <dep name="advcl">70516</dep>
+    <dep name="advmod">241764</dep>
+    <dep name="agent">18854</dep>
+    <dep name="amod">500003</dep>
+    <dep name="appos">148305</dep>
+    <dep name="attr">146098</dep>
+    <dep name="aux">68020</dep>
+    <dep name="auxpass">53561</dep>
+    <dep name="case">5615</dep>
+    <dep name="cc">129845</dep>
+    <dep name="ccomp">87496</dep>
+    <dep name="compound">363903</dep>
+    <dep name="conj">144164</dep>
+    <dep name="csubj">5692</dep>
+    <dep name="csubjpass">216</dep>
+    <dep name="dative">1997</dep>
+    <dep name="dep">25938</dep>
+    <dep name="det">646639</dep>
+    <dep name="dobj">184932</dep>
+    <dep name="expl">14146</dep>
+    <dep name="intj">1436</dep>
+    <dep name="mark">88077</dep>
+    <dep name="meta">5032</dep>
+    <dep name="neg">14200</dep>
+    <dep name="nmod">155190</dep>
+    <dep name="npadvmod">58197</dep>
+    <dep name="nsubj">347365</dep>
+    <dep name="nsubjpass">49348</dep>
+    <dep name="nummod">63052</dep>
+    <dep name="oprd">16781</dep>
+    <dep name="parataxis">4677</dep>
+    <dep name="pcomp">21938</dep>
+    <dep name="pobj">650205</dep>
+    <dep name="poss">30744</dep>
+    <dep name="preconj">2739</dep>
+    <dep name="predet">4426</dep>
+    <dep name="prep">677883</dep>
+    <dep name="prt">4089</dep>
+    <dep name="punct">1170339</dep>
+    <dep name="quantmod">12373</dep>
+    <dep name="relcl">52484</dep>
+    <dep name="xcomp">19260</dep>
+  </deps>
+</treebank>
