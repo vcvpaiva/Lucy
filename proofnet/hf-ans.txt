@@ -1,0 +1,238 @@
+metric space: 11
+normal subgroup: 7
+positive integer: 7
+real function: 5
+continuous function: 4
+finite group: 4
+nonempty subset: 3
+dense subset: 3
+real number: 3
+normal operator: 3
+primitive root: 3
+abelian group: 3
+ordered set: 2
+countable collection: 2
+continuous real function: 2
+continuous mapping: 2
+differentiable function: 2
+continuous map: 2
+open map: 2
+connected subspace: 2
+countable dense subset: 2
+compact hausdorff space: 2
+hausdorff space: 2
+complex inner - product space: 2
+square root: 2
+proper subgroup: 2
+commutative ring: 2
+maximal subgroup: 2
+integral domain: 2
+upper und: 1
+complex field: 1
+ordered field: 1
+complex number such: 1
+disjoint closed set: 1
+closed set: 1
+compact metric space: 1
+countable base: 1
+many point: 1
+open set: 1
+real sequence: 1
+complete metric space: 1
+set $ e subset mathbb{r} $: 1
+real continuous function: 1
+continuous open mapping: 1
+open mapping: 1
+set $ x $: 1
+unique large topology: 1
+large topology: 1
+standard topology: 1
+dictionary order topology: 1
+connected subset: 1
+topological group: 1
+closed continuous surjective map such: 1
+continuous surjective map such: 1
+surjective map such: 1
+perfect map: 1
+countable open covering: 1
+open covering: 1
+finite subcollection: 1
+countable compactness: 1
+uniform topology: 1
+countable product: 1
+closed subspace: 1
+cube root: 1
+scalar multiplication: 1
+finite dimensional: 1
+same eigenvalue: 1
+scalar multiple: 1
+real vector space: 1
+thonormal list: 1
+square free integer: 1
+free integer: 1
+algebraic number: 1
+analytic function: 1
+entire function: 1
+unique positive integer: 1
+continuous third derivative such: 1
+third derivative such: 1
+set $ u subset m $: 1
+direct proof: 1
+compact set: 1
+even order: 1
+consecutive integer: 1
+prime number: 1
+characteristic subgroup: 1
+nonabelian group: 1
+prime order: 1
+common element: 1
+symmetric group: 1
+quadratic residue: 1
+quadratic nonresidue: 1
+conjugate element: 1
+infinite field: 1
+many proper subspace: 1
+proper subspace: 1
+many prime congruent: 1
+finite field: 1
+same order: 1
+infinite group: 1
+additive group: 1
+rational number: 1
+only subgroup: 1
+cyclic group: 1
+finite subgroup: 1
+multiplicative group: 1
+prime index: 1
+positive divisor: 1
+quotient group: 1
+solvable group: 1
+finite index: 1
+distinct prime: 1
+polynomial ring: 1
+surjective homomorphism: 1
+nilpotent element: 1
+great common divisor: 1
+common divisor: 1
+many minimal prime ideal: 1
+minimal prime ideal: 1
+prime ideal: 1
+metric space: 11
+normal subgroup: 7
+positive integer: 7
+real function: 5
+continuous function: 4
+finite group: 4
+nonempty subset: 3
+dense subset: 3
+real number: 3
+normal operator: 3
+primitive root: 3
+abelian group: 3
+ordered set: 2
+countable collection: 2
+continuous real function: 2
+continuous mapping: 2
+differentiable function: 2
+continuous map: 2
+open map: 2
+connected subspace: 2
+countable dense subset: 2
+compact hausdorff space: 2
+hausdorff space: 2
+complex inner - product space: 2
+square root: 2
+proper subgroup: 2
+commutative ring: 2
+maximal subgroup: 2
+integral domain: 2
+upper und: 1
+complex field: 1
+ordered field: 1
+complex number such: 1
+disjoint closed set: 1
+closed set: 1
+compact metric space: 1
+countable base: 1
+many point: 1
+open set: 1
+real sequence: 1
+complete metric space: 1
+set $ e subset mathbb{r} $: 1
+real continuous function: 1
+continuous open mapping: 1
+open mapping: 1
+set $ x $: 1
+unique large topology: 1
+large topology: 1
+standard topology: 1
+dictionary order topology: 1
+connected subset: 1
+topological group: 1
+closed continuous surjective map such: 1
+continuous surjective map such: 1
+surjective map such: 1
+perfect map: 1
+countable open covering: 1
+open covering: 1
+finite subcollection: 1
+countable compactness: 1
+uniform topology: 1
+countable product: 1
+closed subspace: 1
+cube root: 1
+scalar multiplication: 1
+finite dimensional: 1
+same eigenvalue: 1
+scalar multiple: 1
+real vector space: 1
+thonormal list: 1
+square free integer: 1
+free integer: 1
+algebraic number: 1
+analytic function: 1
+entire function: 1
+unique positive integer: 1
+continuous third derivative such: 1
+third derivative such: 1
+set $ u subset m $: 1
+direct proof: 1
+compact set: 1
+even order: 1
+consecutive integer: 1
+prime number: 1
+characteristic subgroup: 1
+nonabelian group: 1
+prime order: 1
+common element: 1
+symmetric group: 1
+quadratic residue: 1
+quadratic nonresidue: 1
+conjugate element: 1
+infinite field: 1
+many proper subspace: 1
+proper subspace: 1
+many prime congruent: 1
+finite field: 1
+same order: 1
+infinite group: 1
+additive group: 1
+rational number: 1
+only subgroup: 1
+cyclic group: 1
+finite subgroup: 1
+multiplicative group: 1
+prime index: 1
+positive divisor: 1
+quotient group: 1
+solvable group: 1
+finite index: 1
+distinct prime: 1
+polynomial ring: 1
+surjective homomorphism: 1
+nilpotent element: 1
+great common divisor: 1
+common divisor: 1
+many minimal prime ideal: 1
+minimal prime ideal: 1
+prime ideal: 1
