@@ -7,3 +7,5 @@ The work here is based on the corpora:
 
 For TAC: the file tac-clean.conll contains an automatically annotated version of the corpus, with dependency structures and POS tags, obtained via spacy. 
 The file tac-manual.conllu has an improved version, with manual cleaning of latex, to be described.
+
+The development version of the glossary is at the Definitions in Math (DefsMath) project page https://defsmath.github.io/DefsMath/
