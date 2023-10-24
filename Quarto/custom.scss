@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+
+$presentation-font-size-root: 32px;
+$presentation-h1-font-size: 2em;
+
+/*-- scss:rules --*/
+
+.define {
+    color: #007481;
+    font-weight: bold;
+}
+
+.tikzcd {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.reveal .slide ul, .reveal .slide ol {
+    margin-bottom: 0 !important;
+}
+
+#references {
+    font-size: 0.6em;
+}
