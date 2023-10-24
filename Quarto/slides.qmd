@@ -1,0 +1,514 @@
+---
+title: 'Making science legible: the structural approach to networked science'
+subtitle: Topos Tech Tactics
+author:
+  - name: Evan Patterson
+    affiliations:
+      - name: '<img alt="Topos Institute" src="figures/topos_logo.png" height="100" style="vertical-align: middle">'
+date: October 7, 2023
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    callout-icon: false
+    logo: figures/topos_icon.png
+    slide-number: c
+bibliography: refs.bib
+---
+
+# The power of science...
+
+Timeline for creating the Moderna vaccine:
+
+- *Jan 11, 2020*: Chinese authorities share the genetic sequence of COVID-19
+- *Jan 13*: Moderna finalizes sequence for vaccine and mobilizes for production
+- *Feb 7*: First clinical batch of vaccine is completed and begins internal testing
+- *Feb 24*: First vaccine batch delivered to NIH for Phase 1 review
+
+Total time: **44 days**.
+
+::: footer
+Source: [Twitter](https://twitter.com/s8mb/status/1708827694236880994);
+original source:
+[Moderna](https://investors.modernatx.com/news/news-details/2020/Moderna-Announces-First-Participant-Dosed-in-NIH-led-Phase-1-Study-of-mRNA-Vaccine-mRNA-1273-Against-Novel-Coronavirus/default.aspx),
+2021 press release
+:::
+
+## This week's news
+
+![](figures/nobel_medicine_2023.jpg){fig-align="center"}
+
+::: footer
+Source: [Twitter](https://twitter.com/NobelPrize/status/1708780262883017166);
+original source: Nobel Foundation, 2023 press release
+:::
+
+## ...and the arbitrariness of scientific production
+
+This astonishingly rapid development built on
+
+- decades of hard work under poor conditions
+- by a very small group of people
+- whose work was long marginalized
+
+. . .
+
+> Dr. Karikó... languished for many long years without funding or a permanent
+> academic position, keeping her research afloat only by latching on to more
+> senior scientists at the University of Pennsylvania who let her work with
+> them. Unable to get a grant, she said she was told she was "not faculty
+> quality" and was forced to retire from the university a decade ago. She
+> remains only an adjunct professor...
+
+::: footer
+Source: [New York
+Times](https://www.nytimes.com/2023/10/02/health/nobel-prize-medicine.html),
+2023
+:::
+
+## Snapshots of the true timeline: 1998
+
+The chance meeting of Karikó and Weissman:
+
+> One day, while waiting at the office to photocopy articles from a research
+> journal, Weissman struck up a conversation with Penn biochemist Karikó. The
+> two scientists realized they shared a particular interest. "I had always
+> wanted to try mRNA," Weissman says, "and here was somebody at the Xerox
+> machine telling me that’s what she does."
+
+. . .
+
+It appears that
+
+- Karikó had the original vision
+- Weissman had the institutional backing
+
+::: footer
+Source:
+[Bostonia](https://www.bu.edu/articles/2021/how-drew-weissman-and-katalin-kariko-developed-mrna-technology-inside-covid-vaccines/),
+2021
+:::
+
+## Snapshots of the true timeline: 2005
+
+Publication of seminal paper [@kariko2005] showing that nucleoside-modified mRNA
+avoid stimulating the immune system.
+
+. . .
+
+Motivated by clear reasoning based on **analogy**:
+
+> DNA and RNA stimulate the mammalian innate immune system... DNA containing
+> methylated CpG motifs, however, is not stimulatory...
+>
+> Despite the fact that the immune stimulatory activity of RNA was discovered
+> decades before such was identified for DNA and that RNA contains numerous
+> modified nucleosides, the effect of nucleoside modifications on RNA immunity
+> has not been explored. From the standpoint of immune activation, RNA and DNA
+> share many characteristics.
+
+<!-- We have shown that RNA, similarly to DNA, is more immunogenic when derived
+from bacteria than from mammalian cells. -->
+
+::: footer
+Source: @kariko2005
+:::
+
+## Snapshots of the true timeline: 2005
+
+Reactions to the breakthrough paper:
+
+> The idea may have been too radical to grasp. Several leading medical journals
+> turned down their report of their findings before it was published, in 2005,
+> by the journal *Immunity*. The researchers braced for the shock waves their
+> study would generate in the scientific community.
+>
+> "I told Kati our phones are going to ring off the hook," Weissman recalls.
+> "But nothing happened. We didn’t get a single call."
+
+::: footer
+Source:
+[Bostonia](https://www.bu.edu/articles/2021/how-drew-weissman-and-katalin-kariko-developed-mrna-technology-inside-covid-vaccines/),
+2021
+:::
+
+## Snapshots of the true timeline: 2010
+
+Karikó and Weissman identify the **cellular mechanism** [@anderson2010]:
+
+> Previous studies have shown that the translation level of in vitro transcribed
+> messenger RNA (mRNA) is enhanced when its uridines are replaced with
+> pseudouridines; however, the reason for this enhancement has not been
+> identified. Here, we demonstrate that in vitro transcripts containing uridine
+> activate RNA-dependent protein kinase (PKR), which then phosphorylates
+> translation initiation factor 2-alpha (eIF-2α), and inhibits translation.
+
+. . .
+
+At around this time, the idea is picked up Derrick Rossi [@warren2010], who goes
+on to co-found Moderna ("modified RNA").
+
+::: footer
+Source: @anderson2010
+:::
+
+## Looking back from 2023
+
+What can we learn from this story? Hindsight is 20/20, but it sure looks like
+
+- funding and positions were misallocated
+- unfounded preconceived ideas about mRNA inhibited progress
+- the happy outcome was not inevitable---we're lucky it happened at all
+
+Bias and discrimination may have also played a role.
+
+. . .
+
+Yet this is still a success story. **What about all the missed opportunities
+we'll never know about?**
+
+- true opportunity cost is unknowable, but is likely very large
+- accelerating science is a complex sociotechnical problem
+- far from being monocausal
+
+# The illegibility of science
+
+The outsider's view of science is that it is neat and orderly, but it is not so:
+
+- countless individuals and labs pursue loosely connected research agendas
+- it's difficult to know what's going on in your field, let alone others
+- exacerbated by
+  - growth of scientitic literature
+  - displinary boundaries
+  - increasing specialization
+
+Obtaining any high level view or synthesis is very difficult.
+
+## Question for funders: what should I fund?
+
+::: {.callout-tip}
+## Case: modified RNA
+
+@kariko2005 laid out a clear argument by analogy:
+
+1. DNA and RNA both stimulate immune responses
+2. DNA is known to be modifiable to suppress this response
+3. DNA and RNA share many characteristics relevant to immune activation
+4. Therefore, it is plausible that RNA can also be so modified
+:::
+
+. . .
+
+So why was it so hard to get the work funded? Some guesses:
+
+- **Unfamiliarity**: it was perceived as too fringe/unorthodox
+- **Risk**: it was perceived as too risky/unlikey to succeed
+- **Bias**: the people proposing it were judged inadequate
+
+People fall back on heuristics when the science seems unclear.
+
+## Question for scientists: what should I study?
+
+::: {.callout-tip}
+## Case: modified RNA
+
+@kariko2005 was mostly ignored by other scientists for at least five years, despite
+
+- having fairly obvious potential for therapeutic use
+- which was immediately recognized by its authors
+:::
+
+. . .
+
+Why? The obvious explanation: nobody heard about it!
+
+- it was published in an obscure journal
+- by authors who were themselves not widely recognized
+- on a topic outside the mainstream
+
+Hence, it was not read.
+
+## Growth of scientific production
+
+![Source: @fortunato2018](figures/fortunato2018_fig1.svg){width=100%}
+
+- Long trend of exponential growth in scientific literature
+- @fortunato2018 estimate doubling period of 15 years
+- @bornmann2021 estimate
+  - overall growth rate of 4.1% $\leftrightarrow$ doubling period of 17.3 years
+
+## Decline of disruptive science?
+
+:::: {.columns}
+::: {.column width=50%}
+![](figures/park2023_fig2a.svg){width=80%}
+
+Measured by "consolidating-disrupting (CD)" score, disruptive science appears
+to be declining.
+:::
+
+::: {.column width=50%}
+
+> ...we report a marked decline in disruptive science and technology over time.
+> Our analyses show that this trend is unlikely to be driven by changes in
+> citation practices or the quality of published work. Rather, the decline
+> represents a substantive shift... We attribute this trend in part to
+> scientists’ and inventors’ reliance on a narrower set of existing knowledge.
+
+:::
+::::
+
+::: footer
+Source: @park2023
+:::
+
+# Making science legible
+
+The growth of science, both in substance and in volume, creates a pressing
+need to make science more *legible*:
+
+- Can policymakers get an accurate picture of state of knowledge in an area?
+- Can scientists synthesize what is known in their field?
+- Can they make new connections in and between fields?
+
+Moreover, how can this be made *scalable*?
+
+## What of science is supposed to be legible?
+
+In science there is...
+
+1. a core comprising the "logic of science"
+   - of which some parts make contact with empirical data
+   - of which others serve a theoretical or organizational role
+2. much else that serves no logical role but is nonetheless meaningful:
+   - motivations, hunches, intuitions, aesthetic judgments, etc
+
+. . .
+
+Scientific core should admit a precise and communicable reconstruction, but
+
+- what aspects belong to this core?
+- how can they be recorded and systematized?
+- failed attempts at rationalization can be useless or even harmful
+
+## Present state of scientific communication
+
+Science still follows the model pioneered by the Royal Society:
+
+- Results disseminated through scientific papers, published in journals
+- Now online but in formats (PDF or HTML) emulating print
+- Almost entirely unstructured
+
+One notable improvement: more data and code is being shared.
+
+. . .
+
+Hence, *the large-scale structure of science is illegible.* Possible paths
+forward:
+
+1. Extract more from existing written and code artifacts
+2. Create new modalities for scientific communication
+
+## Role of AI in science
+
+:::: {.columns}
+::: {.column width=60%}
+
+Can AI trawl the literature to synthesize and make new connections?
+
+- Perhaps, but in a limited capacity and as a complement to humans
+- Facts, details, and reasoning are essential to science, but are a weakness for
+  AI/ML
+- AI/ML can be useful for information retrieval and summarization
+  (though bias is a risk)
+
+:::
+
+::: {.column width=40%}
+![Nature, September 2023](figures/nature_sep2023.png)
+:::
+::::
+
+::: footer
+Source: [Nature](https://www.nature.com/immersive/d41586-023-03017-2/index.html)
+:::
+
+## Changing the medium
+
+I argue that:
+
+1. the scientific core should be precise, or admit a precise reconstruction
+2. the medium of scientific communication should be reinvented to allow greater
+   precision
+
+Reflects the twin goals
+
+1. to take steps toward a large-scale, integrative logic of science
+2. to make content of science more legible to human and artificial agents
+
+::: footer
+**Note**: the word "precise" does not imply any of
+"objective," "rational," "universal," "quantitative."
+:::
+
+# Paths to legibility
+
+- Many have aspired to these goals but successes have been limited
+- What goes wrong? 
+- And how we can avoid those mistakes?
+
+## The Semantic Web
+
+:::: {.columns}
+::: {.column width=50%}
+
+- Largest effort to formalize science based on Semantic Web (RDF/OWL)
+- Semantic Web aims to offer universal language
+- Most ontologies in biomedicine now use Semantic Web
+- But, despite huge efforts, adoption and impact have been limited
+
+:::
+::: {.column width=50%}
+
+> The essential property of the World Wide Web is its universality...
+>
+> The Semantic Web, in naming every concept simply by a URI, lets anyone express
+> new concepts that they invent with minimal effort. Its unifying logical
+> language will enable these concepts to be progressively linked into a
+> universal Web.
+
+--- @berners-lee2001
+
+:::
+::::
+
+## Searching for a universal language
+
+Semantic Web founders by trying to be universal:
+
+- Description logics like OWL good for containment/subsumption hierarchies
+- Hence relative success in certain biomedical domains
+- Other kinds of knowledge must be encoded in arbitrary, ad hoc ways
+
+. . .
+
+A common trap:
+
+- Philosophers of science tried to encode scientific theories and models in
+  first-order logic and/or set theory
+- Nowadays people are advocating for type theory
+
+More expressive languages, but rooted in the same fallacy.
+
+## Domain-specific languages
+
+Scientists want
+
+- to express themselves in languages that make sense to them
+- tools that make them more, not less, productive
+
+A few very successful examples of DSLs:
+
+- Computation graph frameworks like PyTorch in machine learning
+- Probabilistic programming languages like Stan in statistics
+
+. . .
+
+But DSLs lead to fragmentation, impeding communication between fields.
+
+::: footer
+Cf. Donoho's new [essay](https://arxiv.org/abs/2310.00865) on *frictionless
+reproducibility* as enabler of AI progress
+:::
+
+## The language dilemma
+
+1. **Universal languages** are expressive but are
+   - too low level
+   - not usable
+   - require ad hoc encodings---hence are not legible
+
+2. **Domain-specific languages** are useful and usable, but
+   - proliferate and fragment
+   - do not interoprate
+   - promote legibility only at small scales
+
+# Structural approach to networked science
+
+- The dilemma presented is a false one
+- The structuralism of category theory provides the way out
+
+## Structuralism in mathematics and beyond
+
+> The theme of mathematical structuralism is that what matters to a mathematical
+> theory is not the internal nature of its objects, such as its numbers,
+> functions, sets, or points, but how those objects relate to each other.
+> (Shapiro, [IEP](https://iep.utm.edu/m-struct/))
+
+. . .
+
+- Much of 20^th^ century mathematics developed following this principle
+- Category theory then codified it
+- We seek to build scientific modeling and publishing tools around it
+  1. *At a small scale*: scientific models in the same language form a network,
+     connected by their morphisms
+  2. *At a large scale*: functorial passages between different modeling
+     languages
+
+## Categories of models
+
+:::: {.columns}
+::: {.column width=50%}
+
+**Object-centric view** of scientific KR today:
+
+- is largely about naming things
+  - controlled vocabularies
+  - unique resource identifiers (URIs)
+- names are necessary, but
+  - they don't give meaning
+  - they're never really canonical
+
+:::
+::: {.column width=50%}
+
+**Morphism-centric view** of categorical scientific KR:
+
+- Models gain formal meaning from morphisms between them
+- Models are "the same" when they are isomorphic
+- Similar models are related by (noninvertible) morphisms
+
+:::
+::::
+
+## Categories of modeling languages
+
+Shifting levels, modeling languages are categories and hence are
+
+- objects of (higher-dimensional) categories
+- with morphisms giving passages between them
+
+::: {.callout-tip}
+## Example: compartmental modeling frameworks
+
+Categories of
+
+- Petri nets (with mass-action kinetics)
+- Stock and flow diagrams
+- Signed graphs/regulatory networks (with Lotka-Volterra dynamics)
+
+all have functorial semantics in ODEs, hence are interoperable.
+
+They also admit functors between each other.
+:::
+
+# Thanks!
+
+- This tech talk has focused on framing a problem
+- Execution strategy and technical details are also important
+- We have already made progress through AlgebraicJulia project
+- But we could be more deliberate and strategic
+
+## References
+
+::: {#refs}
+:::
