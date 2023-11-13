@@ -1,0 +1,1550 @@
+model structure: 49
+model category: 47
+tensor product: 42
+factorization system: 28
+vector space: 28
+category theory: 25
+Kan extension: 23
+vector bundle: 19
+$ omega $ - category: 18
+equivalence relation: 17
+homotopy category: 17
+abelian group: 17
+homotopy theory: 17
+Hopf algebra: 16
+model category structure: 15
+category structure: 15
+descent morphism: 15
+finite limit: 14
+Hausdorff space: 14
+base category: 13
+Galois theory: 13
+Maltsev category: 12
+Grothendieck topos: 11
+homotopy type: 11
+$ c $ - system: 11
+transition system: 10
+group action: 9
+chain complex: 9
+finite set: 9
+Markov process: 9
+Gray - category: 8
+functor category: 8
+closure operator: 8
+homotopy equivalence: 8
+realizability topos: 8
+Frobenius algebra: 7
+Morita equivalence: 7
+Frobenius object: 7
+field theory: 7
+algebra structure: 7
+Linear Logic: 7
+descent theory: 7
+coherence condition: 7
+topos theory: 7
+quotient map: 7
+lie algebra: 7
+omega - category: 7
+action core: 7
+Fermat theory: 7
+abelian category: 6
+Lawvere theory: 6
+$ v $ - category: 6
+homology theory: 6
+linear functor: 6
+Lie algebra: 6
+Variety Theorem: 6
+restriction category: 6
+unit action: 6
+Euler characteristic: 6
+tensor category: 5
+slice category: 5
+finite product: 5
+cohomology class: 5
+Chu construction: 5
+module category: 5
+coherence theorem: 5
+$ n $ - category: 5
+$ r $ - module: 5
+ground category: 5
+Eilenberg - Moore algebra: 5
+Moore algebra: 5
+Cauchy completion: 5
+Moore category: 5
+sup - lattice: 5
+Algebraic Topology: 5
+Feynman diagram: 5
+Chu - span: 5
+$ c^* $ - algebra: 5
+map category: 5
+probability distribution: 5
+homotopy colimit: 5
+Frobenius monoid: 5
+lie groupoid: 5
+vector lattice: 5
+$ (pi, lambda) $ - structure: 5
+$ j $ - theory: 5
+finite group: 4
+enchilada category: 4
+proof net: 4
+quantum field theory: 4
+Eilenberg - Moore object: 4
+Moore object: 4
+homotopy group: 4
+linear logic: 4
+MD - sketch: 4
+Chu category: 4
+nerve functor: 4
+semidirect product: 4
+Mackey functor: 4
+lie group: 4
+Maltsev variety: 4
+KZ - doctrine: 4
+object analogue: 4
+quantum group: 4
+presheaf topos: 4
+hopf monad: 4
+Hopf monad: 4
+et cetera: 4
+Yang - Baxter equation: 4
+Baxter equation: 4
+oplax morphism: 4
+Stone space: 4
+characterization theorem: 4
+$ a_infty $ - category: 4
+surface holonomy: 4
+module structure: 4
+approach space: 4
+Hecke algebra: 4
+Hilbert space: 4
+homotopy invariant: 4
+chain rule: 4
+Reidemeister trace: 4
+skew monoidale: 4
+Tannaka duality: 4
+wreath product: 4
+smash product: 4
+equivalence class: 4
+$ infty $ - groupoid: 4
+category functor: 4
+$ a_infty $ - algebra: 4
+flow diagram: 4
+linear relation: 4
+Frobenius structure: 4
+sup lattice: 4
+hopf monoid: 4
+Bousfield localization: 3
+infinity - category: 3
+lie - rinehart: 3
+persistence module: 3
+base topos: 3
+identity functor: 3
+adjoint string: 3
+$ q $ - module: 3
+homotopy pushout: 3
+de Paiva: 3
+Intuitionistic Linear Logic: 3
+coherence result: 3
+loop space: 3
+$ kz $ - doctrine: 3
+cell complex: 3
+$ omega $ - complex: 3
+Chu - construction: 3
+ring theory: 3
+lambda calculus: 3
+number object: 3
+Frobenius law: 3
+quasi -: 3
+cat - group: 3
+Grothendieck topology: 3
+branching homology: 3
+finite ordinal: 3
+$ omega $ - graph: 3
+Kan condition: 3
+ramification groupoid: 3
+hopf algebra: 3
+Stone duality: 3
+information system: 3
+EA sketch: 3
+amalgamation property: 3
+subobject classifier: 3
+linear setting: 3
+model theory: 3
+Birkhoff subcategory: 3
+Eilenberg - Moore category: 3
+Morita equivalent: 3
+$ f $ - algebra: 3
+$ (t, v) $ - algebra: 3
+copower object: 3
+harmonic oscillator: 3
+stuff type: 3
+base space: 3
+representation theory: 3
+cyclic spectrum: 3
+$ mathcal{q} $ - category: 3
+$ d $ - translation: 3
+Dialectica construction: 3
+monad morphism: 3
+core algebra: 3
+$ g $ - set: 3
+$ a_infty $ - functor: 3
+Maltsev operation: 3
+Tambara module: 3
+linear map: 3
+vector field: 3
+Elementary Linear Logic: 3
+deformation theory: 3
+paste diagram: 3
+diagram lemma: 3
+Mac Lane: 3
+Möbius category: 3
+Möbius interval: 3
+order chain rule: 3
+bi - module: 3
+range category: 3
+factorisation system: 3
+monoidal functor: 3
+string diagram: 3
+co - smash product: 3
+Schonfinkel algebra: 3
+Gray tensor product: 3
+Grothendieck completion: 3
+duoidal category: 3
+stability property: 3
+value measure: 3
+$ infty $ - algebra: 3
+codescent object: 3
+bi - compactification: 3
+universe category functor: 3
+Dedekind completion: 3
+product structure: 3
+snail lemma: 3
+Huq commutator: 3
+Maltsev object: 3
+bimonoidal functor: 3
+Levi category: 3
+cofibration category: 3
+Picard - Vessiot ring: 3
+Vessiot ring: 3
+Kan - injectivity: 3
+Witt vector: 3
+$ (p, tilde{p}) $ - structure: 3
+isotropy group: 3
+tube algebra: 3
+pullback complement: 3
+word problem: 2
+product functor: 2
+Galois structure: 2
+discrete space: 2
+dimension one: 2
+target category: 2
+inference rule: 2
+petit topos: 2
+way site: 2
+adjoint monad: 2
+Frobenius pseudomonoid: 2
+pseudo ambijunction: 2
+$ s $ - homotopy: 2
+cofibrant homotopy: 2
+dihomotopy equivalence: 2
+Grothendieck topo: 2
+algebra morphism: 2
+property - like: 2
+cell composition: 2
+cw - complex: 2
+group case: 2
+colimit specification: 2
+inclusion functor: 2
+mapping cone: 2
+convolution product: 2
+Harrison cohomology: 2
+Quillen cohomology: 2
+datum - specification: 2
+order structure: 2
+duality theory: 2
+Moore complex: 2
+finite sum: 2
+star - autonomous: 2
+K"{u}nneth formulae: 2
+Hausdorff group: 2
+convergence relation: 2
+ultrafilter monad: 2
+category $ a $: 2
+decision procedure: 2
+semiprime ring: 2
+$ v $ - theory: 2
+$ v $ - monad: 2
+Church - Rosser: 2
+coherence problem: 2
+semigroup theory: 2
+domain theory: 2
+powerset functor: 2
+homotopy relation: 2
+$ r{cal o}(g, x) $ - module: 2
+Dedekind category: 2
+branched cover: 2
+$ g $ - space: 2
+diagram category: 2
+closure space: 2
+finite - limit: 2
+execution path: 2
+branching side: 2
+Mackey coreflection: 2
+$ theta $ - category: 2
+$ cal d $ - colimit: 2
+Kan complex: 2
+point constructor: 2
+braid group: 2
+Scott topology: 2
+powerdomain construction: 2
+finite colimit: 2
+homotopy kernel: 2
+entropic category: 2
+comprehension calculus: 2
+$ v $ - functor: 2
+Goguen category: 2
+unit interval: 2
+injectivity class: 2
+van Kampen: 2
+codescent morphism: 2
+preservation property: 2
+paper study: 2
+domain bicategory: 2
+proarrow equipment: 2
+type condition: 2
+distribution theory: 2
+exactness property: 2
+Tychonoff space: 2
+product construction: 2
+Azumaya algebra: 2
+Galois extension: 2
+Wirthmuller isomorphism: 2
+companion paper: 2
+Brian Day: 2
+exactness condition: 2
+Baer invariant: 2
+Kleisli category: 2
+$ sl $ - monoid: 2
+$ t $ - algebra: 2
+cohomology group: 2
+von Neumann: 2
+cohomology functor: 2
+Isbell adjunction: 2
+Cauchy filter: 2
+Yoneda completion: 2
+$ set $ - monad: 2
+homotopy groupoid: 2
+Philip Higgins: 2
+span construction: 2
+base quantaloid: 2
+adjoint functor: 2
+Directed Algebraic Topology: 2
+power object: 2
+disjoint union: 2
+gauge theory: 2
+non -: 2
+Yoneda - system: 2
+kernel - cokernel lemma: 2
+cokernel lemma: 2
+Bourn localization: 2
+Jónsson - Tarski variety: 2
+Tarski variety: 2
+filler condition: 2
+unital ring: 2
+Chu - spans: 2
+computer science: 2
+Formal Concept Analysis: 2
+Concept Analysis: 2
+approximable concept: 2
+deduction formulation: 2
+ring object: 2
+gerbe module: 2
+bundle gerbes: 2
+comprehension scheme: 2
+product monad: 2
+ball functor: 2
+non - cohesion: 2
+quality type: 2
+base change: 2
+Brauer group: 2
+Kleisli bicategory: 2
+representable functor: 2
+adjoint arrow: 2
+$ v $ - relation: 2
+$ d $ - space: 2
+derivation type: 2
+tangent bundle: 2
+base field: 2
+shape equivalence: 2
+state space: 2
+Alster condition: 2
+pasting diagram: 2
+abelian object: 2
+Snake Lemma: 2
+Galois descent: 2
+bimonoidal category: 2
+Dynkin diagram: 2
+Hall algebra: 2
+André Joyal: 2
+arrow category: 2
+probability monad: 2
+incidence algebra: 2
+isomorphism class: 2
+homotopy monoid: 2
+group theory: 2
+basal graph: 2
+type equivalence: 2
+$ {cal Q} $ - category: 2
+Connes fusion tensor product: 2
+fusion tensor product: 2
+Hilbert module: 2
+comparison map: 2
+$ n $ - type: 2
+base ring: 2
+Frobenius monoidal: 2
+Monadic Equational Systems: 2
+Equational Systems: 2
+Equational Metalogic: 2
+quotient completion: 2
+Hopf module: 2
+conjugation action: 2
+Commutator Condition: 2
+Higgins commutator: 2
+Ursini commutator: 2
+Smith - Pedicchio commutator: 2
+Pedicchio commutator: 2
+Goursat category: 2
+lax functor: 2
+pseudo - functor: 2
+Gleason cover: 2
+Crans tensor product: 2
+Batanin -: 2
+Yoneda embed: 2
+$ ell $ - algebra: 2
+tuple groupoid: 2
+iteration pseudomonad: 2
+codensity monad: 2
+combinatory algebra: 2
+fibration structure: 2
+homotopy bicategory: 2
+lifting property: 2
+MacNeille completion: 2
+$ infty $ - homotopie: 2
+mapping space: 2
+$ t_0 $ - space: 2
+mutation pair: 2
+groupoid action: 2
+wiring diagram: 2
+commute action: 2
+coalgebra - like: 2
+transformation groupoid: 2
+group $ g $: 2
+adjoint action: 2
+surface holonomie: 2
+ann - category: 2
+bimodule butterfly: 2
+covering space: 2
+path space: 2
+group structure: 2
+cospan category: 2
+linear category: 2
+split extension classifier: 2
+extension classifier: 2
+control theory: 2
+Segal group: 2
+Segal group action: 2
+$ q $ - category: 2
+coherence property: 2
+action accessibility: 2
+Eilenberg - Moore: 2
+proximity Dedekind vector lattice: 2
+Dedekind vector lattice: 2
+snake lemma: 2
+Bousfield delocalization: 2
+biadjoint triangle: 2
+adjoint triangle: 2
+pseudo - Kan extension: 2
+$ a $ - module: 2
+co - Maltsev: 2
+action representability: 2
+invertibility hypothesis: 2
+$ d $ - ideal: 2
+meet - semilattice: 2
+$ sm $ - ideal: 2
+Artin - Mazur codiagonal: 2
+Mazur codiagonal: 2
+functor calculus: 2
+pseudo - monoid: 2
+$ g $ - uniformity: 2
+ind - category: 2
+Tangent Structure: 2
+tangent functor: 2
+truncation poset: 2
+split monomorphism: 2
+$ (infty, 1) $ - category: 2
+group object: 2
+mutation mechanism: 2
+dg vector space: 2
+quantum category: 2
+tangent category: 2
+ESN Theorem: 2
+box functor: 2
+circuit diagram: 2
+stability result: 2
+$ q $ - distributor: 2
+Brauer - Clifford group: 2
+Clifford group: 2
+pinwheel problem: 1
+colimit argument: 1
+Reshetikhin - Turaev theory: 1
+Turaev theory: 1
+fusion category: 1
+group orbifold: 1
+Turaev - Viro state sum construction: 1
+Viro state sum construction: 1
+state sum construction: 1
+sum construction: 1
+ribbon tensor category: 1
+Tambara - Yamagami: 1
+extension map: 1
+Chevalley criterion: 1
+category $ etop $: 1
+Nerve functor: 1
+Baum - Connes conjecture: 1
+Connes conjecture: 1
+inverting equivalence: 1
+motivating application: 1
+$ k $ - homology: 1
+infinity - category theory: 1
+pretorsion theory: 1
+Alexandroff - discrete space: 1
+multi - source: 1
+yoneda structure: 1
+category coincide: 1
+coend formula: 1
+Gamma - set: 1
+$ s $ - module: 1
+archimedean place: 1
+structure sheaf: 1
+Gromov norm: 1
+Riemann surface: 1
+morphism category: 1
+world datum: 1
+homology functor: 1
+rank function: 1
+persistence function: 1
+persistence diagram: 1
+bottleneck distance: 1
+point cloud datum: 1
+cloud datum: 1
+$ infty $ - topos $ e $: 1
+topos $ e $: 1
+homotopy invariance: 1
+Lusternik - Schnirelmann category: 1
+Schnirelmann category: 1
+Boolean Logic: 1
+generating class $ s $: 1
+class $ s $: 1
+gro topos: 1
+idempotent identity: 1
+site criterion: 1
+2D topological: 1
+2D TQFT: 1
+category $ m $: 1
+dihomotopy relation: 1
+non point: 1
+monad property: 1
+lax - idempotent: 1
+cauchy - completion: 1
+Cauchy - completeness: 1
+sub - bicategory: 1
+$ [n, m] $ - equivalence: 1
+CW - complex: 1
+homotopy class: 1
+$ k $ - multilinearity: 1
+$ k $ - model: 1
+limit specification: 1
+sketch commute: 1
+sketch model: 1
+finite coproduct: 1
+Bianchi Identity: 1
+groupoid theory: 1
+Homotopy Addition Lemma: 1
+Addition Lemma: 1
+gauge group bundle: 1
+group bundle: 1
+Van Kampen type: 1
+Kampen type: 1
+infinite loopspace machine: 1
+loopspace machine: 1
+Left Kan extension: 1
+promonoidal functor: 1
+non associative: 1
+disjunction operation: 1
+non commutative: 1
+M Barr: 1
+account torsion: 1
+presheaf category: 1
+Finite Sum sketch: 1
+Sum sketch: 1
+medial rule: 1
+deduction rule: 1
+coherence space: 1
+functor $ cal p $: 1
+string distributive: 1
+coproduct specification: 1
+homotopy module: 1
+tensor - par fragment: 1
+par fragment: 1
+Bilinear Logic: 1
+FILL category: 1
+MIX rule: 1
+$ k $ - theory: 1
+order sentence: 1
+Ed Keenan: 1
+finite model: 1
+th term: 1
+category $ cat a $: 1
+boolean algebra structure: 1
+image map: 1
+construction datum: 1
+commutator subgroup: 1
+arrow equipment: 1
+equipment arrow: 1
+Whitehead Theorem: 1
+parity complex: 1
+$ omeg $ - complex: 1
+CW complex: 1
+cohomology theory: 1
+Mackey functor category: 1
+group algebra: 1
+ultrafilter functor: 1
+unit law: 1
+Gray - category $ a $: 1
+connection pair: 1
+torsion - freeness: 1
+bf Walk: 1
+discrete Conduché: 1
+F. Lamarche: 1
+correctness criterion: 1
+finite limit coincide: 1
+limit coincide: 1
+numerical function: 1
+series expansion: 1
+Stirling function: 1
+type term constructor: 1
+term constructor: 1
+lambda calculi: 1
+product type: 1
+Maltsev operator: 1
+ground Church - Rosser: 1
+ground CR: 1
+endomorphism monoid: 1
+J. - Y. Girard: 1
+Y. Girard: 1
+self - similarity: 1
+Chu object: 1
+lattice dual: 1
+Phoa principle: 1
+overt discrete space: 1
+Dwyer - Kan: 1
+cylinder object: 1
+static module: 1
+non - topos theorist: 1
+topos theorist: 1
+filter ring: 1
+$ rbbb{c} $ - module: 1
+kernel - congruence: 1
+$ omega $ - group: 1
+congruence - modular: 1
+base functor: 1
+$ {cal v} $ - category: 1
+$ {cal v}^{op} $ - category: 1
+Joyal - Tierney theorem: 1
+Tierney theorem: 1
+dedekind category: 1
+relation algebra: 1
+side condition: 1
+cartesian closure: 1
+pseudo equivalence relation: 1
+sheaf theory: 1
+finite loop space: 1
+Barr exact: 1
+Commutator theory: 1
+branching area: 1
+sub - complex: 1
+invariance result: 1
+merging side: 1
+merge area: 1
+category $ alg $: 1
+finite disk: 1
+graph be: 1
+category simple: 1
+$ omega $ - functor: 1
+bi - quotient map: 1
+colimit completion: 1
+postnikov complex: 1
+Postnikov complex: 1
+horn - lift: 1
+alternation hierarchy problem: 1
+hierarchy problem: 1
+alternation hierarchy: 1
+$ mu $ - lattice: 1
+lattice operation: 1
+Barr exactness assumption: 1
+exactness assumption: 1
+Hurwitz action: 1
+path groupoid: 1
+Artin group: 1
+linear ordering: 1
+Dehornoy ordering: 1
+identity element: 1
+Artin representation: 1
+rewrite system: 1
+abelian sheaf cohomology: 1
+sheaf cohomology: 1
+Cech cohomology: 1
+cofibre sequence: 1
+Gabriel - Ulmer duality: 1
+Ulmer duality: 1
+Lawvere - rosicky: 1
+Morita duality: 1
+Laplace operator: 1
+category Opmon: 1
+$ m $ - subobject: 1
+structure entropic category: 1
+cut - elimination: 1
+Tannaka - Krein reconstruction: 1
+Krein reconstruction: 1
+self - adjoint exponential: 1
+adjoint exponential: 1
+subspace topology: 1
+locale theory: 1
+Sober Spaces: 1
+functor $ cal{a} to cal{b} $: 1
+Stone representation: 1
+Algebraic Topology study: 1
+Topology study: 1
+traffic network: 1
+space - time model: 1
+time model: 1
+homotopy fibre: 1
+fibre sequence: 1
+$ lambda $ - calculus: 1
+reversibility notion: 1
+sub - category: 1
+$ l $ - colocalization: 1
+$ l $ - localization: 1
+A. K. Bousfield: 1
+K. Bousfield: 1
+colocalization process: 1
+chain functor: 1
+monad $ (( - )^2, i, c) $: 1
+pseudo - algebra structure: 1
+cut elimination: 1
+Whitman theorem: 1
+proof theory: 1
+player input - output game: 1
+input - output game: 1
+output game: 1
+derive functor: 1
+Lie algebra homology: 1
+algebra homology: 1
+ground ring: 1
+hopf formula: 1
+lie epimorphism: 1
+entity - Relationship - Attribute idea: 1
+Relationship - Attribute idea: 1
+Attribute idea: 1
+design process: 1
+finite - sum sketch: 1
+sum sketch: 1
+query language: 1
+groupoid correspond: 1
+Lie algebras: 1
+Steiner quasi: 1
+heyte algebra: 1
+composition - representative: 1
+composition - representability: 1
+decomposition result: 1
+cell component: 1
+module bicategory: 1
+Beck - Chevalley - type condition: 1
+Chevalley - type condition: 1
+$ (t, v) $ - algebras: 1
+wave equation: 1
+limit construction: 1
+$ cr $ - epimorphism: 1
+$ z $ - ideal: 1
+homotopy classification: 1
+classification theorem: 1
+ring - group: 1
+Clifford system: 1
+factor set: 1
+product projection: 1
+invariance theorem: 1
+ary term: 1
+precubical set: 1
+composition law: 1
+element conjecture: 1
+Grothendieck isomorphism theorem: 1
+isomorphism theorem: 1
+Linear bicategorie: 1
+cell level: 1
+lax transformation: 1
+poly - module: 1
+quasigroup isotopie: 1
+quasigroup model theory: 1
+multiplication map: 1
+inverse $ x' $: 1
+group cohomology: 1
+identity object: 1
+Chern - Simons theory: 1
+Simons theory: 1
+category 2vect: 1
+bilinear functor: 1
+Jacobi identity: 1
+Zamolodchikov tetrahedron equation: 1
+tetrahedron equation: 1
+semistrict Lie: 1
+term $ l_infty $ - algebra: 1
+$ l_infty $ - algebra: 1
+Lie algebra cohomology: 1
+algebra cohomology: 1
+parameter family: 1
+powerlocale construction: 1
+Sierpinski locale: 1
+geometricity result: 1
+locale presentation: 1
+category c: 1
+Cassidy - Héebert - Kelly factorization: 1
+Héebert - Kelly factorization: 1
+Kelly factorization: 1
+$ v $ - Cat: 1
+$ v $ - module: 1
+preservation theorem: 1
+category $ b $: 1
+Baer Extension Theory: 1
+Extension Theory: 1
+size restriction: 1
+finite diagram: 1
+fashion notion: 1
+multilimit merging functor: 1
+merging functor: 1
+site structure: 1
+pretopos completion process: 1
+completion process: 1
+finite limit property: 1
+limit property: 1
+approximation technique: 1
+approximation result: 1
+cotriple homology theory: 1
+Stallings - Stammbach sequence: 1
+Stammbach sequence: 1
+group homology: 1
+Furtado - Coelho: 1
+kernel pair: 1
+CCD lattice characterization: 1
+lattice characterization: 1
+combinatorial topos: 1
+finite automata: 1
+compatibility condition: 1
+coalgebra structure: 1
+similarity strict: 1
+homotopy kernels: 1
+$ v $ - matrix: 1
+finite spectra: 1
+$ sigma $ - algebra: 1
+quotient algebra: 1
+Jan Reiterman: 1
+colimit commute: 1
+class $ phi^ - $: 1
+limit commute: 1
+Cauchy - completion: 1
+Morita theorem: 1
+self - distance law: 1
+distance law: 1
+triangle inequality: 1
+netwise form: 1
+Baues - Jibladze descent: 1
+Jibladze descent: 1
+$ (P, V) $ - algebra: 1
+powerset monad: 1
+General Coalgebra: 1
+monoid monad: 1
+semigroup monad: 1
+Physical Traces: 1
+Yanking axiom: 1
+machine code: 1
+term judgement: 1
+coherence requirement: 1
+op - Grothendieck construction: 1
+Grothendieck construction: 1
+type constructor: 1
+push - value: 1
+chain complexe: 1
+unit morphism: 1
+$ n $ - simplice: 1
+epic von Neumann: 1
+$ sigma $ - family: 1
+$ sigma $ - automata: 1
+Basic Intuitionistic Set Theory: 1
+Intuitionistic Set Theory: 1
+Set Theory: 1
+sheaf model: 1
+Basic Intuitionistic Class Theory: 1
+Intuitionistic Class Theory: 1
+Class Theory: 1
+class theory: 1
+epimorphism topology: 1
+homology isomorphism: 1
+homotopy extension property: 1
+extension property: 1
+factorization monad: 1
+potency object: 1
+Burnside rig: 1
+quantum mechanic: 1
+stuff operator: 1
+circle group: 1
+$ m $ - stuff type: 1
+time evolution: 1
+combinatorial setting: 1
+Feynman rule: 1
+Serge Bouc: 1
+permutation representation: 1
+category theorist: 1
+transition function: 1
+connection form: 1
+curvature form: 1
+nonflat connection: 1
+Ambrose - Singer: 1
+component category: 1
+Category Theory: 1
+chu category: 1
+$ omega $ - category monad: 1
+category monad: 1
+paper equivalence: 1
+ana - bicategory: 1
+2D - multitopic category: 1
+multitopic category: 1
+FOLDS equivalence: 1
+FOLDS - specification: 1
+restriction homomorphism: 1
+sub - semilattice: 1
+adjoint construction: 1
+object part: 1
+$ fc $ - multicategorie: 1
+TFT construction: 1
+cross cap constraint: 1
+cap constraint: 1
+semilattice fibration: 1
+category determine: 1
+$ mathcal{q} $ - module: 1
+class $ mathbb{c} $: 1
+comma - category $ (mathcal{d}downarrow a) $: 1
+category $ (mathcal{d}downarrow a) $: 1
+orthomodular lattice: 1
+specialization order: 1
+$ k $ - quiver: 1
+functor $ a_infty(fq, a) to a_1(q, a) $: 1
+quiver $ q to a $: 1
+face operation: 1
+$ t $ - complex: 1
+chain homotopie: 1
+descent type: 1
+algebra functor: 1
+descent theorem: 1
+Dialectica - style interpretation: 1
+style interpretation: 1
+affine logic: 1
+order formula: 1
+dialectica category: 1
+order setting: 1
+$ ?clik $ - translation: 1
+translation result: 1
+$ existsforall $ - formula: 1
+negation translation: 1
+cell - span: 1
+base bicategory: 1
+state transition system: 1
+cyclic Chu - span: 1
+meeting point: 1
+Chu Spaces: 1
+Domain Theory: 1
+finite Chu space: 1
+Chu space: 1
+relation correspond: 1
+association rule: 1
+Scott domain: 1
+approximable mapping: 1
+Full Intuitionistic Linear Logic: 1
+calculus formulation: 1
+deduction system: 1
+term assignment system: 1
+assignment system: 1
+involution $ ( - )^{ } $: 1
+identity arrow: 1
+Segal condition: 1
+Moerdijk - Weiss: 1
+$ omega $ - operad: 1
+endo - 2: 1
+algebra condition: 1
+co)homology functor: 1
+cohomotopy functor: 1
+model enrichment: 1
+endomorphism ring object: 1
+endomorphism ring: 1
+adjoint module: 1
+$ t $ - operation: 1
+$ s $ - operation: 1
+Hopf algebra structure: 1
+product operad: 1
+factor operad: 1
+transposition symmetry: 1
+definition composition: 1
+$ k $ - cell: 1
+k - cobordisms: 1
+bundle gerbe module: 1
+Michael covering: 1
+dominance domain: 1
+topos doctrine: 1
+Core algebra: 1
+quotient monad: 1
+sequel paper: 1
+monad approximation: 1
+Francisco Marmolejo: 1
+coproduct completion: 1
+function space: 1
+state sum invariant: 1
+sum invariant: 1
+Dijkgraaf - Witten Invariant: 1
+Witten Invariant: 1
+unit - ball functor: 1
+unit ball functor: 1
+Banach space: 1
+Abramsky - Jagadeesan games: 1
+Jagadeesan games: 1
+player game: 1
+Olivier Laurent: 1
+adjoint connection: 1
+module - equivalence: 1
+sheaf - equivalence: 1
+formula $ (downarrow p)x = Gamma_clik(x/p) $: 1
+complement operator: 1
+cohomology ring: 1
+cohesive background: 1
+quality form: 1
+Grothendieck condition VII: 1
+condition VII: 1
+ring homomorphism: 1
+base change functor: 1
+change functor: 1
+pseudo - monad: 1
+pseudo - slice: 1
+Grothendieck derivator: 1
+Frobenius operation: 1
+finite space: 1
+affine space: 1
+1 +: 1
+function algebra: 1
+dimension rig: 1
+$ a_infty $ - subcategory: 1
+functor $ a mapsto a_infty^u(c, a)_{mod b} $: 1
+unital $ a_infty $ - functor $ c to a $: 1
+$ a_infty $ - functor $ c to a $: 1
+functor $ c to a $: 1
+$ k $ - module: 1
+coalgebra object: 1
+$ d $ - coalgebra: 1
+stability law: 1
+arrow interval: 1
+hom - set: 1
+Linear Abadi: 1
+Plotkin Logic: 1
+domain equation: 1
+LAPL structure: 1
+pushout topos: 1
+connectedness assumption: 1
+Galois topos: 1
+Absolute Kan extension: 1
+fortiori protomodular: 1
+classification table: 1
+Baer sum: 1
+comonoid homomorphism: 1
+identity map: 1
+Maltsev co: 1
+identity morphism: 1
+Yoneda embedding: 1
+functor modulo group: 1
+modulo group: 1
+monad functor: 1
+graph structure: 1
+affine object: 1
+point set: 1
+Daisuke Tambara: 1
+category $ da $: 1
+coalgebra modality: 1
+linear notion: 1
+term calculus: 1
+$ m $ - algebra: 1
+algebra $ (a, a) $: 1
+algebra $ (MA_0, m) $: 1
+space colimit: 1
+homotopy type functor: 1
+type functor: 1
+abelian categorification: 1
+weight category: 1
+quantum link invariant: 1
+link invariant: 1
+link homology: 1
+finite derivation type: 1
+convergent presentation: 1
+stack exist: 1
+Morse Theory: 1
+profinite group: 1
+finite discrete: 1
+$ z $ - module: 1
+generator embed: 1
+adjoint morphism: 1
+Hilbert category: 1
+2 - Hilbert space: 1
+Jon Beck: 1
+wreath product monad: 1
+Seely category: 1
+ANR - space: 1
+homotopy orthogonality: 1
+high Homotopy van Kampen Theorems: 1
+Homotopy van Kampen Theorems: 1
+van Kampen Theorems: 1
+Kampen Theorems: 1
+colimit calculation: 1
+base point: 1
+briefly application: 1
+control flow: 1
+state space split: 1
+space split: 1
+machine behavior: 1
+program analysis: 1
+slice - category construction: 1
+category construction: 1
+plank construction: 1
+Dieudonne construction: 1
+Lindelof case: 1
+neighbourhood property: 1
+p - space: 1
+Lindelof CNP space: 1
+CNP space: 1
+Alster space: 1
+adjoint couple: 1
+projection formula: 1
+composition formula: 1
+duality preserve: 1
+push -: 1
+Witt group: 1
+co)endomorphism algebra: 1
+von Neumann core: 1
+Neumann core: 1
+$ g $ - algebra: 1
+counter - example: 1
+subobject functor: 1
+reflection property: 1
+Charles Ehresmann: 1
+jet tangent: 1
+Split Short Five Lemma: 1
+Short Five Lemma: 1
+Five Lemma: 1
+commutator condition: 1
+third cohomology group: 1
+Non - abelian Snake Lemma: 1
+abelian Snake Lemma: 1
+completeness /: 1
+cocompleteness assumption: 1
+module corresponding: 1
+star - multiplicative: 1
+$ omega_2 $ - group: 1
+Galois descent theory: 1
+Grothendieck descent: 1
+Grothendieck descent data coincide: 1
+descent data coincide: 1
+data coincide: 1
+Grothendieck descent theory: 1
+descent construction: 1
+abelian cohomology: 1
+category $ cat(e) $: 1
+$ b $ - torsor: 1
+Cech cocycle: 1
+Hopf formulae: 1
+protoadditive functor: 1
+preservation yield: 1
+product measure: 1
+object biadjunction: 1
+commutation relation: 1
+field operator: 1
+deformation parameter: 1
+finite field: 1
+Schreier - Mac Lane extension: 1
+Mac Lane extension: 1
+Lane extension: 1
+Schreier - Mac Lane: 1
+Galois groupoid: 1
+Span construction: 1
+truth - value: 1
+power set monad: 1
+set monad: 1
+CCD sup - lattice: 1
+Möbius inversion principle: 1
+inversion principle: 1
+inversion result: 1
+direction follow: 1
+kernel object: 1
+K - theory: 1
+Waldhausen subcategory: 1
+John Baez: 1
+James Dolan: 1
+semigroup action: 1
+semigroup prehomomorphism: 1
+tensor product functor: 1
+Lawvere - product: 1
+extension system: 1
+extension system work: 1
+system work: 1
+incompleteness result: 1
+Cayley graph: 1
+combinatorial group theory: 1
+graph morphism: 1
+zeta series: 1
+walk space: 1
+restriction structure: 1
+completion operation: 1
+Zariski topology: 1
+exponentiability characterization: 1
+uniform space: 1
+$ omega $ - loop: 1
+bundle category: 1
+Faà di Bruno: 1
+di Bruno: 1
+order chain rule fibration: 1
+chain rule fibration: 1
+rule fibration: 1
+coherence issue: 1
+subobject classifier axiom: 1
+classifier axiom: 1
+Cattani - Sassone: 1
+orthogonality class: 1
+process algebra: 1
+Cauchy completion monad: 1
+completion monad: 1
+symmetrisation comonad: 1
+Cauchy - bilateral: 1
+chain - complex: 1
+term lie infinity algebra: 1
+lie infinity algebra: 1
+infinity algebra: 1
+quantum algebra: 1
+Wiener algebra: 1
+analysis term: 1
+test object: 1
+communicating system: 1
+Computer Science: 1
+knot colouring: 1
+bi - finite: 1
+von Neumann algebra: 1
+Neumann algebra: 1
+Hilbert bi - module: 1
+loop group: 1
+unit map: 1
+Quantum category: 1
+category unpack: 1
+quantum structure: 1
+site characterization: 1
+lax adjunction: 1
+Artin - Wraith glueing: 1
+Wraith glueing: 1
+etale groupoid: 1
+number vanishe: 1
+string diagram calculus: 1
+diagram calculus: 1
+Explicit Basis property: 1
+Basis property: 1
+Grothendieck site $ (c, j) $: 1
+site $ (c, j) $: 1
+Yoneda Lemma: 1
+Model Theory: 1
+sphere spectrum: 1
+Vitale model: 1
+Postnikov datum: 1
+graphlike structure: 1
+term logic: 1
+part paper: 1
+Boris Schein: 1
+Freyd conjecture: 1
+Kornel Szlachanyi: 1
+skew pseudo: 1
+base comonoid: 1
+quantum groupoid: 1
+biadjoint biequivalence: 1
+po - monoid: 1
+congruence lattice: 1
+cell complexe: 1
+Richard Garner: 1
+pre - hopf: 1
+fusion operator: 1
+pre - hopf monad: 1
+Galois entwining: 1
+section application: 1
+fibre functor: 1
+Frobenius monoidal functor: 1
+cocategory object: 1
+Hopf comonad coincide: 1
+comonad coincide: 1
+Schwartz distribution: 1
+building block: 1
+wreath product construction: 1
+category $ wdl^{(n)}(cal k) $: 1
+$ (n+1) $ - tuple: 1
+monad $ mnd $: 1
+functor $ wdl^{(n)}(ock)to wdl^{(n - 1)}(overline cal k) $: 1
+associativity property: 1
+Ising type quantum spin chain: 1
+type quantum spin chain: 1
+quantum spin chain: 1
+spin chain: 1
+algebra % construction: 1
+% construction: 1
+Monadic Equational Systems satisfie: 1
+Equational Systems satisfie: 1
+Systems satisfie: 1
+completeness property: 1
+force extensionality: 1
+comodule - monad: 1
+algebra - comonoid: 1
+Hopf algebra literature: 1
+algebra literature: 1
+Hopf Galois extension: 1
+interest possess: 1
+extent action: 1
+cross - effect: 1
+category equivalence: 1
+$ g $ - action: 1
+other one: 1
+associativity type condition: 1
+Beck module: 1
+$ l $ - completeness: 1
+morphism concept: 1
+Kuratowski - Mrówka: 1
+quantale $ v $: 1
+Huq property satisfy: 1
+property satisfy: 1
+hopf formulae: 1
+abelianisation functor: 1
+ary site: 1
+pretopos completion: 1
+push - out: 1
+Kleisli object: 1
+category diexact: 1
+Benno van den Berg: 1
+van den Berg: 1
+den Berg: 1
+De Morgan: 1
+Herbrand realizability topos: 1
+Herbrand realizability construction: 1
+realizability construction: 1
+operator algebra: 1
+equivariant Hilbert module: 1
+$ c^infty $ - superalgebra: 1
+$ c^infty $ - ring: 1
+category model homotopy: 1
+model homotopy: 1
+Maltsev axiom: 1
+differentiation operation: 1
+cochain complex: 1
+$ (n+1) $ - category: 1
+Cisinski -: 1
+Isbell completion construction: 1
+completion construction: 1
+Isbell completion coincide: 1
+completion coincide: 1
+Isbell completion: 1
+cocompletion functor: 1
+category factor: 1
+Eilenberg - Mac Lane space: 1
+Mac Lane space: 1
+Lane space: 1
+site description: 1
+sheaf topos: 1
+gluing axiom: 1
+framework reproduce: 1
+Breen - Messing gerbes: 1
+Messing gerbes: 1
+abelian gerbes: 1
+approach reproduce: 1
+mapping class group: 1
+class group: 1
+Gelfand - Neumark duality: 1
+Neumark duality: 1
+$ c^* $ - algebras: 1
+Stone - Weierstrass theorem: 1
+Weierstrass theorem: 1
+Gelfand ring: 1
+$ {mathbb r} $ - algebra: 1
+$ mathbb r $ - algebras: 1
+$ * $ - algebra: 1
+Yang - Baxter type equation: 1
+Baxter type equation: 1
+type equation: 1
+$ s $ - action: 1
+parameter category: 1
+$ e $ - diagram: 1
+iteration version: 1
+monad $ ( - )^{mathbf{2}} $: 1
+iteration description: 1
+Kan fibration: 1
+John Longley: 1
+Jaap van Oosten: 1
+van Oosten: 1
+motivating question: 1
+base semialgebra: 1
+$ mathbb{j} $ - monad: 1
+$ mathbb{j} $ - comonad: 1
+endo - functor: 1
+semiunital semimonoidal variety: 1
+semimonoidal variety: 1
+semiunital $ a $: 1
+$ a $ - semicoring: 1
+semicounitary semicomodule: 1
+counital coring: 1
+duality theorem: 1
+bimonoid structure: 1
+$ m $ - module: 1
+Tannaka adjunction: 1
+hom - functor: 1
+hopf bimonoid: 1
+strictification functor: 1
+bicategory Cat: 1
+Periodic Table: 1
+tuply monoidal: 1
+topos inclusion: 1
+torsion bundle gerbe: 1
+bundle gerbe: 1
+Serre - Swan: 1
+Lawvere - Tierney topology: 1
+Tierney topology: 1
+$ t $ - completion: 1
+$ m $ - embedding: 1
+adjoint functor factorization result: 1
+functor factorization result: 1
+factorization result: 1
+Applegate - Tierney: 1
+recognition principle: 1
+Hodge complex: 1
+prefactorization system: 1
+$ c* $ - algebra: 1
+Gelfand spectrum: 1
+go result: 1
+Kullback - Leibler divergence: 1
+Leibler divergence: 1
+probability theory: 1
+measurement process: 1
+enrichment base: 1
+Street - Walters: 1
+Leibniz type: 1
+$ {infty} $ - algebra: 1
+structure project: 1
+Kan property: 1
+$ infty $ - algebra case: 1
+algebra case: 1
+composition rule cite{ss07: 1
+rule cite{ss07: 1
+Reedy category axiom: 1
+category axiom: 1
+pushout - product: 1
+homotopy limit: 1
+vector space structure: 1
+space structure: 1
+rig category: 1
+$ f $ - scheme: 1
+Arakelov compactification: 1
+path space construction: 1
+space construction: 1
+Grothendieck group construction: 1
+group construction: 1
+flow category: 1
+category $ mathcal v $: 1
+Morse index: 1
+Morse moduli space: 1
+moduli space: 1
+epi - mono factorization: 1
+mono factorization: 1
+group representation: 1
+representation $ rho $: 1
+initia groupoid: 1
+character formula: 1
+Stone topology: 1
+quotient category: 1
+groupoid morphism: 1
+cartesian closedness: 1
+linear system: 1
+elementary class: 1
+limit type: 1
+$ cat $ - operad: 1
+comonad structure: 1
+$ a_infty $ - morphism: 1
+bi - inclusion: 1
+Chan Hong - Mo: 1
+Hong - Mo: 1
+Tsou Sheung Tsun: 1
+Sheung Tsun: 1
+gauge covariance: 1
+interchange law: 1
+comparison cell: 1
+kind span: 1
+space theory: 1
+unit disk: 1
+$ c $ - covering: 1
+$ pi_1(x, x_0) $ - set: 1
+monodromy action: 1
+$ h(c) $ - covering: 1
+subgroup lattice: 1
+covering category: 1
+whisker topology: 1
+Fan - covering: 1
+quotient topology: 1
+Stone - Cech compactification: 1
+Cech compactification: 1
+Gil de: 1
+commutative Frobenius monoid: 1
+Yetter - drinfel'd: 1
+module coalgebra: 1
+comodule algebra: 1
+twisting coefficient: 1
+base manifold: 1
+presentation theory: 1
+Day Reflection Theorem: 1
+Reflection Theorem: 1
+Eilenberg - Moore coalgebra: 1
+Moore coalgebra: 1
+quotient functor: 1
+finite category: 1
+Deligne 2: 1
+la Hochschild - Serre: 1
+Hochschild - Serre: 1
+linear dual: 1
+dimension hypothesis: 1
+affine scheme: 1
+affine ind - scheme: 1
+ind - scheme: 1
+indexing poset: 1
+Sufficient Cohesion: 1
+action theory: 1
+dagger - Frobenius structure: 1
+ZX - calculus: 1
+$ infty $ - graph: 1
+$ t^{(infty, n)} $ - algebra: 1
+$ (infty, n) $ - category: 1
+$ (infty, 0) $ - category: 1
+Segal space model structure: 1
+space model structure: 1
+infinity category: 1
+accessibility property: 1
+accessibility rank: 1
+opening section: 1
