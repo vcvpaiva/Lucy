@@ -1,0 +1,10 @@
+%%CT via building blocks
+
+category
+functor
+natural transformation
+object
+morphism=arrow=map
+identity map
+composition
+associativity
