@@ -8,3 +8,32 @@ morphism=arrow=map
 identity map
 composition
 associativity
+reflexivity
+transitivity
+commutative square
+initial object
+terminal object
+pullback
+pushout
+equalizer
+co-equalizer
+limit
+colimit
+cone
+universal property
+adjunction
+unit
+counit
+Eilenberg-Moore category
+Kleisli category
+algebra
+coalgebra
+monad
+comonad
+comma category
+monoidal category
+tensor product
+internal-hom
+enriched category
+cartesian closed categoy
+symmetric monoidal closed category
