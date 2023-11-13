@@ -9,3 +9,5 @@ For TAC: the file tac-clean.conll contains an automatically annotated version of
 The file tac-manual.conllu has an improved version, with manual cleaning of latex, to be described.
 
 The development version of the glossary is at the Definitions in Math (DefsMath) project page https://defsmath.github.io/DefsMath/
+
+Project changed to MathGloss and can be seen at https://mathgloss.github.io/MathGloss/database
