@@ -1,5 +1,4 @@
 %%CT via building blocks
-
 category
 functor
 natural transformation
@@ -11,6 +10,7 @@ associativity
 reflexivity
 transitivity
 commutativity
+diagram
 commutative square
 initial object
 terminal object
@@ -31,6 +31,7 @@ colimit
 cone
 universal property
 adjunction
+adjoint
 unit
 counit
 Eilenberg-Moore category
@@ -44,5 +45,28 @@ monoidal category
 tensor product
 internal-hom
 enriched category
-cartesian closed categoy
+cartesian closed category
 symmetric monoidal closed category
+monoid
+comonoid
+%%
+function
+relation
+group
+vector space
+ring
+set
+class
+topology
+model
+topos
+module
+model
+homotopy
+action
+groupoid
+tensor
+variety
+lattice
+transformation
+span
