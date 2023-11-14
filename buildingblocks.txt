@@ -10,6 +10,7 @@ composition
 associativity
 reflexivity
 transitivity
+commutativity
 commutative square
 initial object
 terminal object
@@ -17,6 +18,13 @@ pullback
 pushout
 equalizer
 co-equalizer
+monomorphism
+epimorphism
+isomorphism
+automorphism
+monic
+epic
+factorization system
 limit
 colimit
 cone
