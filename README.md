@@ -11,3 +11,8 @@ The file tac-manual.conllu has an improved version, with manual cleaning of late
 The development version of the glossary is at the Definitions in Math (DefsMath) project page https://defsmath.github.io/DefsMath/
 
 Project changed to MathGloss and can be seen at https://mathgloss.github.io/MathGloss/database
+
+--------------------
+
+Choosing some free open source books for basic Math:
+1. https://math.dartmouth.edu/~prob/prob/prob.pdf (Baez rec)
