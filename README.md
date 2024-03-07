@@ -14,5 +14,6 @@ Project changed to MathGloss and can be seen at https://mathgloss.github.io/Math
 
 --------------------
 
-Choosing some free open source books for basic Math:
+Choosing some free open source books and journals for basic Math:
 1. https://math.dartmouth.edu/~prob/prob/prob.pdf (Baez rec)
+2. https://journals.uwyo.edu/index.php/ela/issue/view/271 open source journal for LinAlg?
