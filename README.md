@@ -1,7 +1,7 @@
 # Category Theory Glossary
 The work here is based on the corpora: 
 1.  abstracts from the journal TAC (Theory and Applications of Categories),  from 1995 up to around Dec 2020. We have 755 abstracts. This corpus is described in https://github.com/ToposInstitute/tac-corpus/.
-2. sentences extracted from the ProofNet project
+2. sentences extracted from the ProofNet project (https://arxiv.org/abs/2302.12433)
 3. sentences from nLab
 4. (sentences from the Chicago notes, are kept in a different repository)
 
