@@ -68,7 +68,7 @@ mutation pair: 3
 static program analysis: 3
 Dialectica construction: 3
 cochain complex: 3
-von Neumann: 3
+[von Neumann: 3]
 new exactness condition: 3
 thin filler condition: 3
 chain complex: 3
@@ -135,7 +135,7 @@ codescent morphism: 2
 circuit correspond: 2
 [Jon Beck: 2]
 - bicategorie generalise planar: 2
-generalise planar: 2
+[generalise planar: 2]
 homotopy limit: 2
 multilinear functor calculus: 2
 suitable base category v: 2
