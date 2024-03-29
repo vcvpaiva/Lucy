@@ -1,0 +1,174 @@
+Kan extension: 9
+homotopy theory: 6
+MD - sketch: 6
+KZ - doctrine: 6
+topos theory: 6
+lie groupoid: 5
+entropic category: 5
+factorization system: 5
+model structure: 5
+descent theory: 4
+identity functor: 3
+[preservation yield: 3]
+product measure: 3
+homotopy category: 3
+Lie algebra: 3
+[small category b: 3]
+Isbell adjunction: 3
+category theory: 3
+ramification groupoid: 3
+[certain order structure: 3]
+congruence lattice: 3
+Variety Theorem: 3
+Hecke algebra: 3
+[string distributive: 3]
+[double category c//g: 3]
+abelian surface holonomy: 3
+span construction: 3
+[- way site: 3]
+hypergraph functor: 3
+wiring diagram: 3
+Day Reflection Theorem: 3
+Reflection Theorem: 3
+[- category theory: 3]
+abstract core algebra: 3
+quantale completion: 3
+co - smash product: 3
+[- smash product: 3]
+coherence requirement: 3
+topos inclusion: 3
+acyclic model: 3
+[= Set: 3]
+[- monad property: 3]
+composition - representative: 3
+homotopy orthogonality: 3
+algebraic majority category: 3
+Finite Sum sketch: 3
+Sum sketch: 3
+[different network model: 3]
+Ambrose - Singer: 3
+Robert MacPherson: 3
+Kan complex: 3
+braid group: 3
+nerve construction: 3
+Galois descent theory: 3
+FOLDS equivalence: 3
+FOLDS - specification: 3
+network model: 3
+real world datum: 3
+model category structure: 3
+category structure: 3
+base category: 3
+Chu - construction: 3
+group algebra: 3
+topological Hausdorff group: 3
+model category: 3
+Arakelov compactification: 3
+mutation pair: 3
+static program analysis: 3
+Dialectica construction: 3
+cochain complex: 3
+von Neumann: 3
+new exactness condition: 3
+thin filler condition: 3
+chain complex: 3
+chain homotopie: 3
+Tannaka - Krein reconstruction: 3
+[- Krein reconstruction: 3]
+datum - specification: 3
+[arbitrary orthomodular lattice: 3]
+Span construction: 3
+monoidal model category: 3
+research team: 3
+[output efficiency: 3]
+state space: 3
+Grothendieck derivator: 3
+characterization theorem: 3
+branched cover: 3
+realizability topos: 3
+Whitehead Theorem: 3
+closed extension l: 3
+uniform completion: 3
+Dedekind completion: 3
+vector lattice: 3
+locale B: 3
+tensor category: 3
+sup - lattice: 3
+coherent unit action: 3
+derivator enhance: 3
+representation theory: 3
+n - category: 3
+differentiation operation: 2
+tensor product: 2
+enchilada category: 2
+[corresponding morphism concept: 2]
+Grothendieck topos: 2
+sheaf theoretic: 2
+shape theory: 2
+Kan condition: 2
+Cauchy filter: 2
+Segal dg - category: 2
+dg - category: 2
+Feynman diagram: 2
+probability theory: 2
+designing network: 2
+tube algebra: 2
+cyclic spectrum: 2
+basal graph: 2
+monetary value measure: 2
+Hall algebra: 2
+hopf formula: 2
+lie algebra: 2
+cut - elimination: 2
+[Philip Higgins: 2]
+Split Short Five Lemma: 2
+Short Five Lemma: 2
+Five Lemma: 2
+[push -: 2]
+Witt group: 2
+[such structure entropic category: 2]
+complex base field: 2
+MIX rule: 2
+pretopos completion: 2
+cohomology theory: 2
+codescent morphism: 2
+circuit correspond: 2
+[Jon Beck: 2]
+- bicategorie generalise planar: 2
+generalise planar: 2
+homotopy limit: 2
+multilinear functor calculus: 2
+suitable base category v: 2
+category v: 2
+joint probability distribution: 2
+Dialectica - style interpretation: 2
+[- style interpretation: 2]
+classical affine logic: 2
+Gray - category: 2
+restriction category: 2
+abelian group: 2
+Maltsev variety: 2
+Higgins commutator: 2
+[Let preord(c: 2]
+differential linear logic: 2
+super Fermat theory: 2
+join operation: 1
+duality theory: 1
+Cech cohomology: 1
+coherence condition: 1
+site criterion: 1
+petit topos: 1
+[a. Kock: 1]
+[M. Barr: 1]
+double category construction: 1
+paper study: 1
+vector field: 1
+Nerve functor: 1
+type constructor: 1
+compactification technique: 1
+[C. Persistence: 1]
+[final section application: 1]
+parity complex: 1
+Chu - span: 1
+[S. Moreover: 1]
+adjoint functor: 1
