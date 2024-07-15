@@ -1,5 +1,4 @@
 Q29023: 2D
-Q2818978: AB4
 Q295756: ANR
 Q1216464: Abelian
 Q318737: Abelian_category
