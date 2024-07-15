@@ -11,9 +11,6 @@ Q4669945: Abstract_elementary_class
 Q673661: Abstraction
 Q4672496: Accessible_category
 Q4672496: Accessible_functor
-Q231010: Account
-Q226469: Act
-Q343542: Action
 Q1201095: Action_theory
 Q33999: Actor
 Q32043: Addition
@@ -31,9 +28,6 @@ Q1219045: Affine
 Q4688943: Affine_logic
 Q1154351: Affine_scheme
 Q382698: Affine_space
-Q2827815: Aid
-Q226531: Aim
-Q208534: Al
 Q3532117: Alexandroff-discrete_space
 Q3968: Algebra
 Q5141398: Algebra_cohomology
@@ -53,7 +47,6 @@ Q4724020: Algebraic_theory
 Q212803: Algebraic_topology
 Q1000660: Algebras
 Q18535: Allegory
-Q1219: Alster
 Q393567: Alternation
 Q452862: Amalgamation
 Q4739384: Amalgamation_property
