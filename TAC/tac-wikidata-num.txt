@@ -1,4 +1,3 @@
-Q29023: 2D
 Q1216464: Abelian
 Q318737: Abelian_category
 Q181296: Abelian_group
