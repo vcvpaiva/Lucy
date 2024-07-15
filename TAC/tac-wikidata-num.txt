@@ -10,10 +10,8 @@ Q4669939: Abstract_cell_complex
 Q1781552: Abstract_class
 Q4669945: Abstract_elementary_class
 Q673661: Abstraction
-Q555097: Accessibility
 Q4672496: Accessible_category
 Q4672496: Accessible_functor
-Q171558: Accident
 Q231010: Account
 Q226469: Act
 Q343542: Action
