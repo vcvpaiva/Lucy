@@ -1,5 +1,4 @@
 Q29023: 2D
-Q295756: ANR
 Q1216464: Abelian
 Q318737: Abelian_category
 Q181296: Abelian_group
@@ -11,7 +10,6 @@ Q4669939: Abstract_cell_complex
 Q1781552: Abstract_class
 Q4669945: Abstract_elementary_class
 Q673661: Abstraction
-Q338902: Access
 Q555097: Accessibility
 Q4672496: Accessible_category
 Q4672496: Accessible_functor
