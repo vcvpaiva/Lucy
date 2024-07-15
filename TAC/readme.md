@@ -10,4 +10,6 @@ became simply
 
 Q5505100: Frobenius_algebra
 
-We still have problems with abbreviations (e.g. ), adjectives, and terms that are not mathematical (e.g.  )
+We still have problems with abbreviations (e.g. ANR can be "Absolute neighborhood retract, a type of topological space (mathematics)").
+
+Need to decide what to do with adjectives, and terms that are not mathematical (e.g.  )
