@@ -155,7 +155,6 @@ weak wreath product: 4
 complicial set: 4
 complicial identity: 4
 codensity monad: 4
-dimensional vector space: 4
 finite colimit: 4
 monoidal differential category: 4
 cartesian closed: 4
@@ -164,23 +163,17 @@ isotropy group: 4
 inductive groupoid: 4
 symmetric strict monoidal: 4
 free double category: 3
-fold vector bundle: 3
 rinehart structure: 3
 monoidal abelian category: 3
-stable unit: 3
 horizontal unit: 3
 horizontal morphism: 3
-categorical framework: 3
 deductive system: 3
 pointed object: 3
-common generalization: 3
 topological quantum field theory: 3
 weak factorization system: 3
-complete category c: 3
 algebraic model: 3
 multipresentable category: 3
 strict algebra: 3
-compatible structure: 3
 multiplicative linear logic: 3
 natural number object: 3
 equational category: 3
@@ -198,7 +191,6 @@ double groupoid: 3
 algebraic lattice: 3
 globular nerve: 3
 equivariant stable homotopy theory: 3
-stable homotopy theory: 3
 linear bicategory: 3
 weak inverse: 3
 monoidal object: 3
@@ -210,141 +202,79 @@ unital category: 3
 subtractive variety: 3
 exponentiable object: 3
 cartesian closed category: 3
-important result: 3
-open problem: 3
-categorical approach: 3
 topological cospan: 3
-classical theorem: 3
-quillen equivalent: 3
-categorical analogue: 3
-algebraic category: 3
 full embedding: 3
 initial object: 3
-connected case: 3
-new class: 3
 injective space: 3
-different construction: 3
-canonical way: 3
 globular complex: 3
-early paper: 3
 weak distributive law: 3
 geometric realization: 3
-additional condition: 3
-categorical algebra: 3
-symmetric multicategorie: 3
+symmetric multicategory: 3
 globular operad: 3
-standard construction: 3
 dual equivalence: 3
 vertical arrow: 3
 stochastic automata: 3
 projective model structure: 3
-usual tensor product: 3
 partial map: 3
 topological group: 3
-special class: 3
 coreflective subcategorie: 3
 categorified algebra: 3
 vertical morphism: 3
-generalized notion: 3
 lefschetz number: 3
-algebraic description: 3
-first part: 3
 inverse category: 3
-axiomatic framework: 3
-categorical context: 3
 commutative square: 3
 autonomous category: 3
-ary site: 3
-strong relation: 3
 strict unit: 3
-direct proof: 3
 parallel transport: 3
-non - abelian: 3
-certain property: 3
 compact closed: 3
-monetary value measure: 3
-universal object: 3
-like structure: 3
 magnetic monopole: 3
-universe category functor: 3
-last section: 3
-linear relation: 3
-pointed exact protomodular category: 3
-compact regular frame: 3
+protomodular category: 3
 regular frame: 3
 symmetric quandle: 3
 tangent category: 3
-effective category: 3
 weak cofibration category: 3
-cofree cartesian differential category: 3
+cartesian differential category: 3
 opmonoidal arrow: 3
 electrical circuit: 3
 lax pullback complement: 3
 canonical triangulation: 3
-double category construction: 3
+double category: 3
 equivariant operad: 3
 monic skeleta: 3
 extranatural transformation: 3
 multiplicative vector field: 3
-other colimit: 3
 n - fold vector bundle: 2
-canonical isomorphism: 2
-general setting: 2
 arithmetic universe: 2
 commutative monoidal category: 2
-well understanding: 2
 preadditive category: 2
-systematic construction: 2
 symmetric monoidal abelian category: 2
 light factorization system: 2
 horizontal target: 2
 augmented virtual double category: 2
-binary product: 2
 topological complexity: 2
 intuitionistic logic: 2
 right exact functor: 2
-strong one: 2
-free completion: 2
-semistrict monoidal: 2
-usual axiom: 2
 coherent isomorphism: 2
 continuous flow: 2
 weak dihomotopy equivalence: 2
 affine category: 2
-full structure: 2
-- bicategory: 2
 pointed space: 2
-different class: 2
-useful property: 2
-trivial covering: 2
 local homeomorphism: 2
 stable homotopy category: 2
 strong promonoidal functor: 2
 quantic conuclei: 2
-complete characterization: 2
-denotational semantic: 2
-new model: 2
-suitable generalization: 2
 singular chain complex: 2
 pointed set: 2
 idempotent monad: 2
-new construction: 2
-left exact: 2
-explicit calculation: 2
 discrete group: 2
 non - logical axiom: 2
-- logical axiom: 2
 logical axiom: 2
 operad action: 2
-lax equivalent: 2
 monoidal n - category: 2
-familiar term: 2
 categorical theory: 2
 free category: 2
 finite sum: 2
-suitable factorization system: 2
 full reflective subcategory: 2
-simple characterization: 2
 flat functor: 2
 universal coefficient: 2
 exponentiable space: 2
@@ -353,22 +283,16 @@ strict natural transformation: 2
 lax monad: 2
 symmetric double category: 2
 discrete opfibration: 2
-formal property: 2
 non - commutative negation: 2
-- commutative negation: 2
-commutative negation: 2
 regular extension: 2
 finitary monad: 2
 local presentability: 2
 contravariant functor: 2
-certain kind: 2
 open subset: 2
-natural definition: 2
 discrete space: 2
 open map: 2
 contravariant powerset functor: 2
 simplicial groupoid: 2
-pointed case: 2
 differential equation: 2
 strange attractor: 2
 varietal case: 2
@@ -376,45 +300,25 @@ integral domain: 2
 surjective homomorphism: 2
 modular variety: 2
 small class: 2
-ordinary category: 2
-cal v}-categorie: 2
 balanced coalgebroid: 2
 balanced monoidal category: 2
-quasi - triangular dual quasi - bialgebra: 2
-- triangular dual quasi - bialgebra: 2
-triangular dual quasi - bialgebra: 2
+quasi - bialgebra: 2
 surjective functor: 2
 relational sum: 2
-proper subcategory: 2
-small coproduct: 2
-new result: 2
-distributive category $ d $: 2
 absolute colimit: 2
 topological hull: 2
 internal characterization: 2
-categorical proof: 2
 small colimit: 2
 reduced branching homology: 2
 topological abelian group: 2
-relevant category: 2
 symmetric simplicial set: 2
-classical one: 2
-globular cardinal: 2
 globular set: 2
-explicit formulae: 2
 sifted colimit: 2
 reflexive coequalizer: 2
-explicit characterization: 2
-classical result: 2
 free group: 2
-right adjoint $ g $: 2
 homotopical exactness: 2
-certain object: 2
-unified proof: 2
 split epimorphism: 2
-first model: 2
 cocomplete category: 2
-certain equaliser: 2
 compact locale: 2
 certain quotient: 2
 new definition: 2
