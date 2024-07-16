@@ -18,7 +18,7 @@ universal property: 21
 full subcategory: 20
 abelian group: 19
 semi - abelian category: 19
-- abelian category: 19
+abelian category: 19
 monoidal bicategory: 18
 universal algebra: 17
 internal category: 17
@@ -100,7 +100,6 @@ cyclic spectrum: 5
 associative algebra: 5
 linear functor: 5
 concrete geometrical category: 5
-abelian: 5
 fundamental groupoid: 5
 combinatorial model category: 5
 forgetful functor: 5
@@ -122,7 +121,7 @@ exact functor: 4
 lax morphism: 4
 simplicial group: 4
 differential form: 4
-* -autonomous category: 4
+*-autonomous category: 4
 fundamental group: 4
 exact protomodular category: 4
 distributive category: 4
@@ -131,7 +130,6 @@ compact space: 4
 lax epimorphism: 4
 equational hull: 4
 open set: 4
-normal monomorphism: 4
 real number: 4
 geometric logic: 4
 exponential principle: 4
@@ -143,17 +141,13 @@ coreflective subcategory: 4
 harmonic oscillator: 4
 categorical crossed module: 4
 unary operation: 4
-explicit description: 4
-closed bicategorie: 4
+closed bicategory: 4
 small quantaloid: 4
 distributive lattice: 4
 weak double category: 4
 direct sum: 4
 lax algebra: 4
-normal category: 4
-arbitrary category: 4
 high dimensional transition system: 4
-dimensional transition system: 4
 adhesive category: 4
 faithful functor: 4
 injective hull: 4
@@ -182,70 +176,34 @@ pointed object: 3
 common generalization: 3
 topological quantum field theory: 3
 weak factorization system: 3
-abelian object: 3
-certain category: 3
 complete category c: 3
-simple description: 3
-simple proof: 3
 algebraic model: 3
 multipresentable category: 3
-original category: 3
-available reference: 3
-important example: 3
-abstract characterization: 3
 strict algebra: 3
 compatible structure: 3
-thin structure: 3
-non - symmetric: 3
-- symmetric: 3
 multiplicative linear logic: 3
 natural number object: 3
 equational category: 3
 discrete object: 3
 finite graph: 3
-extra structure: 3
 dual quasi - bialgebra: 3
-symmetric cat: 3
-categorical sense: 3
-new proof: 3
-conceptual proof: 3
-different category: 3
-concrete functor: 3
 high dimensional automata: 3
-dimensional automata: 3
-thin element: 3
 finite ordinal: 3
-suitable sense: 3
-classical property: 3
-internal structure: 3
-complete spread: 3
-many generator: 3
 free cocompletion: 3
-special kind: 3
-such notion: 3
-new type: 3
 set theory: 3
 dynamical system: 3
 cyclic flow: 3
 projective module: 3
 double groupoid: 3
-recognizable forest: 3
 algebraic lattice: 3
-normal epimorphism: 3
-dimensional category: 3
 globular nerve: 3
 equivariant stable homotopy theory: 3
 stable homotopy theory: 3
-particular case: 3
 linear bicategory: 3
-linear setting: 3
 weak inverse: 3
 monoidal object: 3
-different context: 3
 terminal coalgebra: 3
 iterative algebra: 3
-such monad: 3
-equivalent condition: 3
 global section: 3
 free restriction category: 3
 unital category: 3
@@ -253,7 +211,6 @@ subtractive variety: 3
 exponentiable object: 3
 cartesian closed category: 3
 important result: 3
-same object: 3
 open problem: 3
 categorical approach: 3
 topological cospan: 3
