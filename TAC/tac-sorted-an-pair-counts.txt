@@ -12,30 +12,25 @@ simplicial set: 26
 differential category: 26
 natural transformation: 24
 right adjoint: 23
-special case: 23
 categorical group: 22
 monoidal structure: 21
 universal property: 21
-main result: 20
 full subcategory: 20
 abelian group: 19
 semi - abelian category: 19
 - abelian category: 19
 monoidal bicategory: 18
 universal algebra: 17
-categorical structure: 17
 internal category: 17
 sufficient condition: 16
 cartesian differential category: 16
 geometric morphism: 15
 finite product: 15
 algebraic theory: 15
-algebraic structure: 14
 protomodular category: 14
 differential geometry: 14
 finite limit: 14
 regular epimorphism: 13
-such category: 13
 left adjoint: 13
 presentable category: 13
 metric space: 13
@@ -48,7 +43,6 @@ exact sequence: 11
 commutative ring: 11
 cubical set: 10
 linear logic: 10
-general result: 10
 extensive category: 10
 regular category: 10
 virtual double category: 9
@@ -56,31 +50,21 @@ closed category: 9
 central extension: 9
 monoidal functor: 9
 presheaf category: 9
-several example: 9
 light factorization: 9
 finite group: 8
-full subcategorie: 8
+full subcategory: 8
 finite set: 8
 accessible category: 8
 continuous map: 8
 boolean flow: 8
-explicit construction: 8
-present paper: 8
 fibrant object: 7
 necessary condition: 7
 principal bundle: 7
--autonomous category: 7
-previous work: 7
+*-autonomous category: 7
 lax functor: 7
 finite coproduct: 7
 projective object: 7
-general theory: 7
 algebraic geometry: 7
-weak n: 7
-general notion: 7
-other hand: 7
-new notion: 7
-main theorem: 7
 inverse semigroup: 7
 monoidal model category: 7
 smooth map: 7
@@ -90,21 +74,14 @@ homological algebra: 6
 reflective subcategory: 6
 boolean algebra: 6
 free algebra: 6
-certain condition: 6
 discrete fibration: 6
 continuous function: 6
 terminal object: 6
-first step: 6
 algebraic topology: 6
-such functor: 6
-dimensional structure: 6
-new example: 6
 exactness condition: 6
 geometrical category: 6
 lax extension: 6
 subtractive category: 6
-strict omega: 6
-coherent unit action: 6
 symmetric monoidal bicategory: 6
 representable functor: 6
 idempotent pseudomonad: 6
@@ -115,27 +92,20 @@ elementary topos: 5
 quillen equivalence: 5
 synthetic differential geometry: 5
 strong monoidal functor: 5
-additional structure: 5
-large class: 5
 categorical trace: 5
 normal subobject: 5
 presheaf topos: 5
 precubical set: 5
-analogous result: 5
-categorical model: 5
 cyclic spectrum: 5
 associative algebra: 5
-previous paper: 5
 linear functor: 5
 concrete geometrical category: 5
-- abelian: 5
+abelian: 5
 fundamental groupoid: 5
 combinatorial model category: 5
 forgetful functor: 5
 cokleisli category: 5
-first author: 5
 opmonoidal monad: 5
-independent interest: 5
 bisimplicial set: 5
 partial map category: 5
 categorical action: 5
@@ -143,57 +113,35 @@ spectral space: 5
 universe category: 5
 spectral vector bundle: 5
 split extension: 5
-strict monoidal: 5
 noetherian form: 5
 additive category: 4
 internal equivalence relation: 4
 partial order: 4
-basic theory: 4
 boolean category: 4
-recent work: 4
 exact functor: 4
 lax morphism: 4
-new characterization: 4
 simplicial group: 4
-new one: 4
 differential form: 4
 * -autonomous category: 4
-different notion: 4
 fundamental group: 4
-appropriate notion: 4
-suitable category: 4
-present article: 4
-general category: 4
 exact protomodular category: 4
 distributive category: 4
-natural example: 4
 natural number: 4
-new approach: 4
 compact space: 4
-dimensional analogue: 4
 lax epimorphism: 4
 equational hull: 4
-natural generalization: 4
 open set: 4
 normal monomorphism: 4
-general context: 4
-weak notion: 4
-fundamental category: 4
 real number: 4
 geometric logic: 4
 exponential principle: 4
-various example: 4
 cubical nerve: 4
 high category theory: 4
-categorical property: 4
-categorical semantic: 4
 simplicial object: 4
 reflexive graph: 4
 coreflective subcategory: 4
-new way: 4
 harmonic oscillator: 4
 categorical crossed module: 4
-special attention: 4
 unary operation: 4
 explicit description: 4
 closed bicategorie: 4
@@ -202,8 +150,6 @@ distributive lattice: 4
 weak double category: 4
 direct sum: 4
 lax algebra: 4
-arbitrary morphism: 4
-other approach: 4
 normal category: 4
 arbitrary category: 4
 high dimensional transition system: 4
@@ -216,19 +162,14 @@ complicial set: 4
 complicial identity: 4
 codensity monad: 4
 dimensional vector space: 4
-early work: 4
 finite colimit: 4
-special commutative: 4
 monoidal differential category: 4
 cartesian closed: 4
 exact homological category: 4
-permutable category: 4
 isotropy group: 4
 inductive groupoid: 4
 symmetric strict monoidal: 4
 free double category: 3
-own right: 3
-- fold vector bundle: 3
 fold vector bundle: 3
 rinehart structure: 3
 monoidal abelian category: 3
