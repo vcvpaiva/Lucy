@@ -295,19 +295,15 @@ contravariant powerset functor: 2
 simplicial groupoid: 2
 differential equation: 2
 strange attractor: 2
-varietal case: 2
 integral domain: 2
 surjective homomorphism: 2
-modular variety: 2
-small class: 2
+modular variety
 balanced coalgebroid: 2
 balanced monoidal category: 2
 quasi - bialgebra: 2
 surjective functor: 2
 relational sum: 2
-absolute colimit: 2
 topological hull: 2
-internal characterization: 2
 small colimit: 2
 reduced branching homology: 2
 topological abelian group: 2
@@ -320,116 +316,57 @@ homotopical exactness: 2
 split epimorphism: 2
 cocomplete category: 2
 compact locale: 2
-certain quotient: 2
-new definition: 2
 geometric theory: 2
 flat module: 2
-sided enrichment: 2
 natural isomorphism: 2
-arbitrary base category: 2
-internal locale: 2
 lextensive category: 2
-certain monad: 2
-- fold: 2
 high dimensional structure: 2
-usual notion: 2
 lax natural transformation: 2
-various notion: 2
 partial topos: 2
 local topos: 2
 compact support: 2
 algebraic context: 2
 cubical site: 2
 binary term: 2
-n+1)-ary term: 2
 simplicial nerve: 2
 semi - cubical nerve: 2
-- cubical nerve: 2
-such result: 2
-essential point: 2
-ordinary bicategorie: 2
-linear bicategorie: 2
+linear bicategory: 2
 lax transformation: 2
-dimensional generalization: 2
 3rd cohomology class: 2
-various result: 2
-relevant example: 2
-strict version: 2
 k - fold monoidal: 2
-- fold monoidal: 2
-fold monoidal: 2
-categorical version: 2
--presentable category: 2
 generalized operad: 2
-opetopic approach: 2
 regular epi: 2
 universal construction: 2
 idempotent splitting completion: 2
 normed cubical set: 2
 categorical group g: 2
 small set: 2
--flat weight: 2
 semi - direct product: 2
-- direct product: 2
-direct product: 2
 semi - abelian variety: 2
-- abelian variety: 2
 abelian variety: 2
 binary coproduct: 2
-precise form: 2
 commutative quantale: 2
-suitable hypothesis: 2
-commutative cube: 2
 cartesian monad: 2
-planar polycategorie: 2
+planar polycategory: 2
 compact closed category: 2
-abstract notion: 2
 bipartite projector: 2
-key property: 2
-strong compact closure: 2
 compact closure: 2
-commutative shell: 2
-appropriate set: 2
 strong adjunction: 2
-other model: 2
 additive functor: 2
 epimorphic hull: 2
-recent field: 2
 quillen model category structure: 2
 internal equivalence: 2
 semi - abelian: 2
 strong equivalence: 2
-interesting example: 2
-simple condition: 2
-combinatorial nature: 2
-different approach: 2
-classical notion: 2
 infinite set: 2
-combinatorial specie: 2
-quantum mechanic: 2
-more structure: 2
-non -: 2
+combinatorial species: 2
 connected component: 2
-classical case: 2
-topological object: 2
-suitable subcategory: 2
 indexed category: 2
 natural topology: 2
-categorical level: 2
-dimensional version: 2
-pre - numeral: 2
-- numeral: 2
-simple example: 2
 conformal field theory: 2
-similar result: 2
 thin filler condition: 2
-pure monomorphism: 2
-other way: 2
-underlying bicategory: 2
-various approach: 2
 natural deduction formulation: 2
 classical logic: 2
-intrinsic multiple conclusion: 2
 multiple conclusion: 2
 free * -autonomous category: 2
 collarable cospan: 2
@@ -437,74 +374,30 @@ cubical cospan: 2
 regular operad: 2
 linear equation: 2
 free object: 2
-stable isomorphism: 2
-closed surface: 2
-similar fashion: 2
-extensive quantity: 2
-abstract core: 2
 binary operation: 2
-b(cal g: 2
 pseudonatural transformation: 2
 cartesian bicategory: 2
 recursive equation: 2
-unique solution: 2
-close connection: 2
 multiplicative structure: 2
-mathematical structure: 2
-bicategorical notion: 2
-framed bicategorie: 2
 framed bicategory: 2
 symmetric categorical group: 2
-general theorem: 2
 pseudo - exponentiable object: 2
-- exponentiable object: 2
 dual category: 2
 zeroary operation: 2
 adjunctible map: 2
 internal set: 2
 internal hom: 2
-theoretic model: 2
-future paper: 2
-main purpose: 2
-general case: 2
 local connectedness: 2
 discrete locale: 2
-internal approximate: 2
-suitable condition: 2
-semantic domain: 2
-weak preservation: 2
 finitary functor: 2
 convenient category: 2
-recent paper: 2
-monoidal v: 2
-familiar notion: 2
 differential operator: 2
-basic property: 2
-finite derivation type: 2
-symbolic dynamic: 2
 linear map: 2
 mixed distributive law: 2
 coherent model: 2
-enriched orthogonality: 2
-many case: 2
 fibred category: 2
-absolute cr: 2
-epic space: 2
-open question: 2
-subtractive span: 2
-multiplicative graph: 2
-semiabelian context: 2
 internal crossed module: 2
 double central extension: 2
-monadic approach: 2
-internal family: 2
-final functor: 2
-natural generalisation: 2
-same time: 2
-intrinsic description: 2
-unified framework: 2
-related structure: 2
-generalized multicategorie: 2
 linear operator: 2
 projective geometry: 2
 right action: 2
@@ -512,44 +405,19 @@ temporal doctrine: 2
 free monoid: 2
 strong epimorphism: 2
 transversal homotopy monoid: 2
-high invariant: 2
 transversal homotopy category: 2
 non - negative integer: 2
-- negative integer: 2
 negative integer: 2
 quillen model structure: 2
-new structure: 2
 coherent space: 2
 partial operation: 2
 closed structure: 2
-simplified description: 2
-certain double category: 2
-covariant presheave: 2
-non - commutative: 2
-- commutative: 2
-weak high dimensional transition system: 2
+covariant presheaf: 2
 cubical transition system: 2
-broad sense: 2
-categorical method: 2
 weak homotopy equivalence: 2
-simple formula: 2
-various construction: 2
-abstract framework: 2
-high category: 2
-other kind: 2
-certain type: 2
-lax version: 2
-submultiplicative order: 2
-relative cell complex: 2
-algebraic weak factorisation system: 2
 weak factorisation system: 2
-trivial fibration: 2
-joint paper: 2
-pre - hopf monad: 2
-- hopf monad: 2
 hopf monad: 2
 autonomous comonad: 2
-further application: 2
 dimensional cube: 2
 colax idempotent pseudomonad: 2
 lax idempotent pseudomonad: 2
