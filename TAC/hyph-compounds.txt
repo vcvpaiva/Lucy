@@ -1,3 +1,4 @@
+%% compounds from UD processing
 model structure: 49
 model category: 47
 tensor product: 42
