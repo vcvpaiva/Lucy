@@ -1,3 +1,4 @@
+%% nouns from UD processing, somewhat manually cleaned
 category: 1970
 functor: 398
 structure: 356
