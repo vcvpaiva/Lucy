@@ -1,4 +1,4 @@
-Compounds with more than 5 occurrences:
+%%Compounds in TAC with more than 5 occurrences:
 monoidal category: 86
 double category: 57
 topological space: 42
