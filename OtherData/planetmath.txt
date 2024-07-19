@@ -1,1 +1,8 @@
 PlanetMath github https://github.com/planetmath
+
+According to Joe Corneli, in  "The PlanetMath encyclopedia" 
+(https://www.researchgate.net/publication/229051970_The_PlanetMath_Encyclopedia)
+PM has 8945 entries dealing with 15655 concepts.
+
+PM has also a WIkidata IDentifier P7726
+but a query in WD shows only 815 concepts connected to wikidata.
