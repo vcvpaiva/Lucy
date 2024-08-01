@@ -1,0 +1,9 @@
+Jan Frederik Schaefer has kindly sent this wikidata query
+
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  { ?item wdt:P2579/wdt:P31 wd:Q20026918 . } UNION { ?item wdt:P2579/wdt:P31 wd:Q1936384 . } UNION {  ?item wdt:P279/wdt:P2579/wdt:P31 wd:Q1936384 . } .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  }
+
+which are Q-items in mathematical theories unioned with areas of mathematics.
+This gives us 5109 results in 1940 ms.
