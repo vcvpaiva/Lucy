@@ -1,0 +1,11 @@
+The Encyclopedia of Math https://encyclopediaofmath.org/ 
+The Encyclopedia of Math identifier https://www.wikidata.org/wiki/Property:P7554
+suggests  8,000 records at
+point in time November 2019
+
+the query 
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  ?item wdt:P7554 ?encymath .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  }
+  only produces 942 results
