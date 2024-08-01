@@ -6,3 +6,9 @@ PM has 8945 entries dealing with 15655 concepts.
 
 PM has also a WIkidata IDentifier P7726
 but a query in WD shows only 815 concepts connected to wikidata.
+
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  ?item wdt:P7726 ?planetmath .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  }
+751 results only, some people (Hypatia, Euler)
