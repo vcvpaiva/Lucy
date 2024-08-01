@@ -1,0 +1,15 @@
+1st Aug 2024: The nLab has 19467 pages. Some of these are organised into categories.
+https://ncatlab.org/nlab/all_pages
+
+The nLab identifier https://www.wikidata.org/wiki/Property:P4215 page says 
+number of records
+18,182
+point in time
+10 May 2023
+
+The query 
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  ?item wdt:P4215 ?nlab .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  }
+produces 4271 results, some people
