@@ -1,0 +1,20 @@
+Mathworld entries in Wikidata
+
+Mathworld says in https://mathworld.wolfram.com/      
+
+    13,201 Entries Last Updated: Tue Jul 30 2024 
+
+Wikidata says in https://www.wikidata.org/wiki/Property:P2812
+number of records
+15,347
+point in time
+24 May 2023
+
+SELECT DISTINCT ?item ?itemLabel WHERE {
+  ?item wdt:P2812 ?mathworld .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  }
+
+gives 6402 results in 2110 ms
+
+6402 Qitems in mathworld.csv
