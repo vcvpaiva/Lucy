@@ -10,7 +10,7 @@ The file tac-manual.conllu has an improved version, with manual cleaning of late
 
 The development version of the glossary was on the Definitions in Math (DefsMath) project page.
 
-The project changed to MathGloss and can be seen at https://mathgloss.github.io/MathGloss/database
+The project changed to MathGloss and can be seen at https://mathgloss.github.io/MathGloss/
 
 --------------------
 
