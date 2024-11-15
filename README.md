@@ -17,3 +17,21 @@ The project changed to MathGloss and can be seen at https://mathgloss.github.io/
 Choosing some free open source books and journals for basic Math:
 1. https://math.dartmouth.edu/~prob/prob/prob.pdf (Baez rec)
 2. https://journals.uwyo.edu/index.php/ela/issue/view/271 open source journal for LinAlg?
+3. AIM textbooks 
+
+-------------------------------
+   
+Category Theory Books:
+
+1. Robert Goldblatt’s Topoi (originally published 1979, now a Dover pbk) a particularly helpful entry-point.
+
+2. a step up, Tom Leinster’s short Basic Category Theory (CUP 2014) is indeed basic and is rightly very well-regarded.
+
+3. Emily Riehl’s Category Theory in Context (Dover 2017)
+
+4. Introducing Category Theory, Peter Smith https://www.logicmatters.net/resources/pdfs/SmithCat.pdf
+
+5. Many lecture notes from https://www.logicmatters.net/categories/#lectures and https://www.logicmatters.net/categories/categories-lists/
+
+particularly interesting
+https://math.berkeley.edu/~gbergman/245/3.2.pdf
