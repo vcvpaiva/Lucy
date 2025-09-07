@@ -196,6 +196,98 @@ The Psychopathy Checklist is a psychological tool developed by Robert Hare to as
 Wikidata ID: Q3383560
 
 ---
+Excellent — here’s the **next 15-term batch** of MathGloss entries:
 
-✅ Shall I keep moving in **15-term batches** until your whole list is covered?
+---
 
+**Efficiency**
+In mathematics and related fields, efficiency often measures the ratio of useful output to total input, frequently used in optimization and algorithmic contexts.
+Wikidata ID: Q660848
+
+---
+
+**Unitary representation**
+A unitary representation of a group is a homomorphism into the group of unitary operators on a Hilbert space.
+Wikidata ID: Q1491747
+
+---
+
+**Rhomboid**
+A rhomboid is a parallelogram in which adjacent sides are of unequal lengths and angles are oblique.
+Wikidata ID: Q2092342
+
+---
+
+**Method of undetermined coefficients**
+The method of undetermined coefficients is a technique for finding particular solutions of certain linear differential equations with constant coefficients.
+Wikidata ID: Q1551707
+
+---
+
+**Identity theorem**
+The identity theorem in complex analysis states that if two holomorphic functions agree on a set with a limit point, they are identical everywhere on the connected domain.
+Wikidata ID: Q598431
+
+---
+
+**Carmichael function**
+The Carmichael function $\lambda(n)$ is defined as the smallest positive integer $m$ such that $a^m \equiv 1 \ (\mathrm{mod}\ n)$ for all integers $a$ coprime to $n$.
+Wikidata ID: Q1545028
+
+---
+
+**Central binomial coefficient**
+The central binomial coefficient is $\binom{2n}{n}$, the middle coefficient in the binomial expansion of $(1+x)^{2n}$.
+Wikidata ID: Q1051984
+
+---
+
+**Topological group**
+A topological group is a group equipped with a topology such that the group operations (multiplication and inversion) are continuous.
+Wikidata ID: Q182051
+
+---
+
+**Seven-segment display**
+A seven-segment display is an electronic display device for decimal numerals, consisting of seven segments that can be lit in different combinations.
+Wikidata ID: Q225444
+
+---
+
+**Mangoldt summatory function**
+The Mangoldt summatory function $\psi(x)$ is defined as the sum of the von Mangoldt function over integers up to $x$.
+Wikidata ID: Q3281272
+
+---
+
+**Differential form**
+A differential form is an object that can be integrated over a manifold, generalizing functions and vector fields.
+Wikidata ID: Q750553
+
+---
+
+**Casimir element**
+The Casimir element is a distinguished central element of the universal enveloping algebra of a Lie algebra, constructed from the Killing form.
+Wikidata ID: Q1411800
+
+---
+
+**Coprime integers**
+Two integers are coprime if their greatest common divisor is 1.
+Wikidata ID: Q104752
+
+---
+
+**Algebraically closed field**
+A field is algebraically closed if every non-constant polynomial with coefficients in the field has a root in the field.
+Wikidata ID: Q1320718
+
+---
+
+**Turán's theorem**
+Turán’s theorem gives the maximum number of edges in a graph that does not contain a complete subgraph of a given size.
+Wikidata ID: Q786525
+
+
+
+✅ Want me to continue with the **next 15 entries** (starting from *Essential infimum and essential supremum*)?
