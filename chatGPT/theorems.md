@@ -11,15 +11,20 @@ Wikidata ID: *Q…*
 ---
 
 **Adjoint functors**
-A pair of functors $F : \mathcal{C} \to \mathcal{D}$ and $G : \mathcal{D} \to \mathcal{C}$ are adjoint if there is a natural isomorphism $\mathrm{Hom}_{\mathcal{D}}(F(X),Y) \cong \mathrm{Hom}_{\mathcal{C}}(X,G(Y))$.
+A pair of functors $F : \mathcal{C} \to \mathcal{D}$ and $G : \mathcal{D} \to \mathcal{C}$ are adjoint if there is a natural isomorphism 
+$\mathrm{Hom}_{\mathcal{D}}(F(X),Y) \cong \mathrm{Hom}_{\mathcal{C}}(X,G(Y))$.
+
 Mathematical area: Category theory
+
 Wikidata ID: Q3039896
 
 ---
 
 **Ahlswede–Daykin inequality**
 The Ahlswede–Daykin inequality (four-functions theorem) provides bounds for set functions satisfying log-supermodularity.
+
 Mathematical area: Combinatorics
+
 Wikidata ID: Q4718584
 
 ---
