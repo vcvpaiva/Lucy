@@ -1,9 +1,13 @@
-Excellent idea! Adding the **mathematical area** will make the glossary much more useful. I’ll structure each entry like this:
+We structure each entry like this:
 
 **Name**
+
 *One-sentence definition/statement.*
+
 Mathematical area: *X*
+
 Wikidata ID: *Q…*
+
 ---
 
 **Adjoint functors**
