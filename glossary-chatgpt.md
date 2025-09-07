@@ -289,5 +289,99 @@ Turán’s theorem gives the maximum number of edges in a graph that does not co
 Wikidata ID: Q786525
 
 
+Perfect — here’s the **next 15-term batch** of MathGloss entries:
 
-✅ Want me to continue with the **next 15 entries** (starting from *Essential infimum and essential supremum*)?
+---
+
+**Essential infimum and essential supremum**
+The essential infimum and essential supremum of a measurable function are the greatest lower bound and least upper bound, respectively, ignoring sets of measure zero.
+Wikidata ID: Q5390557
+
+---
+
+**Antiprism**
+An antiprism is a polyhedron formed by two parallel copies of a polygon connected by an alternating band of triangles.
+Wikidata ID: Q621850
+
+---
+
+**Scattered space**
+A scattered space is a topological space in which every nonempty subset has an isolated point.
+Wikidata ID: Q6513749
+
+---
+
+**Multiplicative function**
+A multiplicative function is an arithmetic function $f$ such that $f(mn) = f(m)f(n)$ whenever $m$ and $n$ are coprime.
+Wikidata ID: Q194404
+
+---
+
+**Slice category**
+The slice category $\mathcal{C}/C$ of a category $\mathcal{C}$ over an object $C$ has objects arrows $X \to C$ and morphisms commuting triangles over $C$.
+Wikidata ID: Q7524895
+
+---
+
+**Elliptic Curve Cryptography (ECC)**
+Elliptic Curve Cryptography is a public-key cryptosystem based on the algebraic structure of elliptic curves over finite fields.
+Wikidata ID: Q76935
+
+---
+
+**Cofibration**
+In homotopy theory, a cofibration is a map with the homotopy extension property, playing a role dual to fibrations.
+Wikidata ID: Q5140942
+
+---
+
+**Normal family**
+A normal family of functions is a set of holomorphic functions in which every sequence has a subsequence converging uniformly on compact subsets.
+Wikidata ID: Q1593750
+
+---
+
+**Hypotenuse**
+The hypotenuse is the side of a right-angled triangle opposite the right angle, and the longest side of the triangle.
+Wikidata ID: Q134237
+
+---
+
+**Lebesgue's number lemma**
+Lebesgue’s number lemma states that for every open cover of a compact metric space, there exists a $\delta > 0$ such that every subset of diameter less than $\delta$ is contained in some member of the cover.
+Wikidata ID: Q1834494
+
+---
+
+**Matrix multiplication**
+Matrix multiplication is a binary operation on matrices where the entry in row $i$, column $j$ of the product is the dot product of row $i$ of the first matrix and column $j$ of the second.
+Wikidata ID: Q25340
+
+---
+
+**Maximum modulus principle**
+The maximum modulus principle states that a non-constant holomorphic function attains its maximum modulus only on the boundary of a domain.
+Wikidata ID: Q3058241
+
+---
+
+**Edge coloring**
+An edge coloring of a graph is an assignment of colors to edges so that no two adjacent edges share the same color.
+Wikidata ID: Q534873
+
+---
+
+**Cauchy multiplication**
+Cauchy multiplication is a rule for multiplying two infinite series to obtain the coefficients of the product series.
+Wikidata ID: Q869956
+
+---
+
+**Cyclotomic polynomial**
+The $n$-th cyclotomic polynomial is the minimal polynomial over $\mathbb{Q}$ of a primitive $n$-th root of unity.
+Wikidata ID: Q636889
+
+
+
+✅ Shall I continue with the **next 15 entries** (starting from *Unique factorization domain*)?
+
