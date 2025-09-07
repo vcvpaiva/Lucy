@@ -12,7 +12,7 @@ Wikidata ID: *Q…*
 
 **Adjoint functors**
 A pair of functors $F : \mathcal{C} \to \mathcal{D}$ and $G : \mathcal{D} \to \mathcal{C}$ are adjoint if there is a natural isomorphism 
-$\mathrm{Hom}_{\mathcal{D}}(F(X),Y) \cong \mathrm{Hom}_{\mathcal{C}}(X,G(Y))$.
+$${Hom}_{\mathcal{D}}(F(X),Y) \cong {Hom}_{\mathcal{C}}(X,G(Y))$$
 
 Mathematical area: Category theory
 
