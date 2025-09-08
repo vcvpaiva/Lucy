@@ -21,6 +21,8 @@ Mathematical area: Category theory
 
 Wikidata ID: Q3039896
 
+NOT A THEOREM!
+
 ---
 
 **Ahlswede–Daykin inequality**
